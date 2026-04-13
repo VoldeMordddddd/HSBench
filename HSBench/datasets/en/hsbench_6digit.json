@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "4d_0001",
+    "input": {
+      "text": "Live purebred domestic cattle for breeding"
+    },
+    "label": {
+      "hs2": "01",
+      "hs4": "0102"
+    }
+  },
+  {
+    "id": "4d_0002",
+    "input": {
+      "text": "Endangered Live Pigs Artificially Bred Non-Genetically Modified Under 10kg"
+    },
+    "label": {
+      "hs2": "01",
+      "hs4": "0103"
+    }
+  },
+  {
+    "id": "4d_0003",
+    "input": {
+      "text": "Duck breeding stock live ≤185g"
+    },
+    "label": {
+      "hs2": "01",
+      "hs4": "0105"
+    }
+  },
+  {
+    "id": "4d_0004",
+    "input": {
+      "text": "Live non-endangered Psittaciformes birds for unimproved breeding"
+    },
+    "label": {
+      "hs2": "01",
+      "hs4": "0106"
+    }
+  },
+  {
+    "id": "4d_0005",
+    "input": {
+      "text": "Frozen Bone-In Wild Beef Grass-Fed Trimmed Grade A 10kg/Box Brand WildBeef Plant Code WB12345"
+    },
+    "label": {
+      "hs2": "02",
+      "hs4": "0202"
+    }
+  },
+  {
+    "id": "4d_0006",
+    "input": {
+      "text": "Fresh or Chilled Whole/Half Carcass Lamb 20kg/Box Plant No. ABC123"
+    },
+    "label": {
+      "hs2": "02",
+      "hs4": "0204"
+    }
+  },
+  {
+    "id": "4d_0007",
+    "input": {
+      "text": "Frozen Reptile Meat and Offal for Animal Feed 20kg/Case Plant No. ABC123"
+    },
+    "label": {
+      "hs2": "02",
+      "hs4": "0208"
+    }
+  },
+  {
+    "id": "4d_0008",
+    "input": {
+      "text": "Dried Smoked or Salted Endangered Reptile Meat and Edible Offal Plant Number on Package"
+    },
+    "label": {
+      "hs2": "02",
+      "hs4": "0210"
+    }
+  },
+  {
+    "id": "4d_0009",
+    "input": {
+      "text": "Live Nile Tilapia"
+    },
+    "label": {
+      "hs2": "03",
+      "hs4": "0301"
+    }
+  },
+  {
+    "id": "4d_0010",
+    "input": {
+      "text": "Southern Bluefin Tuna Fresh or Chilled Whole 1–2kg per Fish Unbranded"
+    },
+    "label": {
+      "hs2": "03",
+      "hs4": "0302"
+    }
+  },
+  {
+    "id": "4d_0011",
+    "input": {
+      "text": "Fresh or Chilled Whole Rajiform Fish 1–2kg/pc Imported"
+    },
+    "label": {
+      "hs2": "03",
+      "hs4": "0302"
+    }
+  },
+  {
+    "id": "4d_0012",
+    "input": {
+      "text": "Norwegian lobster seedlings for aquaculture live"
+    },
+    "label": {
+      "hs2": "03",
+      "hs4": "0306"
+    }
+  },
+  {
+    "id": "4d_0013",
+    "input": {
+      "text": "Bovine Colostrum Powder High in Milk Protein and Immunoglobulins"
+    },
+    "label": {
+      "hs2": "04",
+      "hs4": "0404"
+    }
+  },
+  {
+    "id": "4d_0014",
+    "input": {
+      "text": "Anchor Butter 25kg/Case New Zealand Imported Natural Animal Butter"
+    },
+    "label": {
+      "hs2": "04",
+      "hs4": "0405"
+    }
+  },
+  {
+    "id": "4d_0015",
+    "input": {
+      "text": "Processed Cheese Unripened Uncured 1kg/Bag Bright Dairy"
+    },
+    "label": {
+      "hs2": "04",
+      "hs4": "0406"
+    }
+  },
+  {
+    "id": "4d_0016",
+    "input": {
+      "text": "Fresh Duck Eggs Food Grade Unprocessed in Shell"
+    },
+    "label": {
+      "hs2": "04",
+      "hs4": "0407"
+    }
+  },
+  {
+    "id": "4d_0017",
+    "input": {
+      "text": "Endangered Deer Antler Powder Defatted Processed"
+    },
+    "label": {
+      "hs2": "05",
+      "hs4": "0507"
+    }
+  },
+  {
+    "id": "4d_0018",
+    "input": {
+      "text": "Deer antler and its powder non-endangered unprocessed or degreased"
+    },
+    "label": {
+      "hs2": "05",
+      "hs4": "0507"
+    }
+  },
+  {
+    "id": "4d_0019",
+    "input": {
+      "text": "Dried Blister Beetle"
+    },
+    "label": {
+      "hs2": "05",
+      "hs4": "0510"
+    }
+  },
+  {
+    "id": "4d_0020",
+    "input": {
+      "text": "Natural Bezoar"
+    },
+    "label": {
+      "hs2": "05",
+      "hs4": "0510"
+    }
+  },
+  {
+    "id": "4d_0021",
+    "input": {
+      "text": "Silkworm eggs spores"
+    },
+    "label": {
+      "hs2": "05",
+      "hs4": "0511"
+    }
+  },
+  {
+    "id": "4d_0022",
+    "input": {
+      "text": "Dormant Saffron Bulbs Non-Planting"
+    },
+    "label": {
+      "hs2": "06",
+      "hs4": "0601"
+    }
+  },
+  {
+    "id": "4d_0023",
+    "input": {
+      "text": "Cyclamen Bulbs Growing or Flowering Not for Planting"
+    },
+    "label": {
+      "hs2": "06",
+      "hs4": "0601"
+    }
+  },
+  {
+    "id": "4d_0024",
+    "input": {
+      "text": "Orchid seedlings for propagation"
+    },
+    "label": {
+      "hs2": "06",
+      "hs4": "0602"
+    }
+  },
+  {
+    "id": "4d_0025",
+    "input": {
+      "text": "Fresh or Chilled Enoki Mushrooms"
+    },
+    "label": {
+      "hs2": "07",
+      "hs4": "0709"
+    }
+  },
+  {
+    "id": "4d_0026",
+    "input": {
+      "text": "Fresh or Chilled Bitter Melon Non-Branded"
+    },
+    "label": {
+      "hs2": "07",
+      "hs4": "0709"
+    }
+  },
+  {
+    "id": "4d_0027",
+    "input": {
+      "text": "Frozen Sweet Corn Uncooked"
+    },
+    "label": {
+      "hs2": "07",
+      "hs4": "0710"
+    }
+  },
+  {
+    "id": "4d_0028",
+    "input": {
+      "text": "Frozen Shiitake Mushrooms Unbranded"
+    },
+    "label": {
+      "hs2": "07",
+      "hs4": "0710"
+    }
+  },
+  {
+    "id": "4d_0029",
+    "input": {
+      "text": "Frozen Shelled and Peeled Korean Pine Nuts"
+    },
+    "label": {
+      "hs2": "08",
+      "hs4": "0811"
+    }
+  },
+  {
+    "id": "4d_0030",
+    "input": {
+      "text": "Cumin Seeds Whole Unbranded"
+    },
+    "label": {
+      "hs2": "09",
+      "hs4": "0909"
+    }
+  },
+  {
+    "id": "4d_0031",
+    "input": {
+      "text": "Mixed Seasoning Spices Chili Pepper Sichuan Pepper Star Anise"
+    },
+    "label": {
+      "hs2": "09",
+      "hs4": "0910"
+    }
+  },
+  {
+    "id": "4d_0032",
+    "input": {
+      "text": "Durum wheat seed spring variety"
+    },
+    "label": {
+      "hs2": "10",
+      "hs4": "1001"
+    }
+  },
+  {
+    "id": "4d_0033",
+    "input": {
+      "text": "Malteurop Imported Barley for Beer"
+    },
+    "label": {
+      "hs2": "10",
+      "hs4": "1003"
+    }
+  },
+  {
+    "id": "4d_0034",
+    "input": {
+      "text": "In-quota corn grits and coarse powder unbranded corn grits and coarse powder"
+    },
+    "label": {
+      "hs2": "11",
+      "hs4": "1103"
+    }
+  },
+  {
+    "id": "4d_0035",
+    "input": {
+      "text": "Rolled Oat Groats Food Grade"
+    },
+    "label": {
+      "hs2": "11",
+      "hs4": "1104"
+    }
+  },
+  {
+    "id": "4d_0036",
+    "input": {
+      "text": "Rolled Flaked Ground Domestic Corn"
+    },
+    "label": {
+      "hs2": "11",
+      "hs4": "1104"
+    }
+  },
+  {
+    "id": "4d_0037",
+    "input": {
+      "text": "Unroasted Malt Unbranded"
+    },
+    "label": {
+      "hs2": "11",
+      "hs4": "1107"
+    }
+  },
+  {
+    "id": "4d_0038",
+    "input": {
+      "text": "Cassava Starch Unbranded Food Grade"
+    },
+    "label": {
+      "hs2": "11",
+      "hs4": "1108"
+    }
+  },
+  {
+    "id": "4d_0039",
+    "input": {
+      "text": "Dried Coconut Meat for Oil Extraction Unbranded"
+    },
+    "label": {
+      "hs2": "12",
+      "hs4": "1203"
+    }
+  },
+  {
+    "id": "4d_0040",
+    "input": {
+      "text": "Sugar Beet Seeds for Planting Non-GMO Not for Sugar Production"
+    },
+    "label": {
+      "hs2": "12",
+      "hs4": "1209"
+    }
+  },
+  {
+    "id": "4d_0041",
+    "input": {
+      "text": "Dried Coca Leaves for Pesticide and Fungicide Use"
+    },
+    "label": {
+      "hs2": "12",
+      "hs4": "1211"
+    }
+  },
+  {
+    "id": "4d_0042",
+    "input": {
+      "text": "Dried poppy stems for insecticide and fungicide use"
+    },
+    "label": {
+      "hs2": "12",
+      "hs4": "1211"
+    }
+  },
+  {
+    "id": "4d_0043",
+    "input": {
+      "text": "Fresh Medicinal Codonopsis"
+    },
+    "label": {
+      "hs2": "12",
+      "hs4": "1211"
+    }
+  },
+  {
+    "id": "4d_0044",
+    "input": {
+      "text": "Arabic Gum for Food Industry"
+    },
+    "label": {
+      "hs2": "13",
+      "hs4": "1301"
+    }
+  },
+  {
+    "id": "4d_0045",
+    "input": {
+      "text": "Licorice Extract Pharmaceutical Grade"
+    },
+    "label": {
+      "hs2": "13",
+      "hs4": "1302"
+    }
+  },
+  {
+    "id": "4d_0046",
+    "input": {
+      "text": "Hop Extract 35% Alpha Acids for Brewing"
+    },
+    "label": {
+      "hs2": "13",
+      "hs4": "1302"
+    }
+  },
+  {
+    "id": "4d_0047",
+    "input": {
+      "text": "Yellow Gentian Extract"
+    },
+    "label": {
+      "hs2": "13",
+      "hs4": "1302"
+    }
+  },
+  {
+    "id": "4d_0048",
+    "input": {
+      "text": "Bamboo Weaving Material"
+    },
+    "label": {
+      "hs2": "14",
+      "hs4": "1401"
+    }
+  },
+  {
+    "id": "4d_0049",
+    "input": {
+      "text": "Yellow Rattan Peeled for Weaving Diameter 3-5cm Length 2-3m Endangered"
+    },
+    "label": {
+      "hs2": "14",
+      "hs4": "1401"
+    }
+  },
+  {
+    "id": "4d_0050",
+    "input": {
+      "text": "Reed peeled bleached for weaving"
+    },
+    "label": {
+      "hs2": "14",
+      "hs4": "1401"
+    }
+  },
+  {
+    "id": "4d_0051",
+    "input": {
+      "text": "Cotton linters fiber length ≤12mm for reprocessing"
+    },
+    "label": {
+      "hs2": "14",
+      "hs4": "1404"
+    }
+  },
+  {
+    "id": "4d_0052",
+    "input": {
+      "text": "Vegetable Tanning and Dyeing Materials for Textiles and Leather"
+    },
+    "label": {
+      "hs2": "14",
+      "hs4": "1404"
+    }
+  },
+  {
+    "id": "4d_0053",
+    "input": {
+      "text": "Crude Peanut Oil Unmodified Food Grade"
+    },
+    "label": {
+      "hs2": "15",
+      "hs4": "1508"
+    }
+  },
+  {
+    "id": "4d_0054",
+    "input": {
+      "text": "Virgin Coconut Oil Unmodified Food Grade"
+    },
+    "label": {
+      "hs2": "15",
+      "hs4": "1513"
+    }
+  },
+  {
+    "id": "4d_0055",
+    "input": {
+      "text": "Virgin Flaxseed Oil Food Grade Unmodified"
+    },
+    "label": {
+      "hs2": "15",
+      "hs4": "1515"
+    }
+  },
+  {
+    "id": "4d_0056",
+    "input": {
+      "text": "Microbial Oil Fully or Partially Hydrogenated for Industrial Use"
+    },
+    "label": {
+      "hs2": "15",
+      "hs4": "1516"
+    }
+  },
+  {
+    "id": "4d_0057",
+    "input": {
+      "text": "Cetyl Alcohol Cosmetic Grade"
+    },
+    "label": {
+      "hs2": "15",
+      "hs4": "1521"
+    }
+  },
+  {
+    "id": "4d_0058",
+    "input": {
+      "text": "Babirusa and Pygmy Hog Hind Leg Meat Cooked Vacuum Packed 5kg Brand ZHENGLONG"
+    },
+    "label": {
+      "hs2": "16",
+      "hs4": "1602"
+    }
+  },
+  {
+    "id": "4d_0059",
+    "input": {
+      "text": "Canned Endangered Wild Beef 80% Content 500g Metal Can WildSource Brand"
+    },
+    "label": {
+      "hs2": "16",
+      "hs4": "1602"
+    }
+  },
+  {
+    "id": "4d_0060",
+    "input": {
+      "text": "Roasted Tuna/Bonito/Striped Bonito Meat Preserved Non-Minced Vacuum Packed 500g OceanFresh"
+    },
+    "label": {
+      "hs2": "16",
+      "hs4": "1604"
+    }
+  },
+  {
+    "id": "4d_0061",
+    "input": {
+      "text": "Frozen Minced Sturgeon Caviar Substitute 1 kg×10/carton Red Flower Brand"
+    },
+    "label": {
+      "hs2": "16",
+      "hs4": "1604"
+    }
+  },
+  {
+    "id": "4d_0062",
+    "input": {
+      "text": "Frozen Cooked Shelled Crab Meat Non-Retail Vacuum Packed 10kg Carton Imported"
+    },
+    "label": {
+      "hs2": "16",
+      "hs4": "1605"
+    }
+  },
+  {
+    "id": "4d_0063",
+    "input": {
+      "text": "Beet Raw Sugar Unscented Uncolored Optical Rotation <99.5° Within Quota"
+    },
+    "label": {
+      "hs2": "17",
+      "hs4": "1701"
+    }
+  },
+  {
+    "id": "4d_0064",
+    "input": {
+      "text": "Beet Raw Sugar Unscented Uncolored Optical Rotation <99.5° Out-of-quota"
+    },
+    "label": {
+      "hs2": "17",
+      "hs4": "1701"
+    }
+  },
+  {
+    "id": "4d_0065",
+    "input": {
+      "text": "Vacuum-packed ≥99% Flavored and Colored Cane Sugar XX Brand"
+    },
+    "label": {
+      "hs2": "17",
+      "hs4": "1701"
+    }
+  },
+  {
+    "id": "4d_0066",
+    "input": {
+      "text": "Soft White Sugar 100% Sucrose In-Quota"
+    },
+    "label": {
+      "hs2": "17",
+      "hs4": "1701"
+    }
+  },
+  {
+    "id": "4d_0067",
+    "input": {
+      "text": "Maple Sugar and Maple Syrup 10kg Drum Domestic (Canadian Origin)"
+    },
+    "label": {
+      "hs2": "17",
+      "hs4": "1702"
+    }
+  },
+  {
+    "id": "4d_0068",
+    "input": {
+      "text": "Cocoa Beans Raw or Roasted for Food Processing"
+    },
+    "label": {
+      "hs2": "18",
+      "hs4": "1801"
+    }
+  },
+  {
+    "id": "4d_0069",
+    "input": {
+      "text": "Non-defatted cocoa mass for industrial processing"
+    },
+    "label": {
+      "hs2": "18",
+      "hs4": "1803"
+    }
+  },
+  {
+    "id": "4d_0070",
+    "input": {
+      "text": "Cocoa Mass Fully or Partially Defatted Food Grade"
+    },
+    "label": {
+      "hs2": "18",
+      "hs4": "1803"
+    }
+  },
+  {
+    "id": "4d_0071",
+    "input": {
+      "text": "Cocoa Butter for Chocolate Processing"
+    },
+    "label": {
+      "hs2": "18",
+      "hs4": "1804"
+    }
+  },
+  {
+    "id": "4d_0072",
+    "input": {
+      "text": "Special Medical Purpose Infant Formula for Preterm/Low Birth Weight Infants 0-12 Months 200g Nutricia"
+    },
+    "label": {
+      "hs2": "19",
+      "hs4": "1901"
+    }
+  },
+  {
+    "id": "4d_0073",
+    "input": {
+      "text": "Bakery Bread and Pastry Mix with Less Than 40% Fat-Free Cocoa Powder 2kg Plastic Bag"
+    },
+    "label": {
+      "hs2": "19",
+      "hs4": "1901"
+    }
+  },
+  {
+    "id": "4d_0074",
+    "input": {
+      "text": "Instant Noodles 85% Wheat Flour 6% Palm Oil Vacuum Packed 100g Kangshifu"
+    },
+    "label": {
+      "hs2": "19",
+      "hs4": "1902"
+    }
+  },
+  {
+    "id": "4d_0075",
+    "input": {
+      "text": "Sweet Biscuits 60% Wheat Flour 30% Sugar 1kg×10 Bags Orion Brand"
+    },
+    "label": {
+      "hs2": "19",
+      "hs4": "1905"
+    }
+  },
+  {
+    "id": "4d_0076",
+    "input": {
+      "text": "Oreo Lemon Sandwich Cookies"
+    },
+    "label": {
+      "hs2": "19",
+      "hs4": "1905"
+    }
+  },
+  {
+    "id": "4d_0077",
+    "input": {
+      "text": "ABC Brand Wafers 60% Wheat Flour 20% Sugar 1kg×10 Bags per Carton"
+    },
+    "label": {
+      "hs2": "19",
+      "hs4": "1905"
+    }
+  },
+  {
+    "id": "4d_0078",
+    "input": {
+      "text": "Homogenized Carrot Puree Infant Supplement WaKODO"
+    },
+    "label": {
+      "hs2": "20",
+      "hs4": "2005"
+    }
+  },
+  {
+    "id": "4d_0079",
+    "input": {
+      "text": "Ground Garlic Non-Vinegar Vacuum Packed 20kg Zhenwei Brand"
+    },
+    "label": {
+      "hs2": "20",
+      "hs4": "2005"
+    }
+  },
+  {
+    "id": "4d_0080",
+    "input": {
+      "text": "Three Squirrels Nuts"
+    },
+    "label": {
+      "hs2": "20",
+      "hs4": "2008"
+    }
+  },
+  {
+    "id": "4d_0081",
+    "input": {
+      "text": "Nestle Ready-to-Drink Mocha 268ml"
+    },
+    "label": {
+      "hs2": "21",
+      "hs4": "2101"
+    }
+  },
+  {
+    "id": "4d_0082",
+    "input": {
+      "text": "Soy Sauce Retail Pack 500ml×24 Bottles/Carton Lee Kum Kee Brand"
+    },
+    "label": {
+      "hs2": "21",
+      "hs4": "2103"
+    }
+  },
+  {
+    "id": "4d_0083",
+    "input": {
+      "text": "Haitian Light Soy Sauce 500ml"
+    },
+    "label": {
+      "hs2": "21",
+      "hs4": "2103"
+    }
+  },
+  {
+    "id": "4d_0084",
+    "input": {
+      "text": "Monosodium Glutamate ≥99% 25kg/bag Lotus Brand"
+    },
+    "label": {
+      "hs2": "21",
+      "hs4": "2103"
+    }
+  },
+  {
+    "id": "4d_0085",
+    "input": {
+      "text": "Laoganma Fermented Black Bean Sauce"
+    },
+    "label": {
+      "hs2": "21",
+      "hs4": "2103"
+    }
+  },
+  {
+    "id": "4d_0086",
+    "input": {
+      "text": "Vanilla Ice Cream Sandwich LOTTE 160ml"
+    },
+    "label": {
+      "hs2": "21",
+      "hs4": "2105"
+    }
+  },
+  {
+    "id": "4d_0087",
+    "input": {
+      "text": "Sugarcane Syrup Solution with Flavor and Color 70% Sugar 25kg/ail XYZ Brand"
+    },
+    "label": {
+      "hs2": "21",
+      "hs4": "2106"
+    }
+  },
+  {
+    "id": "4d_0088",
+    "input": {
+      "text": "Cestbon 500ml"
+    },
+    "label": {
+      "hs2": "22",
+      "hs4": "2201"
+    }
+  },
+  {
+    "id": "4d_0089",
+    "input": {
+      "text": "Coca-Cola Zero Sugar 300ml"
+    },
+    "label": {
+      "hs2": "22",
+      "hs4": "2202"
+    }
+  },
+  {
+    "id": "4d_0090",
+    "input": {
+      "text": "Red Bull Vitamin Drink 250ml"
+    },
+    "label": {
+      "hs2": "22",
+      "hs4": "2202"
+    }
+  },
+  {
+    "id": "4d_0091",
+    "input": {
+      "text": "Bulk Non-Alcoholic Beer Containing Endangered Flora and Fauna Components 1000L/Drum"
+    },
+    "label": {
+      "hs2": "22",
+      "hs4": "2202"
+    }
+  },
+  {
+    "id": "4d_0092",
+    "input": {
+      "text": "Budweiser Malt Beer 5.0%vol 10.0°P 500ml×24"
+    },
+    "label": {
+      "hs2": "22",
+      "hs4": "2203"
+    }
+  },
+  {
+    "id": "4d_0093",
+    "input": {
+      "text": "Denatured Ethanol 95% Industrial Grade"
+    },
+    "label": {
+      "hs2": "22",
+      "hs4": "2207"
+    }
+  },
+  {
+    "id": "4d_0094",
+    "input": {
+      "text": "Unmodified Ethanol Grain-Based 75%vol 1000L/Drum"
+    },
+    "label": {
+      "hs2": "22",
+      "hs4": "2208"
+    }
+  },
+  {
+    "id": "4d_0095",
+    "input": {
+      "text": "Tuber Distillate Containing Endangered Species Ingredients XX%vol Bottled"
+    },
+    "label": {
+      "hs2": "22",
+      "hs4": "2208"
+    }
+  },
+  {
+    "id": "4d_0096",
+    "input": {
+      "text": "Residue powder not for human consumption"
+    },
+    "label": {
+      "hs2": "23",
+      "hs4": "2301"
+    }
+  },
+  {
+    "id": "4d_0097",
+    "input": {
+      "text": "Meat and bone meal containing cattle and sheep ingredients not for human consumption powder form"
+    },
+    "label": {
+      "hs2": "23",
+      "hs4": "2301"
+    }
+  },
+  {
+    "id": "4d_0098",
+    "input": {
+      "text": "Soybean Oil Residue Cake for Feed Use"
+    },
+    "label": {
+      "hs2": "23",
+      "hs4": "2304"
+    }
+  },
+  {
+    "id": "4d_0099",
+    "input": {
+      "text": "Prepared Dog Food with 30% Pork and 20% Chicken 400g Can Purina"
+    },
+    "label": {
+      "hs2": "23",
+      "hs4": "2309"
+    }
+  },
+  {
+    "id": "4d_0100",
+    "input": {
+      "text": "Additive Premix Feed Active Substance and Carrier Blend Bagged"
+    },
+    "label": {
+      "hs2": "23",
+      "hs4": "2309"
+    }
+  },
+  {
+    "id": "4d_0101",
+    "input": {
+      "text": "Flue-cured tobacco leaves with stems intact"
+    },
+    "label": {
+      "hs2": "24",
+      "hs4": "2401"
+    }
+  },
+  {
+    "id": "4d_0102",
+    "input": {
+      "text": "Stemmed or Unstemmed Flue-Cured Tobacco Leaf"
+    },
+    "label": {
+      "hs2": "24",
+      "hs4": "2401"
+    }
+  },
+  {
+    "id": "4d_0103",
+    "input": {
+      "text": "Tobacco Substitute Cigarettes Standard Series"
+    },
+    "label": {
+      "hs2": "24",
+      "hs4": "2402"
+    }
+  },
+  {
+    "id": "4d_0104",
+    "input": {
+      "text": "Non-Combustible Tobacco Substitute Plant-Based Nicotine Alternative Cool Mint"
+    },
+    "label": {
+      "hs2": "24",
+      "hs4": "2404"
+    }
+  },
+  {
+    "id": "4d_0105",
+    "input": {
+      "text": "ZYN Fresh Cool Nicotine Pouch Containing Endangered Species Ingredients"
+    },
+    "label": {
+      "hs2": "24",
+      "hs4": "2404"
+    }
+  },
+  {
+    "id": "4d_0106",
+    "input": {
+      "text": "Edible Salt NaCl≥99% 1kg/bag 25kg/carton"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2501"
+    }
+  },
+  {
+    "id": "4d_0107",
+    "input": {
+      "text": "Spheroidal Graphite Powder ≥99% ≤120μm"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2504"
+    }
+  },
+  {
+    "id": "4d_0108",
+    "input": {
+      "text": "Fluorspar Calcium Fluoride >97% Arsenic <0.0005% White Lumps"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2529"
+    }
+  },
+  {
+    "id": "4d_0109",
+    "input": {
+      "text": "Wollastonite Powder Crushed and Ground SiO₂ 48% CaO 42% Industrial Grade"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2530"
+    }
+  },
+  {
+    "id": "4d_0110",
+    "input": {
+      "text": "Cobalt Ore and Concentrate Co18% Cu5% Ni3% for Smelting Likasi Mine DRC"
+    },
+    "label": {
+      "hs2": "26",
+      "hs4": "2605"
+    }
+  },
+  {
+    "id": "4d_0111",
+    "input": {
+      "text": "Tungsten Ore and Concentrate 65% WO₃"
+    },
+    "label": {
+      "hs2": "26",
+      "hs4": "2611"
+    }
+  },
+  {
+    "id": "4d_0112",
+    "input": {
+      "text": "Thorium Ore and Concentrates ThO₂ [A]% by Gravity and Flotation Processing"
+    },
+    "label": {
+      "hs2": "26",
+      "hs4": "2612"
+    }
+  },
+  {
+    "id": "4d_0113",
+    "input": {
+      "text": "Niobium Tantalum Vanadium Ores and Concentrates"
+    },
+    "label": {
+      "hs2": "26",
+      "hs4": "2615"
+    }
+  },
+  {
+    "id": "4d_0114",
+    "input": {
+      "text": "Antimony Slag Powder for Smelting Recovery"
+    },
+    "label": {
+      "hs2": "26",
+      "hs4": "2620"
+    }
+  },
+  {
+    "id": "4d_0115",
+    "input": {
+      "text": "PCB PBB Waste Oil for Industrial Equipment Recycling"
+    },
+    "label": {
+      "hs2": "27",
+      "hs4": "2710"
+    }
+  },
+  {
+    "id": "4d_0116",
+    "input": {
+      "text": "LNG CH₄≥90% Cryogenic Pressurized Transport"
+    },
+    "label": {
+      "hs2": "27",
+      "hs4": "2711"
+    }
+  },
+  {
+    "id": "4d_0117",
+    "input": {
+      "text": "Uncalcined sponge coke sulfur <3% fuel grade"
+    },
+    "label": {
+      "hs2": "27",
+      "hs4": "2713"
+    }
+  },
+  {
+    "id": "4d_0118",
+    "input": {
+      "text": "Petroleum Asphalt Penetration 70 for Road Construction"
+    },
+    "label": {
+      "hs2": "27",
+      "hs4": "2713"
+    }
+  },
+  {
+    "id": "4d_0119",
+    "input": {
+      "text": "Oil Shale for Shale Oil Extraction"
+    },
+    "label": {
+      "hs2": "27",
+      "hs4": "2714"
+    }
+  },
+  {
+    "id": "4d_0120",
+    "input": {
+      "text": "Xenon 99.999% purity non-retail packaging"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2804"
+    }
+  },
+  {
+    "id": "4d_0121",
+    "input": {
+      "text": "Selenium-doped crystal rod for electronics 100g"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2804"
+    }
+  },
+  {
+    "id": "4d_0122",
+    "input": {
+      "text": "Phosphorus trichloride 99% min industrial grade"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2812"
+    }
+  },
+  {
+    "id": "4d_0123",
+    "input": {
+      "text": "PCl2 99% Industrial Chemical Raw Material"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2812"
+    }
+  },
+  {
+    "id": "4d_0124",
+    "input": {
+      "text": "Calcium Carbide CaC₂≥98% Lumps for Metal Cutting and Welding Particle Size <1mm"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2849"
+    }
+  },
+  {
+    "id": "4d_0125",
+    "input": {
+      "text": "Freon 12B1"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2903"
+    }
+  },
+  {
+    "id": "4d_0126",
+    "input": {
+      "text": "Lindane/α-β-HCH Mixture 99% Insecticide Grade"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2903"
+    }
+  },
+  {
+    "id": "4d_0127",
+    "input": {
+      "text": "Glyoxal 99% for Organic Synthesis"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2912"
+    }
+  },
+  {
+    "id": "4d_0128",
+    "input": {
+      "text": "Lysergic acid diethylamide hydrochloride research grade 100% purity"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2939"
+    }
+  },
+  {
+    "id": "4d_0129",
+    "input": {
+      "text": "Penicillin G Sodium API"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2941"
+    }
+  },
+  {
+    "id": "4d_0130",
+    "input": {
+      "text": "Propoxyphene-containing pharmaceutical compound preparations prescription drugs"
+    },
+    "label": {
+      "hs2": "30",
+      "hs4": "3004"
+    }
+  },
+  {
+    "id": "4d_0131",
+    "input": {
+      "text": "Raw Guano Fertilizer Bulk"
+    },
+    "label": {
+      "hs2": "31",
+      "hs4": "3101"
+    }
+  },
+  {
+    "id": "4d_0132",
+    "input": {
+      "text": "Sodium Nitrate Industrial Grade NaNO₃≥99% 25kg/Bag"
+    },
+    "label": {
+      "hs2": "31",
+      "hs4": "3102"
+    }
+  },
+  {
+    "id": "4d_0133",
+    "input": {
+      "text": "Calcium Cyanamide 70% CaCN₂ 50% N 25kg Bag"
+    },
+    "label": {
+      "hs2": "31",
+      "hs4": "3102"
+    }
+  },
+  {
+    "id": "4d_0134",
+    "input": {
+      "text": "NPK Compound Fertilizer 15-15-25kg Bag Quota Sinochem"
+    },
+    "label": {
+      "hs2": "31",
+      "hs4": "3105"
+    }
+  },
+  {
+    "id": "4d_0135",
+    "input": {
+      "text": "Diammonium Phosphate N18% P46% Within Quota 50kg/Bag Yuntianhua"
+    },
+    "label": {
+      "hs2": "31",
+      "hs4": "3105"
+    }
+  },
+  {
+    "id": "4d_0136",
+    "input": {
+      "text": "Quebracho Extract Dye Auxiliary Solvent Extracted Brand QUEBRACHO"
+    },
+    "label": {
+      "hs2": "32",
+      "hs4": "3201"
+    }
+  },
+  {
+    "id": "4d_0137",
+    "input": {
+      "text": "Plant-Derived Endangered Colorant for Textile Dyeing 25kg/Drum Natural Color Brand"
+    },
+    "label": {
+      "hs2": "32",
+      "hs4": "3203"
+    }
+  },
+  {
+    "id": "4d_0138",
+    "input": {
+      "text": "Pigment Dispersion for Color Photoresist 20kg/ail TOK PDL-CR2000"
+    },
+    "label": {
+      "hs2": "32",
+      "hs4": "3204"
+    }
+  },
+  {
+    "id": "4d_0139",
+    "input": {
+      "text": "Biological Stain/Indicator for Microscope Samples 1g/vial DAKO Brand"
+    },
+    "label": {
+      "hs2": "32",
+      "hs4": "3204"
+    }
+  },
+  {
+    "id": "4d_0140",
+    "input": {
+      "text": "Anti-reflective Coating for Integrated Circuits VOC>700g/L N1–2.1 K0–1"
+    },
+    "label": {
+      "hs2": "32",
+      "hs4": "3208"
+    }
+  },
+  {
+    "id": "4d_0141",
+    "input": {
+      "text": "Eye Cosmetics Containing Endangered Species Ingredients Weight-Labeled Packaging"
+    },
+    "label": {
+      "hs2": "33",
+      "hs4": "3304"
+    }
+  },
+  {
+    "id": "4d_0142",
+    "input": {
+      "text": "Eye cosmetics containing endangered species ingredients with volume-marked packaging"
+    },
+    "label": {
+      "hs2": "33",
+      "hs4": "3304"
+    }
+  },
+  {
+    "id": "4d_0143",
+    "input": {
+      "text": "Dove Nourishing Cream"
+    },
+    "label": {
+      "hs2": "33",
+      "hs4": "3304"
+    }
+  },
+  {
+    "id": "4d_0144",
+    "input": {
+      "text": "Lancôme Sheet Masks with Endangered Ingredients 50pcs"
+    },
+    "label": {
+      "hs2": "33",
+      "hs4": "3304"
+    }
+  },
+  {
+    "id": "4d_0145",
+    "input": {
+      "text": "Head & Shoulders"
+    },
+    "label": {
+      "hs2": "33",
+      "hs4": "3305"
+    }
+  },
+  {
+    "id": "4d_0146",
+    "input": {
+      "text": "Hair Perming Agent 200ml AMOS"
+    },
+    "label": {
+      "hs2": "33",
+      "hs4": "3305"
+    }
+  },
+  {
+    "id": "4d_0147",
+    "input": {
+      "text": "Hair Styling Agent 250ml/bottle 12 bottles/case"
+    },
+    "label": {
+      "hs2": "33",
+      "hs4": "3305"
+    }
+  },
+  {
+    "id": "4d_0148",
+    "input": {
+      "text": "Colgate"
+    },
+    "label": {
+      "hs2": "33",
+      "hs4": "3306"
+    }
+  },
+  {
+    "id": "4d_0149",
+    "input": {
+      "text": "Mercury-containing skin lightening soap bar 100g/box LIGHTME"
+    },
+    "label": {
+      "hs2": "34",
+      "hs4": "3401"
+    }
+  },
+  {
+    "id": "4d_0150",
+    "input": {
+      "text": "Cationic Surfactant Quaternary Ammonium Salt Textile Auxiliary BASF"
+    },
+    "label": {
+      "hs2": "34",
+      "hs4": "3402"
+    }
+  },
+  {
+    "id": "4d_0151",
+    "input": {
+      "text": "Blue Moon Deep Clean Laundry Detergent"
+    },
+    "label": {
+      "hs2": "34",
+      "hs4": "3402"
+    }
+  },
+  {
+    "id": "4d_0152",
+    "input": {
+      "text": "Polyethylene Glycol Wax PEG-1500 Industrial Lubricant Additive"
+    },
+    "label": {
+      "hs2": "34",
+      "hs4": "3404"
+    }
+  },
+  {
+    "id": "4d_0153",
+    "input": {
+      "text": "Chlorinated Paraffin SCCP Industrial Grade C10-C13 45%"
+    },
+    "label": {
+      "hs2": "34",
+      "hs4": "3404"
+    }
+  },
+  {
+    "id": "4d_0154",
+    "input": {
+      "text": "Candle containing endangered animal fat WILDLIFE CANDLE"
+    },
+    "label": {
+      "hs2": "34",
+      "hs4": "3406"
+    }
+  },
+  {
+    "id": "4d_0155",
+    "input": {
+      "text": "Casein Food Additive 25kg/Bag"
+    },
+    "label": {
+      "hs2": "35",
+      "hs4": "3501"
+    }
+  },
+  {
+    "id": "4d_0156",
+    "input": {
+      "text": "Peptone for Microbial Culture 500g/bottle"
+    },
+    "label": {
+      "hs2": "35",
+      "hs4": "3504"
+    }
+  },
+  {
+    "id": "4d_0157",
+    "input": {
+      "text": "Industrial Epoxy Resin Adhesive 60% Epoxy 40% Hardener 20kg/ucket HENKEL"
+    },
+    "label": {
+      "hs2": "35",
+      "hs4": "3506"
+    }
+  },
+  {
+    "id": "4d_0158",
+    "input": {
+      "text": "Crude Rennet for Cheese Processing"
+    },
+    "label": {
+      "hs2": "35",
+      "hs4": "3507"
+    }
+  },
+  {
+    "id": "4d_0159",
+    "input": {
+      "text": "Alkaline Lipase for Industrial Oil and Fat Hydrolysis Non-GMO"
+    },
+    "label": {
+      "hs2": "35",
+      "hs4": "3507"
+    }
+  },
+  {
+    "id": "4d_0160",
+    "input": {
+      "text": "Molded Composite Propellant with Nitrate Binder and >5% Aluminum Powder"
+    },
+    "label": {
+      "hs2": "36",
+      "hs4": "3601"
+    }
+  },
+  {
+    "id": "4d_0161",
+    "input": {
+      "text": "Detonating Cord with PETN Core"
+    },
+    "label": {
+      "hs2": "36",
+      "hs4": "3603"
+    }
+  },
+  {
+    "id": "4d_0162",
+    "input": {
+      "text": "Blasting Device Explosive Detonator Ignition"
+    },
+    "label": {
+      "hs2": "36",
+      "hs4": "3603"
+    }
+  },
+  {
+    "id": "4d_0163",
+    "input": {
+      "text": "Electric Detonator"
+    },
+    "label": {
+      "hs2": "36",
+      "hs4": "3603"
+    }
+  },
+  {
+    "id": "4d_0164",
+    "input": {
+      "text": "Civilian Fireworks and Firecrackers"
+    },
+    "label": {
+      "hs2": "36",
+      "hs4": "3604"
+    }
+  },
+  {
+    "id": "4d_0165",
+    "input": {
+      "text": "Instant Color Photo Sensitive Roll Film ≤105mm 50m/Roll Brand Polaroid"
+    },
+    "label": {
+      "hs2": "37",
+      "hs4": "3702"
+    }
+  },
+  {
+    "id": "4d_0166",
+    "input": {
+      "text": "DuPont Riston Dry Film Photoresist for PCB"
+    },
+    "label": {
+      "hs2": "37",
+      "hs4": "3702"
+    }
+  },
+  {
+    "id": "4d_0167",
+    "input": {
+      "text": "Unexposed color motion picture film 70mm×500m roll Kodak brand"
+    },
+    "label": {
+      "hs2": "37",
+      "hs4": "3702"
+    }
+  },
+  {
+    "id": "4d_0168",
+    "input": {
+      "text": "Educational Slides Containing Human Genetic Information Exposed and Developed"
+    },
+    "label": {
+      "hs2": "37",
+      "hs4": "3705"
+    }
+  },
+  {
+    "id": "4d_0169",
+    "input": {
+      "text": "Photosensitive Emulsion Silver-Free for Printing Platemaking 20L/Drum Brand Kodak"
+    },
+    "label": {
+      "hs2": "37",
+      "hs4": "3707"
+    }
+  },
+  {
+    "id": "4d_0170",
+    "input": {
+      "text": "High-Purity >99.9% High-Strength >30 MPa High-Density >1.73 g/cm³ Graphite Semi-Finished Product for Semiconductor Use"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3801"
+    }
+  },
+  {
+    "id": "4d_0171",
+    "input": {
+      "text": "Retail-packaged trichlorfon insecticide with 2% mercury compound for pest control 500g×20 bottles Brand: Nongweishi"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3808"
+    }
+  },
+  {
+    "id": "4d_0172",
+    "input": {
+      "text": "LPH Fire Suppressant Agent Model 79372/721/12"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3813"
+    }
+  },
+  {
+    "id": "4d_0173",
+    "input": {
+      "text": "Organic solvent for paint thinning 40% ethyl acetate 30% acetone 30% toluene"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3814"
+    }
+  },
+  {
+    "id": "4d_0174",
+    "input": {
+      "text": "EVA Resin Dow EL-210 Film Grade"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3901"
+    }
+  },
+  {
+    "id": "4d_0175",
+    "input": {
+      "text": "Alkyd Resin Granules Film Grade"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3907"
+    }
+  },
+  {
+    "id": "4d_0176",
+    "input": {
+      "text": "Polyethylene Pipe Fittings"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3917"
+    }
+  },
+  {
+    "id": "4d_0177",
+    "input": {
+      "text": "Butadiene Rubber BR Sheet Strip Industrial Use Bridgestone Brand"
+    },
+    "label": {
+      "hs2": "40",
+      "hs4": "4002"
+    }
+  },
+  {
+    "id": "4d_0178",
+    "input": {
+      "text": "EPDM Rubber Sheet Strip Industrial Grade Sinopec Brand Model EPDM-4045"
+    },
+    "label": {
+      "hs2": "40",
+      "hs4": "4002"
+    }
+  },
+  {
+    "id": "4d_0179",
+    "input": {
+      "text": "Rubber Inner Tube for Passenger Cars and Trucks"
+    },
+    "label": {
+      "hs2": "40",
+      "hs4": "4013"
+    }
+  },
+  {
+    "id": "4d_0180",
+    "input": {
+      "text": "Raw Untanned Cattle Hides Fresh >16kg per Hide for Leather Production"
+    },
+    "label": {
+      "hs2": "41",
+      "hs4": "4101"
+    }
+  },
+  {
+    "id": "4d_0181",
+    "input": {
+      "text": "Wet-state Mustang Full-grain Chrome-tanned Leather for Further Processing"
+    },
+    "label": {
+      "hs2": "41",
+      "hs4": "4104"
+    }
+  },
+  {
+    "id": "4d_0182",
+    "input": {
+      "text": "Endangered Wild Buffalo Leather Split Grain Tanned 0.9–1.1mm Shoe and Bag Upper"
+    },
+    "label": {
+      "hs2": "41",
+      "hs4": "4107"
+    }
+  },
+  {
+    "id": "4d_0183",
+    "input": {
+      "text": "Horsehide Grain Split Tanned 1.2mm Brown Furniture and Bag Leather"
+    },
+    "label": {
+      "hs2": "41",
+      "hs4": "4107"
+    }
+  },
+  {
+    "id": "4d_0184",
+    "input": {
+      "text": "Pigskin Leather Full Grain Tanned Whole Hide 30–40 sq ft"
+    },
+    "label": {
+      "hs2": "41",
+      "hs4": "4113"
+    }
+  },
+  {
+    "id": "4d_0185",
+    "input": {
+      "text": "Endangered Animal Material Saddlery/Harness for Animal Equipment"
+    },
+    "label": {
+      "hs2": "42",
+      "hs4": "4201"
+    }
+  },
+  {
+    "id": "4d_0186",
+    "input": {
+      "text": "Gucci Crocodile Leather Suitcase"
+    },
+    "label": {
+      "hs2": "42",
+      "hs4": "4202"
+    }
+  },
+  {
+    "id": "4d_0187",
+    "input": {
+      "text": "Handbag textile fabric 65% cotton 35% polyester"
+    },
+    "label": {
+      "hs2": "42",
+      "hs4": "4202"
+    }
+  },
+  {
+    "id": "4d_0188",
+    "input": {
+      "text": "COACH Leather Wallet"
+    },
+    "label": {
+      "hs2": "42",
+      "hs4": "4202"
+    }
+  },
+  {
+    "id": "4d_0189",
+    "input": {
+      "text": "Raw male mink skin with head tail and paws dark brown grade A"
+    },
+    "label": {
+      "hs2": "43",
+      "hs4": "4301"
+    }
+  },
+  {
+    "id": "4d_0190",
+    "input": {
+      "text": "Collar Made of Endangered Animal Fur"
+    },
+    "label": {
+      "hs2": "43",
+      "hs4": "4303"
+    }
+  },
+  {
+    "id": "4d_0191",
+    "input": {
+      "text": "Women's Mink Coat"
+    },
+    "label": {
+      "hs2": "43",
+      "hs4": "4303"
+    }
+  },
+  {
+    "id": "4d_0192",
+    "input": {
+      "text": "Artificial Fur Fiber"
+    },
+    "label": {
+      "hs2": "43",
+      "hs4": "4304"
+    }
+  },
+  {
+    "id": "4d_0193",
+    "input": {
+      "text": "African Mahogany Finger Jointed Boards Thickness ≥6mm"
+    },
+    "label": {
+      "hs2": "44",
+      "hs4": "4407"
+    }
+  },
+  {
+    "id": "4d_0194",
+    "input": {
+      "text": "Endangered Wood Veneer 1200×300×5.8mm Grade A"
+    },
+    "label": {
+      "hs2": "44",
+      "hs4": "4408"
+    }
+  },
+  {
+    "id": "4d_0195",
+    "input": {
+      "text": "18mm Alder-Faced Plywood 2440×1220mm Sanded"
+    },
+    "label": {
+      "hs2": "44",
+      "hs4": "4412"
+    }
+  },
+  {
+    "id": "4d_0196",
+    "input": {
+      "text": "Teak Wood Door and Frame 2100×900×45mm for Construction"
+    },
+    "label": {
+      "hs2": "44",
+      "hs4": "4418"
+    }
+  },
+  {
+    "id": "4d_0197",
+    "input": {
+      "text": "Bamboo Mosaic Flooring Wear-Resistant Layer Bamboo 20×20×1.2cm"
+    },
+    "label": {
+      "hs2": "44",
+      "hs4": "4418"
+    }
+  },
+  {
+    "id": "4d_0198",
+    "input": {
+      "text": "Natural cork unprocessed"
+    },
+    "label": {
+      "hs2": "45",
+      "hs4": "4501"
+    }
+  },
+  {
+    "id": "4d_0199",
+    "input": {
+      "text": "Cork waste granules"
+    },
+    "label": {
+      "hs2": "45",
+      "hs4": "4501"
+    }
+  },
+  {
+    "id": "4d_0200",
+    "input": {
+      "text": "Cork granules or powder not waste"
+    },
+    "label": {
+      "hs2": "45",
+      "hs4": "4501"
+    }
+  },
+  {
+    "id": "4d_0201",
+    "input": {
+      "text": "Natural Cork Stopper Custom Grade A"
+    },
+    "label": {
+      "hs2": "45",
+      "hs4": "4503"
+    }
+  },
+  {
+    "id": "4d_0202",
+    "input": {
+      "text": "Pressed Cork Cylinder Block"
+    },
+    "label": {
+      "hs2": "45",
+      "hs4": "4504"
+    }
+  },
+  {
+    "id": "4d_0203",
+    "input": {
+      "text": "Bamboo mats/sheets/curtains for decorative use"
+    },
+    "label": {
+      "hs2": "46",
+      "hs4": "4601"
+    }
+  },
+  {
+    "id": "4d_0204",
+    "input": {
+      "text": "Rattan matting material and curtains"
+    },
+    "label": {
+      "hs2": "46",
+      "hs4": "4601"
+    }
+  },
+  {
+    "id": "4d_0205",
+    "input": {
+      "text": "Bamboo plaiting strips unsewn"
+    },
+    "label": {
+      "hs2": "46",
+      "hs4": "4601"
+    }
+  },
+  {
+    "id": "4d_0206",
+    "input": {
+      "text": "Natural Straw Weaving Cord Unstitched"
+    },
+    "label": {
+      "hs2": "46",
+      "hs4": "4601"
+    }
+  },
+  {
+    "id": "4d_0207",
+    "input": {
+      "text": "Mechanical Wood Pulp Unbranded"
+    },
+    "label": {
+      "hs2": "47",
+      "hs4": "4701"
+    }
+  },
+  {
+    "id": "4d_0208",
+    "input": {
+      "text": "Dissolving Pulp for Viscose Fiber Production α-Cellulose ≥94%"
+    },
+    "label": {
+      "hs2": "47",
+      "hs4": "4702"
+    }
+  },
+  {
+    "id": "4d_0209",
+    "input": {
+      "text": "Mechanochemical Combined Pulp Wood Pulp 10% Moisture"
+    },
+    "label": {
+      "hs2": "47",
+      "hs4": "4705"
+    }
+  },
+  {
+    "id": "4d_0210",
+    "input": {
+      "text": "Unbleached waste kraft/corrugated paper for recycling"
+    },
+    "label": {
+      "hs2": "47",
+      "hs4": "4707"
+    }
+  },
+  {
+    "id": "4d_0211",
+    "input": {
+      "text": "Recycled Waste Wallpaper Wax-coated Paper Carbon Paper"
+    },
+    "label": {
+      "hs2": "47",
+      "hs4": "4707"
+    }
+  },
+  {
+    "id": "4d_0212",
+    "input": {
+      "text": "Offset Paper in Rolls 109.2cm Width 80gsm"
+    },
+    "label": {
+      "hs2": "48",
+      "hs4": "4802"
+    }
+  },
+  {
+    "id": "4d_0213",
+    "input": {
+      "text": "Medium-weight bleached uncoated kraft paper 120cm width 180gsm"
+    },
+    "label": {
+      "hs2": "48",
+      "hs4": "4804"
+    }
+  },
+  {
+    "id": "4d_0214",
+    "input": {
+      "text": "Filter Paper in Rolls 127cm Width 80g/m²"
+    },
+    "label": {
+      "hs2": "48",
+      "hs4": "4805"
+    }
+  },
+  {
+    "id": "4d_0215",
+    "input": {
+      "text": "Paraffin-coated insulating paper in rolls"
+    },
+    "label": {
+      "hs2": "48",
+      "hs4": "4811"
+    }
+  },
+  {
+    "id": "4d_0216",
+    "input": {
+      "text": "Paper Stationery Gift Box with Stationery"
+    },
+    "label": {
+      "hs2": "48",
+      "hs4": "4817"
+    }
+  },
+  {
+    "id": "4d_0217",
+    "input": {
+      "text": "Single-sheet printed matter unbound loose-leaf"
+    },
+    "label": {
+      "hs2": "49",
+      "hs4": "4901"
+    }
+  },
+  {
+    "id": "4d_0218",
+    "input": {
+      "text": "Imported Dictionary Book"
+    },
+    "label": {
+      "hs2": "49",
+      "hs4": "4901"
+    }
+  },
+  {
+    "id": "4d_0219",
+    "input": {
+      "text": "Atlas of Topographic and Hydrographic Maps"
+    },
+    "label": {
+      "hs2": "49",
+      "hs4": "4905"
+    }
+  },
+  {
+    "id": "4d_0220",
+    "input": {
+      "text": "Decal Paper for Ceramic Glaze Transfer"
+    },
+    "label": {
+      "hs2": "49",
+      "hs4": "4908"
+    }
+  },
+  {
+    "id": "4d_0221",
+    "input": {
+      "text": "Mulberry Double Cocoon Silk Untwisted"
+    },
+    "label": {
+      "hs2": "50",
+      "hs4": "5002"
+    }
+  },
+  {
+    "id": "4d_0222",
+    "input": {
+      "text": "Silkworm cocoon byproducts: inferior cocoons, long waste, stuck ends, cocoon shells, uncombed"
+    },
+    "label": {
+      "hs2": "50",
+      "hs4": "5003"
+    }
+  },
+  {
+    "id": "4d_0223",
+    "input": {
+      "text": "Recovered Fiber Uncombed"
+    },
+    "label": {
+      "hs2": "50",
+      "hs4": "5003"
+    }
+  },
+  {
+    "id": "4d_0224",
+    "input": {
+      "text": "Carbonised Wool Not Carded Within Quota"
+    },
+    "label": {
+      "hs2": "51",
+      "hs4": "5101"
+    }
+  },
+  {
+    "id": "4d_0225",
+    "input": {
+      "text": "Combed Wool Slivers Out-of-Quota"
+    },
+    "label": {
+      "hs2": "51",
+      "hs4": "5105"
+    }
+  },
+  {
+    "id": "4d_0226",
+    "input": {
+      "text": "Combed Extra-Fine Pure Cotton Single Yarn Ring-Spun Cotton ≥99% Non-Retail Brand COTTON MASTER"
+    },
+    "label": {
+      "hs2": "52",
+      "hs4": "5205"
+    }
+  },
+  {
+    "id": "4d_0227",
+    "input": {
+      "text": "Combed Cotton-Polyester Blended Single Yarn 75% Cotton 25% Polyester Not for Retail"
+    },
+    "label": {
+      "hs2": "52",
+      "hs4": "5206"
+    }
+  },
+  {
+    "id": "4d_0228",
+    "input": {
+      "text": "Yarn-dyed plain weave cotton fabric 100–200g/m² cotton ≥85%"
+    },
+    "label": {
+      "hs2": "52",
+      "hs4": "5208"
+    }
+  },
+  {
+    "id": "4d_0229",
+    "input": {
+      "text": "Unbleached Plain Weave Cotton/Polyester Voile 70% Cotton 30% Polyester 150cm"
+    },
+    "label": {
+      "hs2": "52",
+      "hs4": "5210"
+    }
+  },
+  {
+    "id": "4d_0230",
+    "input": {
+      "text": "Unbleached Chemical Fiber Blend Twill Fabric Cotton<85% Staple Fiber 180g/m²"
+    },
+    "label": {
+      "hs2": "52",
+      "hs4": "5211"
+    }
+  },
+  {
+    "id": "4d_0231",
+    "input": {
+      "text": "Flax raw or retted"
+    },
+    "label": {
+      "hs2": "53",
+      "hs4": "5301"
+    }
+  },
+  {
+    "id": "4d_0232",
+    "input": {
+      "text": "Flax Tow 300Nm 60cm"
+    },
+    "label": {
+      "hs2": "53",
+      "hs4": "5301"
+    }
+  },
+  {
+    "id": "4d_0233",
+    "input": {
+      "text": "Coconut fiber unspun for rope mat making"
+    },
+    "label": {
+      "hs2": "53",
+      "hs4": "5305"
+    }
+  },
+  {
+    "id": "4d_0234",
+    "input": {
+      "text": "Paper Yarn 100% Paper Fiber 2000m/g"
+    },
+    "label": {
+      "hs2": "53",
+      "hs4": "5308"
+    }
+  },
+  {
+    "id": "4d_0235",
+    "input": {
+      "text": "Ramie Yarn ≥85% Unbleached"
+    },
+    "label": {
+      "hs2": "53",
+      "hs4": "5308"
+    }
+  },
+  {
+    "id": "4d_0236",
+    "input": {
+      "text": "Poly(p-phenylene terephthalamide) high-tenacity single yarn 2200tex non-retail"
+    },
+    "label": {
+      "hs2": "54",
+      "hs4": "5402"
+    }
+  },
+  {
+    "id": "4d_0237",
+    "input": {
+      "text": "Polyamide 66 textured stretch filament single yarn dtex>50 non-retail"
+    },
+    "label": {
+      "hs2": "54",
+      "hs4": "5402"
+    }
+  },
+  {
+    "id": "4d_0238",
+    "input": {
+      "text": "High-tenacity polyethylene yarn break≥40cN/dtex modulus≥1600 non-retail industrial use"
+    },
+    "label": {
+      "hs2": "54",
+      "hs4": "5402"
+    }
+  },
+  {
+    "id": "4d_0239",
+    "input": {
+      "text": "High-tenacity viscose single yarn 167dtex twist 800/m non-retail"
+    },
+    "label": {
+      "hs2": "54",
+      "hs4": "5403"
+    }
+  },
+  {
+    "id": "4d_0240",
+    "input": {
+      "text": "Bamboo Viscose Textured Yarn Untwisted Non-Retail"
+    },
+    "label": {
+      "hs2": "54",
+      "hs4": "5403"
+    }
+  },
+  {
+    "id": "4d_0241",
+    "input": {
+      "text": "Aramid filament tow untwisted 1500 denier"
+    },
+    "label": {
+      "hs2": "55",
+      "hs4": "5501"
+    }
+  },
+  {
+    "id": "4d_0242",
+    "input": {
+      "text": "Polypropylene filament tow untwisted 15000 denier"
+    },
+    "label": {
+      "hs2": "55",
+      "hs4": "5501"
+    }
+  },
+  {
+    "id": "4d_0243",
+    "input": {
+      "text": "Polypropylene Staple Fiber Uncarded 51mm 1.56D"
+    },
+    "label": {
+      "hs2": "55",
+      "hs4": "5503"
+    }
+  },
+  {
+    "id": "4d_0244",
+    "input": {
+      "text": "Unbleached Plain Weave Polyester Staple Fiber Fabric ≥85% Polyester 150cm 120g/m²"
+    },
+    "label": {
+      "hs2": "55",
+      "hs4": "5512"
+    }
+  },
+  {
+    "id": "4d_0245",
+    "input": {
+      "text": "Bleached plain weave rayon fabric 65% rayon 35% filament 150cm 180g/m²"
+    },
+    "label": {
+      "hs2": "55",
+      "hs4": "5516"
+    }
+  },
+  {
+    "id": "4d_0246",
+    "input": {
+      "text": "Cotton Wadding 100% Cotton"
+    },
+    "label": {
+      "hs2": "56",
+      "hs4": "5601"
+    }
+  },
+  {
+    "id": "4d_0247",
+    "input": {
+      "text": "Polypropylene Cigarette Filter"
+    },
+    "label": {
+      "hs2": "56",
+      "hs4": "5601"
+    }
+  },
+  {
+    "id": "4d_0248",
+    "input": {
+      "text": "100% Polyester Fiber Needle Felt Coated or Uncoated"
+    },
+    "label": {
+      "hs2": "56",
+      "hs4": "5602"
+    }
+  },
+  {
+    "id": "4d_0249",
+    "input": {
+      "text": "PE Spunlace Nonwoven Coated/Impregnated 25–70g/m² for Lithium Battery Separator"
+    },
+    "label": {
+      "hs2": "56",
+      "hs4": "5603"
+    }
+  },
+  {
+    "id": "4d_0250",
+    "input": {
+      "text": "PE/PP Woven Binding Rope Plastic-Coated"
+    },
+    "label": {
+      "hs2": "56",
+      "hs4": "5607"
+    }
+  },
+  {
+    "id": "4d_0251",
+    "input": {
+      "text": "100% Wool Pile Carpet 200×300cm"
+    },
+    "label": {
+      "hs2": "57",
+      "hs4": "5701"
+    }
+  },
+  {
+    "id": "4d_0252",
+    "input": {
+      "text": "Silk Hand-Knotted Pile Carpet 200×300cm"
+    },
+    "label": {
+      "hs2": "57",
+      "hs4": "5701"
+    }
+  },
+  {
+    "id": "4d_0253",
+    "input": {
+      "text": "Hand-woven wool carpet 200×100 cm Keleem Soumak Karamani"
+    },
+    "label": {
+      "hs2": "57",
+      "hs4": "5702"
+    }
+  },
+  {
+    "id": "4d_0254",
+    "input": {
+      "text": "Polypropylene Tufted Artificial Grass 25mm Pile Height 4m×25m"
+    },
+    "label": {
+      "hs2": "57",
+      "hs4": "5703"
+    }
+  },
+  {
+    "id": "4d_0255",
+    "input": {
+      "text": "Non-tufted non-flocked felt floor covering 100% polypropylene fiber max area 0.8 sqm"
+    },
+    "label": {
+      "hs2": "57",
+      "hs4": "5704"
+    }
+  },
+  {
+    "id": "4d_0256",
+    "input": {
+      "text": "Unbleached Terry Cotton Fabric 150cm Width 100% Cotton"
+    },
+    "label": {
+      "hs2": "58",
+      "hs4": "5802"
+    }
+  },
+  {
+    "id": "4d_0257",
+    "input": {
+      "text": "Hand-embroidered appliqué decorative blanket 150cm width 100% cotton"
+    },
+    "label": {
+      "hs2": "58",
+      "hs4": "5805"
+    }
+  },
+  {
+    "id": "4d_0258",
+    "input": {
+      "text": "Metal Yarn/Polyester Woven Fabric 30% Metal 70% Polyester Decorative"
+    },
+    "label": {
+      "hs2": "58",
+      "hs4": "5809"
+    }
+  },
+  {
+    "id": "4d_0259",
+    "input": {
+      "text": "Cotton embroidery on visible ground fabric in bulk strips or small pieces"
+    },
+    "label": {
+      "hs2": "58",
+      "hs4": "5810"
+    }
+  },
+  {
+    "id": "4d_0260",
+    "input": {
+      "text": "Embroidered Chemical Fiber Base Cloth 100% Polyester in Piece"
+    },
+    "label": {
+      "hs2": "58",
+      "hs4": "5810"
+    }
+  },
+  {
+    "id": "4d_0261",
+    "input": {
+      "text": "Polyester-Cotton Coated Fabric >50% Polyester for Book Covers"
+    },
+    "label": {
+      "hs2": "59",
+      "hs4": "5901"
+    }
+  },
+  {
+    "id": "4d_0262",
+    "input": {
+      "text": "Coated Cotton Fabric ≥50% Cotton for Book Covers"
+    },
+    "label": {
+      "hs2": "59",
+      "hs4": "5901"
+    }
+  },
+  {
+    "id": "4d_0263",
+    "input": {
+      "text": "Polyester High-Tenacity Tire Cord Fabric 1100D×2 1.5m Michelin"
+    },
+    "label": {
+      "hs2": "59",
+      "hs4": "5902"
+    }
+  },
+  {
+    "id": "4d_0264",
+    "input": {
+      "text": "Mulberry Silk Screen Fabric Unfinished 100% Silk"
+    },
+    "label": {
+      "hs2": "59",
+      "hs4": "5911"
+    }
+  },
+  {
+    "id": "4d_0265",
+    "input": {
+      "text": "Synthetic Fiber Felt for Cylindrical Paper Machines ≥650g/㎡"
+    },
+    "label": {
+      "hs2": "59",
+      "hs4": "5911"
+    }
+  },
+  {
+    "id": "4d_0266",
+    "input": {
+      "text": "Cotton-blend knitted elastic fabric <95% cotton ≥5% elastic yarn ≤30cm width"
+    },
+    "label": {
+      "hs2": "60",
+      "hs4": "6002"
+    }
+  },
+  {
+    "id": "4d_0267",
+    "input": {
+      "text": "Man-made fiber knitted fabric with ≥5% elastic yarn width >30cm"
+    },
+    "label": {
+      "hs2": "60",
+      "hs4": "6004"
+    }
+  },
+  {
+    "id": "4d_0268",
+    "input": {
+      "text": "Men's Cotton Knitted Windbreaker 100% Cotton NIKE Brand"
+    },
+    "label": {
+      "hs2": "61",
+      "hs4": "6101"
+    }
+  },
+  {
+    "id": "4d_0269",
+    "input": {
+      "text": "Women's Windproof Knit Jacket 100% Polyester UNIQLO"
+    },
+    "label": {
+      "hs2": "61",
+      "hs4": "6102"
+    }
+  },
+  {
+    "id": "4d_0270",
+    "input": {
+      "text": "Men's Full-Zip Knit Jacket 100% Cotton UNIQLO"
+    },
+    "label": {
+      "hs2": "61",
+      "hs4": "6103"
+    }
+  },
+  {
+    "id": "4d_0271",
+    "input": {
+      "text": "Men's knitted underwear of silk or spun silk"
+    },
+    "label": {
+      "hs2": "61",
+      "hs4": "6107"
+    }
+  },
+  {
+    "id": "4d_0272",
+    "input": {
+      "text": "Women's silk knitted briefs"
+    },
+    "label": {
+      "hs2": "61",
+      "hs4": "6108"
+    }
+  },
+  {
+    "id": "4d_0273",
+    "input": {
+      "text": "Men's silk woven jacket full front opening"
+    },
+    "label": {
+      "hs2": "62",
+      "hs4": "6203"
+    }
+  },
+  {
+    "id": "4d_0274",
+    "input": {
+      "text": "Women's Wool Woven Skirt 100% Wool"
+    },
+    "label": {
+      "hs2": "62",
+      "hs4": "6204"
+    }
+  },
+  {
+    "id": "4d_0275",
+    "input": {
+      "text": "Uniqlo Men's Relaxed Work Shirt 480652"
+    },
+    "label": {
+      "hs2": "62",
+      "hs4": "6205"
+    }
+  },
+  {
+    "id": "4d_0276",
+    "input": {
+      "text": "Women's Silk Slip 100% Silk"
+    },
+    "label": {
+      "hs2": "62",
+      "hs4": "6208"
+    }
+  },
+  {
+    "id": "4d_0277",
+    "input": {
+      "text": "Fingerless Gloves 65% Cotton 35% Polyester Woven"
+    },
+    "label": {
+      "hs2": "62",
+      "hs4": "6216"
+    }
+  },
+  {
+    "id": "4d_0278",
+    "input": {
+      "text": "Woven Polyester Kimono Obi 100% Polyester SANWA Brand"
+    },
+    "label": {
+      "hs2": "62",
+      "hs4": "6217"
+    }
+  },
+  {
+    "id": "4d_0279",
+    "input": {
+      "text": "Silk Woven Bedspread 100% Silk ZARA Brand"
+    },
+    "label": {
+      "hs2": "63",
+      "hs4": "6304"
+    }
+  },
+  {
+    "id": "4d_0280",
+    "input": {
+      "text": "Polyester Sail SAILMAX"
+    },
+    "label": {
+      "hs2": "63",
+      "hs4": "6306"
+    }
+  },
+  {
+    "id": "4d_0281",
+    "input": {
+      "text": "Life jacket containing polyester fiber non-retail packaging"
+    },
+    "label": {
+      "hs2": "63",
+      "hs4": "6307"
+    }
+  },
+  {
+    "id": "4d_0282",
+    "input": {
+      "text": "Metal Toe Rubber Upper Waterproof Safety Shoes"
+    },
+    "label": {
+      "hs2": "64",
+      "hs4": "6401"
+    }
+  },
+  {
+    "id": "4d_0283",
+    "input": {
+      "text": "Rubber/Plastic Plug-Type Slippers Brand Havaianas"
+    },
+    "label": {
+      "hs2": "64",
+      "hs4": "6402"
+    }
+  },
+  {
+    "id": "4d_0284",
+    "input": {
+      "text": "Nike Air Force 1"
+    },
+    "label": {
+      "hs2": "64",
+      "hs4": "6403"
+    }
+  },
+  {
+    "id": "4d_0285",
+    "input": {
+      "text": "Adidas Ultra Boost 22"
+    },
+    "label": {
+      "hs2": "64",
+      "hs4": "6404"
+    }
+  },
+  {
+    "id": "4d_0286",
+    "input": {
+      "text": "Skechers Panda Shoes 66666179/BKW"
+    },
+    "label": {
+      "hs2": "64",
+      "hs4": "6404"
+    }
+  },
+  {
+    "id": "4d_0287",
+    "input": {
+      "text": "Textile Upper Rubber Sole Open-Toe Slippers Brand XIAOWEI"
+    },
+    "label": {
+      "hs2": "64",
+      "hs4": "6404"
+    }
+  },
+  {
+    "id": "4d_0288",
+    "input": {
+      "text": "Endangered Animal Leather Shoe Uppers"
+    },
+    "label": {
+      "hs2": "64",
+      "hs4": "6406"
+    }
+  },
+  {
+    "id": "4d_0289",
+    "input": {
+      "text": "Molded Rubber Outsoles and Heels for Footwear"
+    },
+    "label": {
+      "hs2": "64",
+      "hs4": "6406"
+    }
+  },
+  {
+    "id": "4d_0290",
+    "input": {
+      "text": "Felt hat bodies or hoods"
+    },
+    "label": {
+      "hs2": "65",
+      "hs4": "6501"
+    }
+  },
+  {
+    "id": "4d_0291",
+    "input": {
+      "text": "Straw or PP Strip Hat Bodies Unformed Undecorated"
+    },
+    "label": {
+      "hs2": "65",
+      "hs4": "6502"
+    }
+  },
+  {
+    "id": "4d_0292",
+    "input": {
+      "text": "Hairnet Universal"
+    },
+    "label": {
+      "hs2": "65",
+      "hs4": "6505"
+    }
+  },
+  {
+    "id": "4d_0293",
+    "input": {
+      "text": "Endangered Animal Fur Hats and Hat Accessories"
+    },
+    "label": {
+      "hs2": "65",
+      "hs4": "6506"
+    }
+  },
+  {
+    "id": "4d_0294",
+    "input": {
+      "text": "Endangered Animal Component Hat Accessories"
+    },
+    "label": {
+      "hs2": "65",
+      "hs4": "6507"
+    }
+  },
+  {
+    "id": "4d_0295",
+    "input": {
+      "text": "Ivory Walking Stick"
+    },
+    "label": {
+      "hs2": "66",
+      "hs4": "6602"
+    }
+  },
+  {
+    "id": "4d_0296",
+    "input": {
+      "text": "Bamboo Walking Stick with Seat"
+    },
+    "label": {
+      "hs2": "66",
+      "hs4": "6602"
+    }
+  },
+  {
+    "id": "4d_0297",
+    "input": {
+      "text": "Metal umbrella ribs with handle attached"
+    },
+    "label": {
+      "hs2": "66",
+      "hs4": "6603"
+    }
+  },
+  {
+    "id": "4d_0298",
+    "input": {
+      "text": "Endangered Animal Component Umbrella/Walking Stick Decorative Parts"
+    },
+    "label": {
+      "hs2": "66",
+      "hs4": "6603"
+    }
+  },
+  {
+    "id": "4d_0299",
+    "input": {
+      "text": "Endangered Bird Feather Processed Product Fluffy Bleached"
+    },
+    "label": {
+      "hs2": "67",
+      "hs4": "6701"
+    }
+  },
+  {
+    "id": "4d_0300",
+    "input": {
+      "text": "Plastic Rose"
+    },
+    "label": {
+      "hs2": "67",
+      "hs4": "6702"
+    }
+  },
+  {
+    "id": "4d_0301",
+    "input": {
+      "text": "Artificial Chemical Fiber Flowers Leaves Fruits and Parts Unbranded"
+    },
+    "label": {
+      "hs2": "67",
+      "hs4": "6702"
+    }
+  },
+  {
+    "id": "4d_0302",
+    "input": {
+      "text": "Artificial Decorative Branch with Red-Crowned Crane Feathers"
+    },
+    "label": {
+      "hs2": "67",
+      "hs4": "6702"
+    }
+  },
+  {
+    "id": "4d_0303",
+    "input": {
+      "text": "Synthetic Full Wig Unbranded"
+    },
+    "label": {
+      "hs2": "67",
+      "hs4": "6704"
+    }
+  },
+  {
+    "id": "4d_0304",
+    "input": {
+      "text": "Wax Stone Slab Unpolished for Decoration or Craft Use"
+    },
+    "label": {
+      "hs2": "68",
+      "hs4": "6802"
+    }
+  },
+  {
+    "id": "4d_0305",
+    "input": {
+      "text": "Cut Slate Decorative Panels"
+    },
+    "label": {
+      "hs2": "68",
+      "hs4": "6803"
+    }
+  },
+  {
+    "id": "4d_0306",
+    "input": {
+      "text": "Hand Oil Stone for Tool Grinding"
+    },
+    "label": {
+      "hs2": "68",
+      "hs4": "6804"
+    }
+  },
+  {
+    "id": "4d_0307",
+    "input": {
+      "text": "Asbestos cement pipe"
+    },
+    "label": {
+      "hs2": "68",
+      "hs4": "6811"
+    }
+  },
+  {
+    "id": "4d_0308",
+    "input": {
+      "text": "Asbestos-free fiber cement corrugated sheet"
+    },
+    "label": {
+      "hs2": "68",
+      "hs4": "6811"
+    }
+  },
+  {
+    "id": "4d_0309",
+    "input": {
+      "text": "Ceramic Roof Tile"
+    },
+    "label": {
+      "hs2": "69",
+      "hs4": "6905"
+    }
+  },
+  {
+    "id": "4d_0310",
+    "input": {
+      "text": "Precision Casting Ceramic Core Laboratory Grade Diamond Level"
+    },
+    "label": {
+      "hs2": "69",
+      "hs4": "6909"
+    }
+  },
+  {
+    "id": "4d_0311",
+    "input": {
+      "text": "Bone China Tableware"
+    },
+    "label": {
+      "hs2": "69",
+      "hs4": "6911"
+    }
+  },
+  {
+    "id": "4d_0312",
+    "input": {
+      "text": "Ceramic Kitchen Knife"
+    },
+    "label": {
+      "hs2": "69",
+      "hs4": "6911"
+    }
+  },
+  {
+    "id": "4d_0313",
+    "input": {
+      "text": "Optical Fiber Preform Diameter ≥60mm Single-mode Fluorine-doped Cladding Corning Brand"
+    },
+    "label": {
+      "hs2": "70",
+      "hs4": "7002"
+    }
+  },
+  {
+    "id": "4d_0314",
+    "input": {
+      "text": "Small glass containers 0.15–0.33L for transport or preservation"
+    },
+    "label": {
+      "hs2": "70",
+      "hs4": "7010"
+    }
+  },
+  {
+    "id": "4d_0315",
+    "input": {
+      "text": "Low-expansion glass tableware non-lead crystal"
+    },
+    "label": {
+      "hs2": "70",
+      "hs4": "7013"
+    }
+  },
+  {
+    "id": "4d_0316",
+    "input": {
+      "text": "Natural Black Pearl Unprocessed Ungraded Unstrung"
+    },
+    "label": {
+      "hs2": "71",
+      "hs4": "7101"
+    }
+  },
+  {
+    "id": "4d_0317",
+    "input": {
+      "text": "Unwrought High-Purity Silver Ingot Ag≥99.99% Gold/Platinum Platable"
+    },
+    "label": {
+      "hs2": "71",
+      "hs4": "7106"
+    }
+  },
+  {
+    "id": "4d_0318",
+    "input": {
+      "text": "Unwrought Gold 99.99% Purity for Monetary Reserve"
+    },
+    "label": {
+      "hs2": "71",
+      "hs4": "7108"
+    }
+  },
+  {
+    "id": "4d_0319",
+    "input": {
+      "text": "Ferromanganese Fe80% Mn18% C2.5%"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7202"
+    }
+  },
+  {
+    "id": "4d_0320",
+    "input": {
+      "text": "Ferrosilicon Chromium Si40% Cr30% Fe30%"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7202"
+    }
+  },
+  {
+    "id": "4d_0321",
+    "input": {
+      "text": "High-strength cold-rolled coil ≥3mm thick yield >355MPa"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7209"
+    }
+  },
+  {
+    "id": "4d_0322",
+    "input": {
+      "text": "Cold-rolled non-alloy steel coil 1–3 mm ≥40% elongation"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7209"
+    }
+  },
+  {
+    "id": "4d_0323",
+    "input": {
+      "text": "Hot Rolled 304 Stainless Steel Plate 12mm×1500mm"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7219"
+    }
+  },
+  {
+    "id": "4d_0324",
+    "input": {
+      "text": "Hot rolled steel sheet pile non-alloy steel"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7301"
+    }
+  },
+  {
+    "id": "4d_0325",
+    "input": {
+      "text": "Sleeper Material Non-Alloy Steel"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7302"
+    }
+  },
+  {
+    "id": "4d_0326",
+    "input": {
+      "text": "Alloy steel seamless pipe tensile ≥620 MPa yield ≥440 MPa for petrochemical use"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7304"
+    }
+  },
+  {
+    "id": "4d_0327",
+    "input": {
+      "text": "Forged Stainless Steel Butt-Weld Pipe Fittings"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7307"
+    }
+  },
+  {
+    "id": "4d_0328",
+    "input": {
+      "text": "Cast Iron Radiator for Central Heating Non-electric"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7322"
+    }
+  },
+  {
+    "id": "4d_0329",
+    "input": {
+      "text": "Copper Master Alloy Cu94% P6% Copper Refining Additive"
+    },
+    "label": {
+      "hs2": "74",
+      "hs4": "7405"
+    }
+  },
+  {
+    "id": "4d_0330",
+    "input": {
+      "text": "Copper-Tin Alloy Powder Cu88% Sn12% Non-flake 200 Mesh for Electroplating"
+    },
+    "label": {
+      "hs2": "74",
+      "hs4": "7406"
+    }
+  },
+  {
+    "id": "4d_0331",
+    "input": {
+      "text": "Copper Nickel Alloy Foil Cu60% Ni40% Thickness ≤0.15mm for Electronic Heat Dissipation"
+    },
+    "label": {
+      "hs2": "74",
+      "hs4": "7410"
+    }
+  },
+  {
+    "id": "4d_0332",
+    "input": {
+      "text": "Copper Drawing Pins U-Staples Flat Head Pins and Similar Fasteners"
+    },
+    "label": {
+      "hs2": "74",
+      "hs4": "7415"
+    }
+  },
+  {
+    "id": "4d_0333",
+    "input": {
+      "text": "Copper Forged Chain and Parts for Industrial Use"
+    },
+    "label": {
+      "hs2": "74",
+      "hs4": "7419"
+    }
+  },
+  {
+    "id": "4d_0334",
+    "input": {
+      "text": "Nickel Matte 30% Pyrometallurgical"
+    },
+    "label": {
+      "hs2": "75",
+      "hs4": "7501"
+    }
+  },
+  {
+    "id": "4d_0335",
+    "input": {
+      "text": "Nickel Compound Intermediate Ni≈30% from Laterite Ore"
+    },
+    "label": {
+      "hs2": "75",
+      "hs4": "7501"
+    }
+  },
+  {
+    "id": "4d_0336",
+    "input": {
+      "text": "Unwrought Nickel Alloy Ingot Ni80% Cu20%"
+    },
+    "label": {
+      "hs2": "75",
+      "hs4": "7502"
+    }
+  },
+  {
+    "id": "4d_0337",
+    "input": {
+      "text": "Nickel Powder Ni≥99.9% Particle Size 10–50μm"
+    },
+    "label": {
+      "hs2": "75",
+      "hs4": "7504"
+    }
+  },
+  {
+    "id": "4d_0338",
+    "input": {
+      "text": "Nickel Alloy Strip Ni80Cr19Fe1"
+    },
+    "label": {
+      "hs2": "75",
+      "hs4": "7505"
+    }
+  },
+  {
+    "id": "4d_0339",
+    "input": {
+      "text": "Recycled Aluminum Scrap Al≥99% for Smelting Recovery"
+    },
+    "label": {
+      "hs2": "76",
+      "hs4": "7602"
+    }
+  },
+  {
+    "id": "4d_0340",
+    "input": {
+      "text": "Aluminum alloy wire cross-section >7mm Al99.5%"
+    },
+    "label": {
+      "hs2": "76",
+      "hs4": "7605"
+    }
+  },
+  {
+    "id": "4d_0341",
+    "input": {
+      "text": "Aluminum collapsible tube"
+    },
+    "label": {
+      "hs2": "76",
+      "hs4": "7612"
+    }
+  },
+  {
+    "id": "4d_0342",
+    "input": {
+      "text": "Aluminum Stranded Wire with Steel Core Non-insulated"
+    },
+    "label": {
+      "hs2": "76",
+      "hs4": "7614"
+    }
+  },
+  {
+    "id": "4d_0343",
+    "input": {
+      "text": "Aluminum Wire Grid Industrial Grade"
+    },
+    "label": {
+      "hs2": "76",
+      "hs4": "7616"
+    }
+  },
+  {
+    "id": "4d_0344",
+    "input": {
+      "text": "Refined Lead Ingots Unwrought Pb≥99.99%"
+    },
+    "label": {
+      "hs2": "78",
+      "hs4": "7801"
+    }
+  },
+  {
+    "id": "4d_0345",
+    "input": {
+      "text": "Lead Scrap for Recycling Pb≥99%"
+    },
+    "label": {
+      "hs2": "78",
+      "hs4": "7802"
+    }
+  },
+  {
+    "id": "4d_0346",
+    "input": {
+      "text": "Lead strip and lead foil thickness ≤0.2mm"
+    },
+    "label": {
+      "hs2": "78",
+      "hs4": "7804"
+    }
+  },
+  {
+    "id": "4d_0347",
+    "input": {
+      "text": "Lead or lead alloy flake powder"
+    },
+    "label": {
+      "hs2": "78",
+      "hs4": "7804"
+    }
+  },
+  {
+    "id": "4d_0348",
+    "input": {
+      "text": "Lead or lead alloy bars/rods/wire/profiles"
+    },
+    "label": {
+      "hs2": "78",
+      "hs4": "7806"
+    }
+  },
+  {
+    "id": "4d_0349",
+    "input": {
+      "text": "Unwrought Zinc Ingot Zn≥99.995%"
+    },
+    "label": {
+      "hs2": "79",
+      "hs4": "7901"
+    }
+  },
+  {
+    "id": "4d_0350",
+    "input": {
+      "text": "Unwrought Zinc Ingot Zn≥99.95%"
+    },
+    "label": {
+      "hs2": "79",
+      "hs4": "7901"
+    }
+  },
+  {
+    "id": "4d_0351",
+    "input": {
+      "text": "Zinc Powder Zn≥99.99%"
+    },
+    "label": {
+      "hs2": "79",
+      "hs4": "7903"
+    }
+  },
+  {
+    "id": "4d_0352",
+    "input": {
+      "text": "Zinc Alloy Battery Shell Blank"
+    },
+    "label": {
+      "hs2": "79",
+      "hs4": "7907"
+    }
+  },
+  {
+    "id": "4d_0353",
+    "input": {
+      "text": "Zinc Pipe Fittings Coupling/Sleeve"
+    },
+    "label": {
+      "hs2": "79",
+      "hs4": "7907"
+    }
+  },
+  {
+    "id": "4d_0354",
+    "input": {
+      "text": "Magnesium Matrix Composite for Forged Structural Components"
+    },
+    "label": {
+      "hs2": "81",
+      "hs4": "8104"
+    }
+  },
+  {
+    "id": "4d_0355",
+    "input": {
+      "text": "Zirconium Alloy Tube Zr≥99.9%"
+    },
+    "label": {
+      "hs2": "81",
+      "hs4": "8109"
+    }
+  },
+  {
+    "id": "4d_0356",
+    "input": {
+      "text": "Cadmium Powder Cd≥99.9% 200 Mesh Unwrought"
+    },
+    "label": {
+      "hs2": "81",
+      "hs4": "8112"
+    }
+  },
+  {
+    "id": "4d_0357",
+    "input": {
+      "text": "Niobium Bar Nb≥99.95% Forged and Rolled"
+    },
+    "label": {
+      "hs2": "81",
+      "hs4": "8112"
+    }
+  },
+  {
+    "id": "4d_0358",
+    "input": {
+      "text": "Alloy Steel One-Hand Garden Trowel with Plant-Based Handle SILKY"
+    },
+    "label": {
+      "hs2": "82",
+      "hs4": "8201"
+    }
+  },
+  {
+    "id": "4d_0359",
+    "input": {
+      "text": "Alloy Steel Agricultural Garden Rake with Wood"
+    },
+    "label": {
+      "hs2": "82",
+      "hs4": "8201"
+    }
+  },
+  {
+    "id": "4d_0360",
+    "input": {
+      "text": "Alloy Steel Straight Saw Blade for Non-Mechanical Use"
+    },
+    "label": {
+      "hs2": "82",
+      "hs4": "8202"
+    }
+  },
+  {
+    "id": "4d_0361",
+    "input": {
+      "text": "TRIUMPH Aviation Alloy Superplastic Forming/Diffusion Bonding Tool Kit Retail Pack"
+    },
+    "label": {
+      "hs2": "82",
+      "hs4": "8206"
+    }
+  },
+  {
+    "id": "4d_0362",
+    "input": {
+      "text": "Stamping die for vehicle body side outer panel alloy steel for HS 8703 vehicles"
+    },
+    "label": {
+      "hs2": "82",
+      "hs4": "8207"
+    }
+  },
+  {
+    "id": "4d_0363",
+    "input": {
+      "text": "Stainless Steel Padlock with Key for Furniture"
+    },
+    "label": {
+      "hs2": "83",
+      "hs4": "8301"
+    }
+  },
+  {
+    "id": "4d_0364",
+    "input": {
+      "text": "Central Door Lock System for Motor Vehicles"
+    },
+    "label": {
+      "hs2": "83",
+      "hs4": "8301"
+    }
+  },
+  {
+    "id": "4d_0365",
+    "input": {
+      "text": "Stainless Steel Bell Non-Electric"
+    },
+    "label": {
+      "hs2": "83",
+      "hs4": "8306"
+    }
+  },
+  {
+    "id": "4d_0366",
+    "input": {
+      "text": "Steel hose with optional fittings"
+    },
+    "label": {
+      "hs2": "83",
+      "hs4": "8307"
+    }
+  },
+  {
+    "id": "4d_0367",
+    "input": {
+      "text": "Midea KFR-35GW"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8415"
+    }
+  },
+  {
+    "id": "4d_0368",
+    "input": {
+      "text": "Radioactive Waste Incinerator NonElectric Heated"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8417"
+    }
+  },
+  {
+    "id": "4d_0369",
+    "input": {
+      "text": "Coke oven parts"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8417"
+    }
+  },
+  {
+    "id": "4d_0370",
+    "input": {
+      "text": "Haier BCD-452WDPM Refrigerator"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8418"
+    }
+  },
+  {
+    "id": "4d_0371",
+    "input": {
+      "text": "Siemens SN23E831TI"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8422"
+    }
+  },
+  {
+    "id": "4d_0372",
+    "input": {
+      "text": "Electronic scale parts excluding vehicle scales"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8423"
+    }
+  },
+  {
+    "id": "4d_0373",
+    "input": {
+      "text": "Hydraulic Pile Gripper for Offshore Wind Installation"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8430"
+    }
+  },
+  {
+    "id": "4d_0374",
+    "input": {
+      "text": "Electric Wood and Hard Material Cutting Saw"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8465"
+    }
+  },
+  {
+    "id": "4d_0375",
+    "input": {
+      "text": "Lenovo Legion R7000 15\" Ryzen 5 4600H 16GB RAM"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8471"
+    }
+  },
+  {
+    "id": "4d_0376",
+    "input": {
+      "text": "MacBook Air 13-inch M4 24GB 512GB"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8471"
+    }
+  },
+  {
+    "id": "4d_0377",
+    "input": {
+      "text": "Aircraft Engine Alternator Stator"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8503"
+    }
+  },
+  {
+    "id": "4d_0378",
+    "input": {
+      "text": "Dyson V15 Detect"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8508"
+    }
+  },
+  {
+    "id": "4d_0379",
+    "input": {
+      "text": "Electric Water Dispenser Household Type"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8516"
+    }
+  },
+  {
+    "id": "4d_0380",
+    "input": {
+      "text": "Apple iPhone 16 128GB 6.1-inch"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8517"
+    }
+  },
+  {
+    "id": "4d_0381",
+    "input": {
+      "text": "Xiaomi 14 Ultra 16GB+1TB Leica Lens Snapdragon 8 Gen 3"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8517"
+    }
+  },
+  {
+    "id": "4d_0382",
+    "input": {
+      "text": "Mate60Pro OLED 12GB+256GB"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8517"
+    }
+  },
+  {
+    "id": "4d_0383",
+    "input": {
+      "text": "OPPO Find X7 16GB+256GB"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8517"
+    }
+  },
+  {
+    "id": "4d_0384",
+    "input": {
+      "text": "Kioxia EXCERIA PLUS G3 SD10"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8523"
+    }
+  },
+  {
+    "id": "4d_0385",
+    "input": {
+      "text": "Parts for Radar and Radio Navigation Equipment"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8529"
+    }
+  },
+  {
+    "id": "4d_0386",
+    "input": {
+      "text": "Fuse rated voltage ≤1000V for circuit protection"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8536"
+    }
+  },
+  {
+    "id": "4d_0387",
+    "input": {
+      "text": "Photosensitive Semiconductor"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8541"
+    }
+  },
+  {
+    "id": "4d_0388",
+    "input": {
+      "text": "Microcomputer-Controlled AC Electric Locomotive External Power Supply"
+    },
+    "label": {
+      "hs2": "86",
+      "hs4": "8601"
+    }
+  },
+  {
+    "id": "4d_0389",
+    "input": {
+      "text": "Microcomputer-Controlled DC Electric Locomotive External Power Supply"
+    },
+    "label": {
+      "hs2": "86",
+      "hs4": "8601"
+    }
+  },
+  {
+    "id": "4d_0390",
+    "input": {
+      "text": "Diesel-Electric Locomotive with Microcomputer Control"
+    },
+    "label": {
+      "hs2": "86",
+      "hs4": "8602"
+    }
+  },
+  {
+    "id": "4d_0391",
+    "input": {
+      "text": "Rail Grinding Train for Track Maintenance"
+    },
+    "label": {
+      "hs2": "86",
+      "hs4": "8604"
+    }
+  },
+  {
+    "id": "4d_0392",
+    "input": {
+      "text": "Railway non-motorized tank wagon"
+    },
+    "label": {
+      "hs2": "86",
+      "hs4": "8606"
+    }
+  },
+  {
+    "id": "4d_0393",
+    "input": {
+      "text": "Diesel Hybrid Bus 20–23 Seats CKD"
+    },
+    "label": {
+      "hs2": "87",
+      "hs4": "8702"
+    }
+  },
+  {
+    "id": "4d_0394",
+    "input": {
+      "text": "Off-road vehicle CKD ≤1L 4WD"
+    },
+    "label": {
+      "hs2": "87",
+      "hs4": "8703"
+    }
+  },
+  {
+    "id": "4d_0395",
+    "input": {
+      "text": "Gasoline Off-Road Vehicle CKD 2.5–3.0L"
+    },
+    "label": {
+      "hs2": "87",
+      "hs4": "8703"
+    }
+  },
+  {
+    "id": "4d_0396",
+    "input": {
+      "text": "BMW X5 3.0T"
+    },
+    "label": {
+      "hs2": "87",
+      "hs4": "8703"
+    }
+  },
+  {
+    "id": "4d_0397",
+    "input": {
+      "text": "Aito M9 1.5T"
+    },
+    "label": {
+      "hs2": "87",
+      "hs4": "8703"
+    }
+  },
+  {
+    "id": "4d_0398",
+    "input": {
+      "text": "Li Auto L9"
+    },
+    "label": {
+      "hs2": "87",
+      "hs4": "8703"
+    }
+  },
+  {
+    "id": "4d_0399",
+    "input": {
+      "text": "NIO ES6"
+    },
+    "label": {
+      "hs2": "87",
+      "hs4": "8703"
+    }
+  },
+  {
+    "id": "4d_0400",
+    "input": {
+      "text": "Toyota Radiator"
+    },
+    "label": {
+      "hs2": "87",
+      "hs4": "8708"
+    }
+  },
+  {
+    "id": "4d_0401",
+    "input": {
+      "text": "Steering Wheel Steering Column Steering Gear and Parts for Toyota Vehicles"
+    },
+    "label": {
+      "hs2": "87",
+      "hs4": "8708"
+    }
+  },
+  {
+    "id": "4d_0402",
+    "input": {
+      "text": "Glider for Air Sports"
+    },
+    "label": {
+      "hs2": "88",
+      "hs4": "8801"
+    }
+  },
+  {
+    "id": "4d_0403",
+    "input": {
+      "text": "Helicopter for Aerial Work with Empty Weight ≤2t"
+    },
+    "label": {
+      "hs2": "88",
+      "hs4": "8802"
+    }
+  },
+  {
+    "id": "4d_0404",
+    "input": {
+      "text": "SKYWALK Parachute"
+    },
+    "label": {
+      "hs2": "88",
+      "hs4": "8804"
+    }
+  },
+  {
+    "id": "4d_0405",
+    "input": {
+      "text": "Aerial photography dual-use drone ≤25kg remote-controlled"
+    },
+    "label": {
+      "hs2": "88",
+      "hs4": "8806"
+    }
+  },
+  {
+    "id": "4d_0406",
+    "input": {
+      "text": "Aircraft Landing Gear Part for B737"
+    },
+    "label": {
+      "hs2": "88",
+      "hs4": "8807"
+    }
+  },
+  {
+    "id": "4d_0407",
+    "input": {
+      "text": "Self-propelled Ro-Ro Cargo Ship ≤20000 DWT"
+    },
+    "label": {
+      "hs2": "89",
+      "hs4": "8901"
+    }
+  },
+  {
+    "id": "4d_0408",
+    "input": {
+      "text": "Self-propelled Self-discharging Mud Barge Subject to Special Civilian Export Controls"
+    },
+    "label": {
+      "hs2": "89",
+      "hs4": "8901"
+    }
+  },
+  {
+    "id": "4d_0409",
+    "input": {
+      "text": "Inflatable boat unpowered recreational ≤100kg unladen"
+    },
+    "label": {
+      "hs2": "89",
+      "hs4": "8903"
+    }
+  },
+  {
+    "id": "4d_0410",
+    "input": {
+      "text": "Recreational Motor Sailing Vessel 24–90m"
+    },
+    "label": {
+      "hs2": "89",
+      "hs4": "8903"
+    }
+  },
+  {
+    "id": "4d_0411",
+    "input": {
+      "text": "Motorboat 8–24m for recreational use"
+    },
+    "label": {
+      "hs2": "89",
+      "hs4": "8903"
+    }
+  },
+  {
+    "id": "4d_0412",
+    "input": {
+      "text": "Copper Vapor Laser for Industrial Processing ≥40W"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9013"
+    }
+  },
+  {
+    "id": "4d_0413",
+    "input": {
+      "text": "Copper T Intrauterine Device"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9018"
+    }
+  },
+  {
+    "id": "4d_0414",
+    "input": {
+      "text": "Triaxial Accelerometer Calibration Test Bench"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9031"
+    }
+  },
+  {
+    "id": "4d_0415",
+    "input": {
+      "text": "Turbine Component Precision Casting 3D Optical Scanner"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9031"
+    }
+  },
+  {
+    "id": "4d_0416",
+    "input": {
+      "text": "Astronomical Clock Electric Drive"
+    },
+    "label": {
+      "hs2": "91",
+      "hs4": "9105"
+    }
+  },
+  {
+    "id": "4d_0417",
+    "input": {
+      "text": "Electric Time Clock for Attendance Recording"
+    },
+    "label": {
+      "hs2": "91",
+      "hs4": "9106"
+    }
+  },
+  {
+    "id": "4d_0418",
+    "input": {
+      "text": "Photoelectric Display Electronic Watch Movement Assembled for Watches 38mm CASIO"
+    },
+    "label": {
+      "hs2": "91",
+      "hs4": "9108"
+    }
+  },
+  {
+    "id": "4d_0419",
+    "input": {
+      "text": "Unassembled Incomplete Mechanical Watch Movement"
+    },
+    "label": {
+      "hs2": "91",
+      "hs4": "9110"
+    }
+  },
+  {
+    "id": "4d_0420",
+    "input": {
+      "text": "Upright Piano Acoustic YAMAHA U1M"
+    },
+    "label": {
+      "hs2": "92",
+      "hs4": "9201"
+    }
+  },
+  {
+    "id": "4d_0421",
+    "input": {
+      "text": "Metal Reed Harmonica Brand HARMONICA"
+    },
+    "label": {
+      "hs2": "92",
+      "hs4": "9205"
+    }
+  },
+  {
+    "id": "4d_0422",
+    "input": {
+      "text": "Piano parts and accessories containing endangered species components"
+    },
+    "label": {
+      "hs2": "92",
+      "hs4": "9209"
+    }
+  },
+  {
+    "id": "4d_0423",
+    "input": {
+      "text": "Bow parts for stringed instruments containing endangered species"
+    },
+    "label": {
+      "hs2": "92",
+      "hs4": "9209"
+    }
+  },
+  {
+    "id": "4d_0424",
+    "input": {
+      "text": "Metronome for Performance Tempo Control"
+    },
+    "label": {
+      "hs2": "92",
+      "hs4": "9209"
+    }
+  },
+  {
+    "id": "4d_0425",
+    "input": {
+      "text": "Self-propelled tracked artillery"
+    },
+    "label": {
+      "hs2": "93",
+      "hs4": "9301"
+    }
+  },
+  {
+    "id": "4d_0426",
+    "input": {
+      "text": "Shotgun Ammunition"
+    },
+    "label": {
+      "hs2": "93",
+      "hs4": "9306"
+    }
+  },
+  {
+    "id": "4d_0427",
+    "input": {
+      "text": "Ballistic Missile and Military Controlled Parts"
+    },
+    "label": {
+      "hs2": "93",
+      "hs4": "9306"
+    }
+  },
+  {
+    "id": "4d_0428",
+    "input": {
+      "text": "Rocket for warhead delivery"
+    },
+    "label": {
+      "hs2": "93",
+      "hs4": "9306"
+    }
+  },
+  {
+    "id": "4d_0429",
+    "input": {
+      "text": "Cruise Missile (Military)"
+    },
+    "label": {
+      "hs2": "93",
+      "hs4": "9306"
+    }
+  },
+  {
+    "id": "4d_0430",
+    "input": {
+      "text": "Endangered Wild Bamboo Seating"
+    },
+    "label": {
+      "hs2": "94",
+      "hs4": "9401"
+    }
+  },
+  {
+    "id": "4d_0431",
+    "input": {
+      "text": "Britax Child Car Seat 0–12 Years ISOFIX/Seatbelt Installation"
+    },
+    "label": {
+      "hs2": "94",
+      "hs4": "9401"
+    }
+  },
+  {
+    "id": "4d_0432",
+    "input": {
+      "text": "Office Metal Furniture Made of Cold-Rolled Steel"
+    },
+    "label": {
+      "hs2": "94",
+      "hs4": "9403"
+    }
+  },
+  {
+    "id": "4d_0433",
+    "input": {
+      "text": "Sponge Rubber Mattress Pad 120×60×5cm Uncovered"
+    },
+    "label": {
+      "hs2": "94",
+      "hs4": "9404"
+    }
+  },
+  {
+    "id": "4d_0434",
+    "input": {
+      "text": "Rush Grass Mattress Pad Single Piece Area >1㎡"
+    },
+    "label": {
+      "hs2": "94",
+      "hs4": "9404"
+    }
+  },
+  {
+    "id": "4d_0435",
+    "input": {
+      "text": "Billiard supplies and accessories endangered wood"
+    },
+    "label": {
+      "hs2": "95",
+      "hs4": "9504"
+    }
+  },
+  {
+    "id": "4d_0436",
+    "input": {
+      "text": "Ski Binding Brand ATOMIC Model AFD-2023"
+    },
+    "label": {
+      "hs2": "95",
+      "hs4": "9506"
+    }
+  },
+  {
+    "id": "4d_0437",
+    "input": {
+      "text": "Table Tennis Balls Universal"
+    },
+    "label": {
+      "hs2": "95",
+      "hs4": "9506"
+    }
+  },
+  {
+    "id": "4d_0438",
+    "input": {
+      "text": "Roller Coaster Complete Set"
+    },
+    "label": {
+      "hs2": "95",
+      "hs4": "9508"
+    }
+  },
+  {
+    "id": "4d_0439",
+    "input": {
+      "text": "Amusement Park Equipment"
+    },
+    "label": {
+      "hs2": "95",
+      "hs4": "9508"
+    }
+  },
+  {
+    "id": "4d_0440",
+    "input": {
+      "text": "Universal Ballpoint Pen Refill"
+    },
+    "label": {
+      "hs2": "96",
+      "hs4": "9608"
+    }
+  },
+  {
+    "id": "4d_0441",
+    "input": {
+      "text": "Fountain Pen Nibs and Tip Beads for Retail"
+    },
+    "label": {
+      "hs2": "96",
+      "hs4": "9608"
+    }
+  },
+  {
+    "id": "4d_0442",
+    "input": {
+      "text": "Refillable Pocket Gas Lighter with Open Flame"
+    },
+    "label": {
+      "hs2": "96",
+      "hs4": "9613"
+    }
+  },
+  {
+    "id": "4d_0443",
+    "input": {
+      "text": "Hand-carved wooden pipe and pipe head Meerschaum Artisan brand"
+    },
+    "label": {
+      "hs2": "96",
+      "hs4": "9614"
+    }
+  },
+  {
+    "id": "4d_0444",
+    "input": {
+      "text": "Cigarette Holders and Parts Containing Endangered Animal Components"
+    },
+    "label": {
+      "hs2": "96",
+      "hs4": "9614"
+    }
+  },
+  {
+    "id": "4d_0445",
+    "input": {
+      "text": "Pampers"
+    },
+    "label": {
+      "hs2": "96",
+      "hs4": "9619"
+    }
+  },
+  {
+    "id": "4d_0446",
+    "input": {
+      "text": "Mosaic containing endangered components over 100 years old"
+    },
+    "label": {
+      "hs2": "97",
+      "hs4": "9701"
+    }
+  },
+  {
+    "id": "4d_0447",
+    "input": {
+      "text": "Tissue Specimens Containing Human Genetic Resources for Archaeological/Historical Research"
+    },
+    "label": {
+      "hs2": "97",
+      "hs4": "9705"
+    }
+  },
+  {
+    "id": "4d_0448",
+    "input": {
+      "text": "Trilobite Fossil Ordovician"
+    },
+    "label": {
+      "hs2": "97",
+      "hs4": "9705"
+    }
+  },
+  {
+    "id": "4d_0449",
+    "input": {
+      "text": "Stalactite Mineral Specimen for Collection and Research"
+    },
+    "label": {
+      "hs2": "97",
+      "hs4": "9705"
+    }
+  },
+  {
+    "id": "4d_0450",
+    "input": {
+      "text": "Numismatic collectibles over 100 years old"
+    },
+    "label": {
+      "hs2": "97",
+      "hs4": "9705"
+    }
+  }
+]

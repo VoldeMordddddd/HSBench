@@ -1,0 +1,12312 @@
+[
+  {
+    "id": "4d_0001",
+    "input": {
+      "text": "Mule"
+    },
+    "label": {
+      "hs2": "01",
+      "hs4": "0101"
+    }
+  },
+  {
+    "id": "4d_0002",
+    "input": {
+      "text": "Yellow Cattle"
+    },
+    "label": {
+      "hs2": "01",
+      "hs4": "0102"
+    }
+  },
+  {
+    "id": "4d_0003",
+    "input": {
+      "text": "Wild boar"
+    },
+    "label": {
+      "hs2": "01",
+      "hs4": "0103"
+    }
+  },
+  {
+    "id": "4d_0004",
+    "input": {
+      "text": "Sheep"
+    },
+    "label": {
+      "hs2": "01",
+      "hs4": "0104"
+    }
+  },
+  {
+    "id": "4d_0005",
+    "input": {
+      "text": "Turkey"
+    },
+    "label": {
+      "hs2": "01",
+      "hs4": "0105"
+    }
+  },
+  {
+    "id": "4d_0006",
+    "input": {
+      "text": "Pet dog"
+    },
+    "label": {
+      "hs2": "01",
+      "hs4": "0106"
+    }
+  },
+  {
+    "id": "4d_0007",
+    "input": {
+      "text": "Beef"
+    },
+    "label": {
+      "hs2": "02",
+      "hs4": "0201"
+    }
+  },
+  {
+    "id": "4d_0008",
+    "input": {
+      "text": "Frozen Beef Steak"
+    },
+    "label": {
+      "hs2": "02",
+      "hs4": "0202"
+    }
+  },
+  {
+    "id": "4d_0009",
+    "input": {
+      "text": "Pork"
+    },
+    "label": {
+      "hs2": "02",
+      "hs4": "0203"
+    }
+  },
+  {
+    "id": "4d_0010",
+    "input": {
+      "text": "Mutton"
+    },
+    "label": {
+      "hs2": "02",
+      "hs4": "0204"
+    }
+  },
+  {
+    "id": "4d_0011",
+    "input": {
+      "text": "Horsemeat"
+    },
+    "label": {
+      "hs2": "02",
+      "hs4": "0205"
+    }
+  },
+  {
+    "id": "4d_0012",
+    "input": {
+      "text": "Pork Liver"
+    },
+    "label": {
+      "hs2": "02",
+      "hs4": "0206"
+    }
+  },
+  {
+    "id": "4d_0013",
+    "input": {
+      "text": "Chicken"
+    },
+    "label": {
+      "hs2": "02",
+      "hs4": "0207"
+    }
+  },
+  {
+    "id": "4d_0014",
+    "input": {
+      "text": "Hare meat"
+    },
+    "label": {
+      "hs2": "02",
+      "hs4": "0208"
+    }
+  },
+  {
+    "id": "4d_0015",
+    "input": {
+      "text": "Pork fat"
+    },
+    "label": {
+      "hs2": "02",
+      "hs4": "0209"
+    }
+  },
+  {
+    "id": "4d_0016",
+    "input": {
+      "text": "Bacon"
+    },
+    "label": {
+      "hs2": "02",
+      "hs4": "0210"
+    }
+  },
+  {
+    "id": "4d_0017",
+    "input": {
+      "text": "Salmon"
+    },
+    "label": {
+      "hs2": "03",
+      "hs4": "0301"
+    }
+  },
+  {
+    "id": "4d_0018",
+    "input": {
+      "text": "Salmon"
+    },
+    "label": {
+      "hs2": "03",
+      "hs4": "0302"
+    }
+  },
+  {
+    "id": "4d_0019",
+    "input": {
+      "text": "Frozen Cod"
+    },
+    "label": {
+      "hs2": "03",
+      "hs4": "0303"
+    }
+  },
+  {
+    "id": "4d_0020",
+    "input": {
+      "text": "Salmon Fillet"
+    },
+    "label": {
+      "hs2": "03",
+      "hs4": "0304"
+    }
+  },
+  {
+    "id": "4d_0021",
+    "input": {
+      "text": "Smoked Salmon"
+    },
+    "label": {
+      "hs2": "03",
+      "hs4": "0305"
+    }
+  },
+  {
+    "id": "4d_0022",
+    "input": {
+      "text": "Shrimp"
+    },
+    "label": {
+      "hs2": "03",
+      "hs4": "0306"
+    }
+  },
+  {
+    "id": "4d_0023",
+    "input": {
+      "text": "Clams in shell"
+    },
+    "label": {
+      "hs2": "03",
+      "hs4": "0307"
+    }
+  },
+  {
+    "id": "4d_0024",
+    "input": {
+      "text": "Sea urchin"
+    },
+    "label": {
+      "hs2": "03",
+      "hs4": "0308"
+    }
+  },
+  {
+    "id": "4d_0025",
+    "input": {
+      "text": "Squid powder"
+    },
+    "label": {
+      "hs2": "03",
+      "hs4": "0309"
+    }
+  },
+  {
+    "id": "4d_0026",
+    "input": {
+      "text": "Fresh Milk"
+    },
+    "label": {
+      "hs2": "04",
+      "hs4": "0401"
+    }
+  },
+  {
+    "id": "4d_0027",
+    "input": {
+      "text": "Evaporated skim milk"
+    },
+    "label": {
+      "hs2": "04",
+      "hs4": "0402"
+    }
+  },
+  {
+    "id": "4d_0028",
+    "input": {
+      "text": "Yogurt"
+    },
+    "label": {
+      "hs2": "04",
+      "hs4": "0403"
+    }
+  },
+  {
+    "id": "4d_0029",
+    "input": {
+      "text": "Whey powder"
+    },
+    "label": {
+      "hs2": "04",
+      "hs4": "0404"
+    }
+  },
+  {
+    "id": "4d_0030",
+    "input": {
+      "text": "Butter"
+    },
+    "label": {
+      "hs2": "04",
+      "hs4": "0405"
+    }
+  },
+  {
+    "id": "4d_0031",
+    "input": {
+      "text": "Cheese"
+    },
+    "label": {
+      "hs2": "04",
+      "hs4": "0406"
+    }
+  },
+  {
+    "id": "4d_0032",
+    "input": {
+      "text": "Eggs"
+    },
+    "label": {
+      "hs2": "04",
+      "hs4": "0407"
+    }
+  },
+  {
+    "id": "4d_0033",
+    "input": {
+      "text": "Egg yolk"
+    },
+    "label": {
+      "hs2": "04",
+      "hs4": "0408"
+    }
+  },
+  {
+    "id": "4d_0034",
+    "input": {
+      "text": "Honey"
+    },
+    "label": {
+      "hs2": "04",
+      "hs4": "0409"
+    }
+  },
+  {
+    "id": "4d_0035",
+    "input": {
+      "text": "Sea turtle eggs"
+    },
+    "label": {
+      "hs2": "04",
+      "hs4": "0410"
+    }
+  },
+  {
+    "id": "4d_0036",
+    "input": {
+      "text": "Unprocessed human hair"
+    },
+    "label": {
+      "hs2": "05",
+      "hs4": "0501"
+    }
+  },
+  {
+    "id": "4d_0037",
+    "input": {
+      "text": "Boar bristles"
+    },
+    "label": {
+      "hs2": "05",
+      "hs4": "0502"
+    }
+  },
+  {
+    "id": "4d_0038",
+    "input": {
+      "text": "Pork intestines"
+    },
+    "label": {
+      "hs2": "05",
+      "hs4": "0504"
+    }
+  },
+  {
+    "id": "4d_0039",
+    "input": {
+      "text": "Feather"
+    },
+    "label": {
+      "hs2": "05",
+      "hs4": "0505"
+    }
+  },
+  {
+    "id": "4d_0040",
+    "input": {
+      "text": "Bone meal"
+    },
+    "label": {
+      "hs2": "05",
+      "hs4": "0506"
+    }
+  },
+  {
+    "id": "4d_0041",
+    "input": {
+      "text": "Deer antler"
+    },
+    "label": {
+      "hs2": "05",
+      "hs4": "0507"
+    }
+  },
+  {
+    "id": "4d_0042",
+    "input": {
+      "text": "Coral"
+    },
+    "label": {
+      "hs2": "05",
+      "hs4": "0508"
+    }
+  },
+  {
+    "id": "4d_0043",
+    "input": {
+      "text": "Natural Musk"
+    },
+    "label": {
+      "hs2": "05",
+      "hs4": "0510"
+    }
+  },
+  {
+    "id": "4d_0044",
+    "input": {
+      "text": "Pig blood"
+    },
+    "label": {
+      "hs2": "05",
+      "hs4": "0511"
+    }
+  },
+  {
+    "id": "4d_0045",
+    "input": {
+      "text": "Orchid Tuber"
+    },
+    "label": {
+      "hs2": "06",
+      "hs4": "0601"
+    }
+  },
+  {
+    "id": "4d_0046",
+    "input": {
+      "text": "Azalea"
+    },
+    "label": {
+      "hs2": "06",
+      "hs4": "0602"
+    }
+  },
+  {
+    "id": "4d_0047",
+    "input": {
+      "text": "Fresh Roses"
+    },
+    "label": {
+      "hs2": "06",
+      "hs4": "0603"
+    }
+  },
+  {
+    "id": "4d_0048",
+    "input": {
+      "text": "Moss"
+    },
+    "label": {
+      "hs2": "06",
+      "hs4": "0604"
+    }
+  },
+  {
+    "id": "4d_0049",
+    "input": {
+      "text": "Potatoes"
+    },
+    "label": {
+      "hs2": "07",
+      "hs4": "0701"
+    }
+  },
+  {
+    "id": "4d_0050",
+    "input": {
+      "text": "Tomato"
+    },
+    "label": {
+      "hs2": "07",
+      "hs4": "0702"
+    }
+  },
+  {
+    "id": "4d_0051",
+    "input": {
+      "text": "Garlic"
+    },
+    "label": {
+      "hs2": "07",
+      "hs4": "0703"
+    }
+  },
+  {
+    "id": "4d_0052",
+    "input": {
+      "text": "Cabbage"
+    },
+    "label": {
+      "hs2": "07",
+      "hs4": "0704"
+    }
+  },
+  {
+    "id": "4d_0053",
+    "input": {
+      "text": "Lettuce"
+    },
+    "label": {
+      "hs2": "07",
+      "hs4": "0705"
+    }
+  },
+  {
+    "id": "4d_0054",
+    "input": {
+      "text": "Carrots"
+    },
+    "label": {
+      "hs2": "07",
+      "hs4": "0706"
+    }
+  },
+  {
+    "id": "4d_0055",
+    "input": {
+      "text": "Cucumber"
+    },
+    "label": {
+      "hs2": "07",
+      "hs4": "0707"
+    }
+  },
+  {
+    "id": "4d_0056",
+    "input": {
+      "text": "Peas"
+    },
+    "label": {
+      "hs2": "07",
+      "hs4": "0708"
+    }
+  },
+  {
+    "id": "4d_0057",
+    "input": {
+      "text": "Pumpkin"
+    },
+    "label": {
+      "hs2": "07",
+      "hs4": "0709"
+    }
+  },
+  {
+    "id": "4d_0058",
+    "input": {
+      "text": "Frozen Spinach"
+    },
+    "label": {
+      "hs2": "07",
+      "hs4": "0710"
+    }
+  },
+  {
+    "id": "4d_0059",
+    "input": {
+      "text": "Bamboo Shoots in Brine"
+    },
+    "label": {
+      "hs2": "07",
+      "hs4": "0711"
+    }
+  },
+  {
+    "id": "4d_0060",
+    "input": {
+      "text": "Dried Carrots"
+    },
+    "label": {
+      "hs2": "07",
+      "hs4": "0712"
+    }
+  },
+  {
+    "id": "4d_0061",
+    "input": {
+      "text": "Shelled Dried Beans"
+    },
+    "label": {
+      "hs2": "07",
+      "hs4": "0713"
+    }
+  },
+  {
+    "id": "4d_0062",
+    "input": {
+      "text": "Cassava chunks"
+    },
+    "label": {
+      "hs2": "07",
+      "hs4": "0714"
+    }
+  },
+  {
+    "id": "4d_0063",
+    "input": {
+      "text": "Fresh coconut"
+    },
+    "label": {
+      "hs2": "08",
+      "hs4": "0801"
+    }
+  },
+  {
+    "id": "4d_0064",
+    "input": {
+      "text": "Almonds"
+    },
+    "label": {
+      "hs2": "08",
+      "hs4": "0802"
+    }
+  },
+  {
+    "id": "4d_0065",
+    "input": {
+      "text": "Bananas"
+    },
+    "label": {
+      "hs2": "08",
+      "hs4": "0803"
+    }
+  },
+  {
+    "id": "4d_0066",
+    "input": {
+      "text": "Fresh mangoes"
+    },
+    "label": {
+      "hs2": "08",
+      "hs4": "0804"
+    }
+  },
+  {
+    "id": "4d_0067",
+    "input": {
+      "text": "Citrus"
+    },
+    "label": {
+      "hs2": "08",
+      "hs4": "0805"
+    }
+  },
+  {
+    "id": "4d_0068",
+    "input": {
+      "text": "Fresh grapes"
+    },
+    "label": {
+      "hs2": "08",
+      "hs4": "0806"
+    }
+  },
+  {
+    "id": "4d_0069",
+    "input": {
+      "text": "Watermelon"
+    },
+    "label": {
+      "hs2": "08",
+      "hs4": "0807"
+    }
+  },
+  {
+    "id": "4d_0070",
+    "input": {
+      "text": "Apple"
+    },
+    "label": {
+      "hs2": "08",
+      "hs4": "0808"
+    }
+  },
+  {
+    "id": "4d_0071",
+    "input": {
+      "text": "Cherries"
+    },
+    "label": {
+      "hs2": "08",
+      "hs4": "0809"
+    }
+  },
+  {
+    "id": "4d_0072",
+    "input": {
+      "text": "Strawberries"
+    },
+    "label": {
+      "hs2": "08",
+      "hs4": "0810"
+    }
+  },
+  {
+    "id": "4d_0073",
+    "input": {
+      "text": "Frozen Strawberries"
+    },
+    "label": {
+      "hs2": "08",
+      "hs4": "0811"
+    }
+  },
+  {
+    "id": "4d_0074",
+    "input": {
+      "text": "Strawberries, provisionally preserved"
+    },
+    "label": {
+      "hs2": "08",
+      "hs4": "0812"
+    }
+  },
+  {
+    "id": "4d_0075",
+    "input": {
+      "text": "Dried apricots"
+    },
+    "label": {
+      "hs2": "08",
+      "hs4": "0813"
+    }
+  },
+  {
+    "id": "4d_0076",
+    "input": {
+      "text": "Watermelon Rind"
+    },
+    "label": {
+      "hs2": "08",
+      "hs4": "0814"
+    }
+  },
+  {
+    "id": "4d_0077",
+    "input": {
+      "text": "Coffee beans"
+    },
+    "label": {
+      "hs2": "09",
+      "hs4": "0901"
+    }
+  },
+  {
+    "id": "4d_0078",
+    "input": {
+      "text": "Green Tea"
+    },
+    "label": {
+      "hs2": "09",
+      "hs4": "0902"
+    }
+  },
+  {
+    "id": "4d_0079",
+    "input": {
+      "text": "Mate Tea"
+    },
+    "label": {
+      "hs2": "09",
+      "hs4": "0903"
+    }
+  },
+  {
+    "id": "4d_0080",
+    "input": {
+      "text": "Chili powder"
+    },
+    "label": {
+      "hs2": "09",
+      "hs4": "0904"
+    }
+  },
+  {
+    "id": "4d_0081",
+    "input": {
+      "text": "Vanilla beans"
+    },
+    "label": {
+      "hs2": "09",
+      "hs4": "0905"
+    }
+  },
+  {
+    "id": "4d_0082",
+    "input": {
+      "text": "Cinnamon Powder"
+    },
+    "label": {
+      "hs2": "09",
+      "hs4": "0906"
+    }
+  },
+  {
+    "id": "4d_0083",
+    "input": {
+      "text": "Clove"
+    },
+    "label": {
+      "hs2": "09",
+      "hs4": "0907"
+    }
+  },
+  {
+    "id": "4d_0084",
+    "input": {
+      "text": "Nutmeg"
+    },
+    "label": {
+      "hs2": "09",
+      "hs4": "0908"
+    }
+  },
+  {
+    "id": "4d_0085",
+    "input": {
+      "text": "Star Anise"
+    },
+    "label": {
+      "hs2": "09",
+      "hs4": "0909"
+    }
+  },
+  {
+    "id": "4d_0086",
+    "input": {
+      "text": "Ginger"
+    },
+    "label": {
+      "hs2": "09",
+      "hs4": "0910"
+    }
+  },
+  {
+    "id": "4d_0087",
+    "input": {
+      "text": "Wheat"
+    },
+    "label": {
+      "hs2": "10",
+      "hs4": "1001"
+    }
+  },
+  {
+    "id": "4d_0088",
+    "input": {
+      "text": "Rye"
+    },
+    "label": {
+      "hs2": "10",
+      "hs4": "1002"
+    }
+  },
+  {
+    "id": "4d_0089",
+    "input": {
+      "text": "Barley for feed"
+    },
+    "label": {
+      "hs2": "10",
+      "hs4": "1003"
+    }
+  },
+  {
+    "id": "4d_0090",
+    "input": {
+      "text": "Oats"
+    },
+    "label": {
+      "hs2": "10",
+      "hs4": "1004"
+    }
+  },
+  {
+    "id": "4d_0091",
+    "input": {
+      "text": "Feed corn"
+    },
+    "label": {
+      "hs2": "10",
+      "hs4": "1005"
+    }
+  },
+  {
+    "id": "4d_0092",
+    "input": {
+      "text": "Rice"
+    },
+    "label": {
+      "hs2": "10",
+      "hs4": "1006"
+    }
+  },
+  {
+    "id": "4d_0093",
+    "input": {
+      "text": "Edible sorghum"
+    },
+    "label": {
+      "hs2": "10",
+      "hs4": "1007"
+    }
+  },
+  {
+    "id": "4d_0094",
+    "input": {
+      "text": "Buckwheat"
+    },
+    "label": {
+      "hs2": "10",
+      "hs4": "1008"
+    }
+  },
+  {
+    "id": "4d_0095",
+    "input": {
+      "text": "Wheat flour"
+    },
+    "label": {
+      "hs2": "11",
+      "hs4": "1101"
+    }
+  },
+  {
+    "id": "4d_0096",
+    "input": {
+      "text": "Corn flour"
+    },
+    "label": {
+      "hs2": "11",
+      "hs4": "1102"
+    }
+  },
+  {
+    "id": "4d_0097",
+    "input": {
+      "text": "Semolina"
+    },
+    "label": {
+      "hs2": "11",
+      "hs4": "1103"
+    }
+  },
+  {
+    "id": "4d_0098",
+    "input": {
+      "text": "Ground oats"
+    },
+    "label": {
+      "hs2": "11",
+      "hs4": "1104"
+    }
+  },
+  {
+    "id": "4d_0099",
+    "input": {
+      "text": "Potato vermicelli"
+    },
+    "label": {
+      "hs2": "11",
+      "hs4": "1105"
+    }
+  },
+  {
+    "id": "4d_0100",
+    "input": {
+      "text": "Pea Starch"
+    },
+    "label": {
+      "hs2": "11",
+      "hs4": "1106"
+    }
+  },
+  {
+    "id": "4d_0101",
+    "input": {
+      "text": "Malt"
+    },
+    "label": {
+      "hs2": "11",
+      "hs4": "1107"
+    }
+  },
+  {
+    "id": "4d_0102",
+    "input": {
+      "text": "Corn Starch"
+    },
+    "label": {
+      "hs2": "11",
+      "hs4": "1108"
+    }
+  },
+  {
+    "id": "4d_0103",
+    "input": {
+      "text": "Vital wheat gluten"
+    },
+    "label": {
+      "hs2": "11",
+      "hs4": "1109"
+    }
+  },
+  {
+    "id": "4d_0104",
+    "input": {
+      "text": "Soybeans"
+    },
+    "label": {
+      "hs2": "12",
+      "hs4": "1201"
+    }
+  },
+  {
+    "id": "4d_0105",
+    "input": {
+      "text": "Peanuts"
+    },
+    "label": {
+      "hs2": "12",
+      "hs4": "1202"
+    }
+  },
+  {
+    "id": "4d_0106",
+    "input": {
+      "text": "Dried Copra for Oil Extraction"
+    },
+    "label": {
+      "hs2": "12",
+      "hs4": "1203"
+    }
+  },
+  {
+    "id": "4d_0107",
+    "input": {
+      "text": "Linseed"
+    },
+    "label": {
+      "hs2": "12",
+      "hs4": "1204"
+    }
+  },
+  {
+    "id": "4d_0108",
+    "input": {
+      "text": "Rapeseed"
+    },
+    "label": {
+      "hs2": "12",
+      "hs4": "1205"
+    }
+  },
+  {
+    "id": "4d_0109",
+    "input": {
+      "text": "Sunflower seeds"
+    },
+    "label": {
+      "hs2": "12",
+      "hs4": "1206"
+    }
+  },
+  {
+    "id": "4d_0110",
+    "input": {
+      "text": "Grape seeds for oil extraction"
+    },
+    "label": {
+      "hs2": "12",
+      "hs4": "1207"
+    }
+  },
+  {
+    "id": "4d_0111",
+    "input": {
+      "text": "Sesame Powder"
+    },
+    "label": {
+      "hs2": "12",
+      "hs4": "1208"
+    }
+  },
+  {
+    "id": "4d_0112",
+    "input": {
+      "text": "Fruit tree seeds"
+    },
+    "label": {
+      "hs2": "12",
+      "hs4": "1209"
+    }
+  },
+  {
+    "id": "4d_0113",
+    "input": {
+      "text": "Hops"
+    },
+    "label": {
+      "hs2": "12",
+      "hs4": "1210"
+    }
+  },
+  {
+    "id": "4d_0114",
+    "input": {
+      "text": "Licorice"
+    },
+    "label": {
+      "hs2": "12",
+      "hs4": "1211"
+    }
+  },
+  {
+    "id": "4d_0115",
+    "input": {
+      "text": "Carob bean"
+    },
+    "label": {
+      "hs2": "12",
+      "hs4": "1212"
+    }
+  },
+  {
+    "id": "4d_0116",
+    "input": {
+      "text": "Rice husk"
+    },
+    "label": {
+      "hs2": "12",
+      "hs4": "1213"
+    }
+  },
+  {
+    "id": "4d_0117",
+    "input": {
+      "text": "Fodder beet"
+    },
+    "label": {
+      "hs2": "12",
+      "hs4": "1214"
+    }
+  },
+  {
+    "id": "4d_0118",
+    "input": {
+      "text": "Shellac"
+    },
+    "label": {
+      "hs2": "13",
+      "hs4": "1301"
+    }
+  },
+  {
+    "id": "4d_0119",
+    "input": {
+      "text": "Aloe Vera Liquid"
+    },
+    "label": {
+      "hs2": "13",
+      "hs4": "1302"
+    }
+  },
+  {
+    "id": "4d_0120",
+    "input": {
+      "text": "Rattan cane"
+    },
+    "label": {
+      "hs2": "14",
+      "hs4": "1401"
+    }
+  },
+  {
+    "id": "4d_0121",
+    "input": {
+      "text": "Walnut shell"
+    },
+    "label": {
+      "hs2": "14",
+      "hs4": "1404"
+    }
+  },
+  {
+    "id": "4d_0122",
+    "input": {
+      "text": "Lard"
+    },
+    "label": {
+      "hs2": "15",
+      "hs4": "1501"
+    }
+  },
+  {
+    "id": "4d_0123",
+    "input": {
+      "text": "Beef Tallow"
+    },
+    "label": {
+      "hs2": "15",
+      "hs4": "1502"
+    }
+  },
+  {
+    "id": "4d_0124",
+    "input": {
+      "text": "Lard Stearin"
+    },
+    "label": {
+      "hs2": "15",
+      "hs4": "1503"
+    }
+  },
+  {
+    "id": "4d_0125",
+    "input": {
+      "text": "Fish oil"
+    },
+    "label": {
+      "hs2": "15",
+      "hs4": "1504"
+    }
+  },
+  {
+    "id": "4d_0126",
+    "input": {
+      "text": "Lanolin"
+    },
+    "label": {
+      "hs2": "15",
+      "hs4": "1505"
+    }
+  },
+  {
+    "id": "4d_0127",
+    "input": {
+      "text": "Sea-turtle oil"
+    },
+    "label": {
+      "hs2": "15",
+      "hs4": "1506"
+    }
+  },
+  {
+    "id": "4d_0128",
+    "input": {
+      "text": "Soybean oil"
+    },
+    "label": {
+      "hs2": "15",
+      "hs4": "1507"
+    }
+  },
+  {
+    "id": "4d_0129",
+    "input": {
+      "text": "Peanut oil"
+    },
+    "label": {
+      "hs2": "15",
+      "hs4": "1508"
+    }
+  },
+  {
+    "id": "4d_0130",
+    "input": {
+      "text": "Olive oil"
+    },
+    "label": {
+      "hs2": "15",
+      "hs4": "1509"
+    }
+  },
+  {
+    "id": "4d_0131",
+    "input": {
+      "text": "Olive pomace oil"
+    },
+    "label": {
+      "hs2": "15",
+      "hs4": "1510"
+    }
+  },
+  {
+    "id": "4d_0132",
+    "input": {
+      "text": "Palm oil"
+    },
+    "label": {
+      "hs2": "15",
+      "hs4": "1511"
+    }
+  },
+  {
+    "id": "4d_0133",
+    "input": {
+      "text": "Sunflower oil"
+    },
+    "label": {
+      "hs2": "15",
+      "hs4": "1512"
+    }
+  },
+  {
+    "id": "4d_0134",
+    "input": {
+      "text": "Coconut oil"
+    },
+    "label": {
+      "hs2": "15",
+      "hs4": "1513"
+    }
+  },
+  {
+    "id": "4d_0135",
+    "input": {
+      "text": "Rapeseed oil"
+    },
+    "label": {
+      "hs2": "15",
+      "hs4": "1514"
+    }
+  },
+  {
+    "id": "4d_0136",
+    "input": {
+      "text": "Jojoba oil"
+    },
+    "label": {
+      "hs2": "15",
+      "hs4": "1515"
+    }
+  },
+  {
+    "id": "4d_0137",
+    "input": {
+      "text": "Hydrogenated Palm Oil"
+    },
+    "label": {
+      "hs2": "15",
+      "hs4": "1516"
+    }
+  },
+  {
+    "id": "4d_0138",
+    "input": {
+      "text": "Shortening"
+    },
+    "label": {
+      "hs2": "15",
+      "hs4": "1517"
+    }
+  },
+  {
+    "id": "4d_0139",
+    "input": {
+      "text": "Sulfurized Vegetable Oil"
+    },
+    "label": {
+      "hs2": "15",
+      "hs4": "1518"
+    }
+  },
+  {
+    "id": "4d_0140",
+    "input": {
+      "text": "Crude glycerol"
+    },
+    "label": {
+      "hs2": "15",
+      "hs4": "1520"
+    }
+  },
+  {
+    "id": "4d_0141",
+    "input": {
+      "text": "Beeswax"
+    },
+    "label": {
+      "hs2": "15",
+      "hs4": "1521"
+    }
+  },
+  {
+    "id": "4d_0142",
+    "input": {
+      "text": "Recovered oil-tanned grease"
+    },
+    "label": {
+      "hs2": "15",
+      "hs4": "1522"
+    }
+  },
+  {
+    "id": "4d_0143",
+    "input": {
+      "text": "Northeast Chinese Red Sausage"
+    },
+    "label": {
+      "hs2": "16",
+      "hs4": "1601"
+    }
+  },
+  {
+    "id": "4d_0144",
+    "input": {
+      "text": "Canned Meat Sauce"
+    },
+    "label": {
+      "hs2": "16",
+      "hs4": "1602"
+    }
+  },
+  {
+    "id": "4d_0145",
+    "input": {
+      "text": "Fish Milt"
+    },
+    "label": {
+      "hs2": "16",
+      "hs4": "1603"
+    }
+  },
+  {
+    "id": "4d_0146",
+    "input": {
+      "text": "Fish Sausage"
+    },
+    "label": {
+      "hs2": "16",
+      "hs4": "1604"
+    }
+  },
+  {
+    "id": "4d_0147",
+    "input": {
+      "text": "Canned Crab Meat"
+    },
+    "label": {
+      "hs2": "16",
+      "hs4": "1605"
+    }
+  },
+  {
+    "id": "4d_0148",
+    "input": {
+      "text": "White Sugar"
+    },
+    "label": {
+      "hs2": "17",
+      "hs4": "1701"
+    }
+  },
+  {
+    "id": "4d_0149",
+    "input": {
+      "text": "Glucose"
+    },
+    "label": {
+      "hs2": "17",
+      "hs4": "1702"
+    }
+  },
+  {
+    "id": "4d_0150",
+    "input": {
+      "text": "Molasses"
+    },
+    "label": {
+      "hs2": "17",
+      "hs4": "1703"
+    }
+  },
+  {
+    "id": "4d_0151",
+    "input": {
+      "text": "Chewing gum"
+    },
+    "label": {
+      "hs2": "17",
+      "hs4": "1704"
+    }
+  },
+  {
+    "id": "4d_0152",
+    "input": {
+      "text": "Cocoa beans"
+    },
+    "label": {
+      "hs2": "18",
+      "hs4": "1801"
+    }
+  },
+  {
+    "id": "4d_0153",
+    "input": {
+      "text": "Cocoa bean husks"
+    },
+    "label": {
+      "hs2": "18",
+      "hs4": "1802"
+    }
+  },
+  {
+    "id": "4d_0154",
+    "input": {
+      "text": "Cocoa paste"
+    },
+    "label": {
+      "hs2": "18",
+      "hs4": "1803"
+    }
+  },
+  {
+    "id": "4d_0155",
+    "input": {
+      "text": "Cocoa Butter"
+    },
+    "label": {
+      "hs2": "18",
+      "hs4": "1804"
+    }
+  },
+  {
+    "id": "4d_0156",
+    "input": {
+      "text": "Cocoa powder"
+    },
+    "label": {
+      "hs2": "18",
+      "hs4": "1805"
+    }
+  },
+  {
+    "id": "4d_0157",
+    "input": {
+      "text": "Chocolate"
+    },
+    "label": {
+      "hs2": "18",
+      "hs4": "1806"
+    }
+  },
+  {
+    "id": "4d_0158",
+    "input": {
+      "text": "Malted Milk Powder"
+    },
+    "label": {
+      "hs2": "19",
+      "hs4": "1901"
+    }
+  },
+  {
+    "id": "4d_0159",
+    "input": {
+      "text": "Dumplings"
+    },
+    "label": {
+      "hs2": "19",
+      "hs4": "1902"
+    }
+  },
+  {
+    "id": "4d_0160",
+    "input": {
+      "text": "Tapioca Pearls"
+    },
+    "label": {
+      "hs2": "19",
+      "hs4": "1903"
+    }
+  },
+  {
+    "id": "4d_0161",
+    "input": {
+      "text": "Corn Flakes"
+    },
+    "label": {
+      "hs2": "19",
+      "hs4": "1904"
+    }
+  },
+  {
+    "id": "4d_0162",
+    "input": {
+      "text": "Biscuits"
+    },
+    "label": {
+      "hs2": "19",
+      "hs4": "1905"
+    }
+  },
+  {
+    "id": "4d_0163",
+    "input": {
+      "text": "Pickled Cucumbers"
+    },
+    "label": {
+      "hs2": "20",
+      "hs4": "2001"
+    }
+  },
+  {
+    "id": "4d_0164",
+    "input": {
+      "text": "Tomato paste"
+    },
+    "label": {
+      "hs2": "20",
+      "hs4": "2002"
+    }
+  },
+  {
+    "id": "4d_0165",
+    "input": {
+      "text": "Canned Mushrooms"
+    },
+    "label": {
+      "hs2": "20",
+      "hs4": "2003"
+    }
+  },
+  {
+    "id": "4d_0166",
+    "input": {
+      "text": "Frozen French Fries"
+    },
+    "label": {
+      "hs2": "20",
+      "hs4": "2004"
+    }
+  },
+  {
+    "id": "4d_0167",
+    "input": {
+      "text": "Canned Peas in Tomato Sauce"
+    },
+    "label": {
+      "hs2": "20",
+      "hs4": "2005"
+    }
+  },
+  {
+    "id": "4d_0168",
+    "input": {
+      "text": "Candied Orange Peel"
+    },
+    "label": {
+      "hs2": "20",
+      "hs4": "2006"
+    }
+  },
+  {
+    "id": "4d_0169",
+    "input": {
+      "text": "Citrus marmalade"
+    },
+    "label": {
+      "hs2": "20",
+      "hs4": "2007"
+    }
+  },
+  {
+    "id": "4d_0170",
+    "input": {
+      "text": "Peanut butter"
+    },
+    "label": {
+      "hs2": "20",
+      "hs4": "2008"
+    }
+  },
+  {
+    "id": "4d_0171",
+    "input": {
+      "text": "Orange juice"
+    },
+    "label": {
+      "hs2": "20",
+      "hs4": "2009"
+    }
+  },
+  {
+    "id": "4d_0172",
+    "input": {
+      "text": "Coffee concentrate"
+    },
+    "label": {
+      "hs2": "21",
+      "hs4": "2101"
+    }
+  },
+  {
+    "id": "4d_0173",
+    "input": {
+      "text": "Yeast powder"
+    },
+    "label": {
+      "hs2": "21",
+      "hs4": "2102"
+    }
+  },
+  {
+    "id": "4d_0174",
+    "input": {
+      "text": "Mayonnaise"
+    },
+    "label": {
+      "hs2": "21",
+      "hs4": "2103"
+    }
+  },
+  {
+    "id": "4d_0175",
+    "input": {
+      "text": "Hot Pot Seasoning"
+    },
+    "label": {
+      "hs2": "21",
+      "hs4": "2104"
+    }
+  },
+  {
+    "id": "4d_0176",
+    "input": {
+      "text": "Ice cream"
+    },
+    "label": {
+      "hs2": "21",
+      "hs4": "2105"
+    }
+  },
+  {
+    "id": "4d_0177",
+    "input": {
+      "text": "Jelly Powder"
+    },
+    "label": {
+      "hs2": "21",
+      "hs4": "2106"
+    }
+  },
+  {
+    "id": "4d_0178",
+    "input": {
+      "text": "Mineral Water"
+    },
+    "label": {
+      "hs2": "22",
+      "hs4": "2201"
+    }
+  },
+  {
+    "id": "4d_0179",
+    "input": {
+      "text": "Carbonated Beverages"
+    },
+    "label": {
+      "hs2": "22",
+      "hs4": "2202"
+    }
+  },
+  {
+    "id": "4d_0180",
+    "input": {
+      "text": "Belgian White Beer"
+    },
+    "label": {
+      "hs2": "22",
+      "hs4": "2203"
+    }
+  },
+  {
+    "id": "4d_0181",
+    "input": {
+      "text": "Wine"
+    },
+    "label": {
+      "hs2": "22",
+      "hs4": "2204"
+    }
+  },
+  {
+    "id": "4d_0182",
+    "input": {
+      "text": "Vermouth"
+    },
+    "label": {
+      "hs2": "22",
+      "hs4": "2205"
+    }
+  },
+  {
+    "id": "4d_0183",
+    "input": {
+      "text": "Cider"
+    },
+    "label": {
+      "hs2": "22",
+      "hs4": "2206"
+    }
+  },
+  {
+    "id": "4d_0184",
+    "input": {
+      "text": "Edible alcohol"
+    },
+    "label": {
+      "hs2": "22",
+      "hs4": "2207"
+    }
+  },
+  {
+    "id": "4d_0185",
+    "input": {
+      "text": "Baijiu"
+    },
+    "label": {
+      "hs2": "22",
+      "hs4": "2208"
+    }
+  },
+  {
+    "id": "4d_0186",
+    "input": {
+      "text": "Edible vinegar"
+    },
+    "label": {
+      "hs2": "22",
+      "hs4": "2209"
+    }
+  },
+  {
+    "id": "4d_0187",
+    "input": {
+      "text": "Fish meal for feed"
+    },
+    "label": {
+      "hs2": "23",
+      "hs4": "2301"
+    }
+  },
+  {
+    "id": "4d_0188",
+    "input": {
+      "text": "Wheat bran residue"
+    },
+    "label": {
+      "hs2": "23",
+      "hs4": "2302"
+    }
+  },
+  {
+    "id": "4d_0189",
+    "input": {
+      "text": "Sugar Beet Pulp"
+    },
+    "label": {
+      "hs2": "23",
+      "hs4": "2303"
+    }
+  },
+  {
+    "id": "4d_0190",
+    "input": {
+      "text": "Soybean meal"
+    },
+    "label": {
+      "hs2": "23",
+      "hs4": "2304"
+    }
+  },
+  {
+    "id": "4d_0191",
+    "input": {
+      "text": "Peanut cake"
+    },
+    "label": {
+      "hs2": "23",
+      "hs4": "2305"
+    }
+  },
+  {
+    "id": "4d_0192",
+    "input": {
+      "text": "Vegetable oil residue"
+    },
+    "label": {
+      "hs2": "23",
+      "hs4": "2306"
+    }
+  },
+  {
+    "id": "4d_0193",
+    "input": {
+      "text": "Grape marc"
+    },
+    "label": {
+      "hs2": "23",
+      "hs4": "2307"
+    }
+  },
+  {
+    "id": "4d_0194",
+    "input": {
+      "text": "Alfalfa hay for feed"
+    },
+    "label": {
+      "hs2": "23",
+      "hs4": "2308"
+    }
+  },
+  {
+    "id": "4d_0195",
+    "input": {
+      "text": "Cat food"
+    },
+    "label": {
+      "hs2": "23",
+      "hs4": "2309"
+    }
+  },
+  {
+    "id": "4d_0196",
+    "input": {
+      "text": "Tobacco"
+    },
+    "label": {
+      "hs2": "24",
+      "hs4": "2401"
+    }
+  },
+  {
+    "id": "4d_0197",
+    "input": {
+      "text": "Cigars"
+    },
+    "label": {
+      "hs2": "24",
+      "hs4": "2402"
+    }
+  },
+  {
+    "id": "4d_0198",
+    "input": {
+      "text": "Reconstituted tobacco"
+    },
+    "label": {
+      "hs2": "24",
+      "hs4": "2403"
+    }
+  },
+  {
+    "id": "4d_0199",
+    "input": {
+      "text": "E-liquid"
+    },
+    "label": {
+      "hs2": "24",
+      "hs4": "2404"
+    }
+  },
+  {
+    "id": "4d_0200",
+    "input": {
+      "text": "Edible Salt"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2501"
+    }
+  },
+  {
+    "id": "4d_0201",
+    "input": {
+      "text": "Pyrite"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2502"
+    }
+  },
+  {
+    "id": "4d_0202",
+    "input": {
+      "text": "Sulfur powder"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2503"
+    }
+  },
+  {
+    "id": "4d_0203",
+    "input": {
+      "text": "Natural graphite"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2504"
+    }
+  },
+  {
+    "id": "4d_0204",
+    "input": {
+      "text": "River Sand"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2505"
+    }
+  },
+  {
+    "id": "4d_0205",
+    "input": {
+      "text": "Quartz Ore"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2506"
+    }
+  },
+  {
+    "id": "4d_0206",
+    "input": {
+      "text": "Kaolin"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2507"
+    }
+  },
+  {
+    "id": "4d_0207",
+    "input": {
+      "text": "Andalusite"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2508"
+    }
+  },
+  {
+    "id": "4d_0208",
+    "input": {
+      "text": "Chalk powder"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2509"
+    }
+  },
+  {
+    "id": "4d_0209",
+    "input": {
+      "text": "Calcium Phosphate Ore"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2510"
+    }
+  },
+  {
+    "id": "4d_0210",
+    "input": {
+      "text": "Barite"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2511"
+    }
+  },
+  {
+    "id": "4d_0211",
+    "input": {
+      "text": "Diatomaceous earth"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2512"
+    }
+  },
+  {
+    "id": "4d_0212",
+    "input": {
+      "text": "Pumice"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2513"
+    }
+  },
+  {
+    "id": "4d_0213",
+    "input": {
+      "text": "Slate"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2514"
+    }
+  },
+  {
+    "id": "4d_0214",
+    "input": {
+      "text": "Raw Marble"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2515"
+    }
+  },
+  {
+    "id": "4d_0215",
+    "input": {
+      "text": "Granite slab"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2516"
+    }
+  },
+  {
+    "id": "4d_0216",
+    "input": {
+      "text": "Crushed stone"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2517"
+    }
+  },
+  {
+    "id": "4d_0217",
+    "input": {
+      "text": "Calcined Dolomite"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2518"
+    }
+  },
+  {
+    "id": "4d_0218",
+    "input": {
+      "text": "Magnesite"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2519"
+    }
+  },
+  {
+    "id": "4d_0219",
+    "input": {
+      "text": "Raw gypsum"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2520"
+    }
+  },
+  {
+    "id": "4d_0220",
+    "input": {
+      "text": "Limestone"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2521"
+    }
+  },
+  {
+    "id": "4d_0221",
+    "input": {
+      "text": "Quicklime"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2522"
+    }
+  },
+  {
+    "id": "4d_0222",
+    "input": {
+      "text": "Cement Clinker"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2523"
+    }
+  },
+  {
+    "id": "4d_0223",
+    "input": {
+      "text": "Asbestos fiber"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2524"
+    }
+  },
+  {
+    "id": "4d_0224",
+    "input": {
+      "text": "Natural mica"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2525"
+    }
+  },
+  {
+    "id": "4d_0225",
+    "input": {
+      "text": "Natural Steatite"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2526"
+    }
+  },
+  {
+    "id": "4d_0226",
+    "input": {
+      "text": "Natural Borates"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2528"
+    }
+  },
+  {
+    "id": "4d_0227",
+    "input": {
+      "text": "Fluorite"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2529"
+    }
+  },
+  {
+    "id": "4d_0228",
+    "input": {
+      "text": "Alunite"
+    },
+    "label": {
+      "hs2": "25",
+      "hs4": "2530"
+    }
+  },
+  {
+    "id": "4d_0229",
+    "input": {
+      "text": "Iron ore"
+    },
+    "label": {
+      "hs2": "26",
+      "hs4": "2601"
+    }
+  },
+  {
+    "id": "4d_0230",
+    "input": {
+      "text": "Manganese ore"
+    },
+    "label": {
+      "hs2": "26",
+      "hs4": "2602"
+    }
+  },
+  {
+    "id": "4d_0231",
+    "input": {
+      "text": "Copper ore"
+    },
+    "label": {
+      "hs2": "26",
+      "hs4": "2603"
+    }
+  },
+  {
+    "id": "4d_0232",
+    "input": {
+      "text": "Nickel ore"
+    },
+    "label": {
+      "hs2": "26",
+      "hs4": "2604"
+    }
+  },
+  {
+    "id": "4d_0233",
+    "input": {
+      "text": "Cobalt Ore"
+    },
+    "label": {
+      "hs2": "26",
+      "hs4": "2605"
+    }
+  },
+  {
+    "id": "4d_0234",
+    "input": {
+      "text": "Aluminum ore"
+    },
+    "label": {
+      "hs2": "26",
+      "hs4": "2606"
+    }
+  },
+  {
+    "id": "4d_0235",
+    "input": {
+      "text": "Lead ore"
+    },
+    "label": {
+      "hs2": "26",
+      "hs4": "2607"
+    }
+  },
+  {
+    "id": "4d_0236",
+    "input": {
+      "text": "Zinc ore concentrate"
+    },
+    "label": {
+      "hs2": "26",
+      "hs4": "2608"
+    }
+  },
+  {
+    "id": "4d_0237",
+    "input": {
+      "text": "Tin ore"
+    },
+    "label": {
+      "hs2": "26",
+      "hs4": "2609"
+    }
+  },
+  {
+    "id": "4d_0238",
+    "input": {
+      "text": "Chrome ore sand"
+    },
+    "label": {
+      "hs2": "26",
+      "hs4": "2610"
+    }
+  },
+  {
+    "id": "4d_0239",
+    "input": {
+      "text": "Tungsten ore"
+    },
+    "label": {
+      "hs2": "26",
+      "hs4": "2611"
+    }
+  },
+  {
+    "id": "4d_0240",
+    "input": {
+      "text": "Uranium ore concentrate"
+    },
+    "label": {
+      "hs2": "26",
+      "hs4": "2612"
+    }
+  },
+  {
+    "id": "4d_0241",
+    "input": {
+      "text": "Molybdenum ore"
+    },
+    "label": {
+      "hs2": "26",
+      "hs4": "2613"
+    }
+  },
+  {
+    "id": "4d_0242",
+    "input": {
+      "text": "Ilmenite"
+    },
+    "label": {
+      "hs2": "26",
+      "hs4": "2614"
+    }
+  },
+  {
+    "id": "4d_0243",
+    "input": {
+      "text": "Niobium ore sand"
+    },
+    "label": {
+      "hs2": "26",
+      "hs4": "2615"
+    }
+  },
+  {
+    "id": "4d_0244",
+    "input": {
+      "text": "Platinum ore"
+    },
+    "label": {
+      "hs2": "26",
+      "hs4": "2616"
+    }
+  },
+  {
+    "id": "4d_0245",
+    "input": {
+      "text": "Antimony Concentrate"
+    },
+    "label": {
+      "hs2": "26",
+      "hs4": "2617"
+    }
+  },
+  {
+    "id": "4d_0246",
+    "input": {
+      "text": "Slag sand"
+    },
+    "label": {
+      "hs2": "26",
+      "hs4": "2618"
+    }
+  },
+  {
+    "id": "4d_0247",
+    "input": {
+      "text": "Blast Furnace Flotation Slag"
+    },
+    "label": {
+      "hs2": "26",
+      "hs4": "2619"
+    }
+  },
+  {
+    "id": "4d_0248",
+    "input": {
+      "text": "Copper slag"
+    },
+    "label": {
+      "hs2": "26",
+      "hs4": "2620"
+    }
+  },
+  {
+    "id": "4d_0249",
+    "input": {
+      "text": "Incinerated Waste Ash"
+    },
+    "label": {
+      "hs2": "26",
+      "hs4": "2621"
+    }
+  },
+  {
+    "id": "4d_0250",
+    "input": {
+      "text": "Coal"
+    },
+    "label": {
+      "hs2": "27",
+      "hs4": "2701"
+    }
+  },
+  {
+    "id": "4d_0251",
+    "input": {
+      "text": "Lignite"
+    },
+    "label": {
+      "hs2": "27",
+      "hs4": "2702"
+    }
+  },
+  {
+    "id": "4d_0252",
+    "input": {
+      "text": "Peat"
+    },
+    "label": {
+      "hs2": "27",
+      "hs4": "2703"
+    }
+  },
+  {
+    "id": "4d_0253",
+    "input": {
+      "text": "Coke"
+    },
+    "label": {
+      "hs2": "27",
+      "hs4": "2704"
+    }
+  },
+  {
+    "id": "4d_0254",
+    "input": {
+      "text": "Coal Gas"
+    },
+    "label": {
+      "hs2": "27",
+      "hs4": "2705"
+    }
+  },
+  {
+    "id": "4d_0255",
+    "input": {
+      "text": "Coal tar"
+    },
+    "label": {
+      "hs2": "27",
+      "hs4": "2706"
+    }
+  },
+  {
+    "id": "4d_0256",
+    "input": {
+      "text": "Aromatic oil"
+    },
+    "label": {
+      "hs2": "27",
+      "hs4": "2707"
+    }
+  },
+  {
+    "id": "4d_0257",
+    "input": {
+      "text": "Coal tar pitch"
+    },
+    "label": {
+      "hs2": "27",
+      "hs4": "2708"
+    }
+  },
+  {
+    "id": "4d_0258",
+    "input": {
+      "text": "Crude oil"
+    },
+    "label": {
+      "hs2": "27",
+      "hs4": "2709"
+    }
+  },
+  {
+    "id": "4d_0259",
+    "input": {
+      "text": "Gasoline"
+    },
+    "label": {
+      "hs2": "27",
+      "hs4": "2710"
+    }
+  },
+  {
+    "id": "4d_0260",
+    "input": {
+      "text": "Liquefied Petroleum Gas"
+    },
+    "label": {
+      "hs2": "27",
+      "hs4": "2711"
+    }
+  },
+  {
+    "id": "4d_0261",
+    "input": {
+      "text": "Paraffin wax"
+    },
+    "label": {
+      "hs2": "27",
+      "hs4": "2712"
+    }
+  },
+  {
+    "id": "4d_0262",
+    "input": {
+      "text": "Petroleum Bitumen"
+    },
+    "label": {
+      "hs2": "27",
+      "hs4": "2713"
+    }
+  },
+  {
+    "id": "4d_0263",
+    "input": {
+      "text": "Natural Bitumen"
+    },
+    "label": {
+      "hs2": "27",
+      "hs4": "2714"
+    }
+  },
+  {
+    "id": "4d_0264",
+    "input": {
+      "text": "Diluted Bitumen"
+    },
+    "label": {
+      "hs2": "27",
+      "hs4": "2715"
+    }
+  },
+  {
+    "id": "4d_0265",
+    "input": {
+      "text": "Electricity"
+    },
+    "label": {
+      "hs2": "27",
+      "hs4": "2716"
+    }
+  },
+  {
+    "id": "4d_0266",
+    "input": {
+      "text": "Fluorine"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2801"
+    }
+  },
+  {
+    "id": "4d_0267",
+    "input": {
+      "text": "Precipitated Sulfur"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2802"
+    }
+  },
+  {
+    "id": "4d_0268",
+    "input": {
+      "text": "Carbon Black"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2803"
+    }
+  },
+  {
+    "id": "4d_0269",
+    "input": {
+      "text": "Hydrogen"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2804"
+    }
+  },
+  {
+    "id": "4d_0270",
+    "input": {
+      "text": "Sodium"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2805"
+    }
+  },
+  {
+    "id": "4d_0271",
+    "input": {
+      "text": "Hydrochloric acid"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2806"
+    }
+  },
+  {
+    "id": "4d_0272",
+    "input": {
+      "text": "Sulfuric acid"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2807"
+    }
+  },
+  {
+    "id": "4d_0273",
+    "input": {
+      "text": "Nitric acid"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2808"
+    }
+  },
+  {
+    "id": "4d_0274",
+    "input": {
+      "text": "Phosphoric acid"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2809"
+    }
+  },
+  {
+    "id": "4d_0275",
+    "input": {
+      "text": "Boric acid"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2810"
+    }
+  },
+  {
+    "id": "4d_0276",
+    "input": {
+      "text": "Hydrogen fluoride"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2811"
+    }
+  },
+  {
+    "id": "4d_0277",
+    "input": {
+      "text": "Arsenic trichloride"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2812"
+    }
+  },
+  {
+    "id": "4d_0278",
+    "input": {
+      "text": "Arsenic disulfide"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2813"
+    }
+  },
+  {
+    "id": "4d_0279",
+    "input": {
+      "text": "Ammonia solution"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2814"
+    }
+  },
+  {
+    "id": "4d_0280",
+    "input": {
+      "text": "Caustic soda"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2815"
+    }
+  },
+  {
+    "id": "4d_0281",
+    "input": {
+      "text": "Magnesium hydroxide"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2816"
+    }
+  },
+  {
+    "id": "4d_0282",
+    "input": {
+      "text": "Zinc Oxide"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2817"
+    }
+  },
+  {
+    "id": "4d_0283",
+    "input": {
+      "text": "Aluminum oxide"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2818"
+    }
+  },
+  {
+    "id": "4d_0284",
+    "input": {
+      "text": "Chromium oxide"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2819"
+    }
+  },
+  {
+    "id": "4d_0285",
+    "input": {
+      "text": "Manganese dioxide"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2820"
+    }
+  },
+  {
+    "id": "4d_0286",
+    "input": {
+      "text": "Iron Oxide Red"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2821"
+    }
+  },
+  {
+    "id": "4d_0287",
+    "input": {
+      "text": "Cobalt Oxide"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2822"
+    }
+  },
+  {
+    "id": "4d_0288",
+    "input": {
+      "text": "Titanium dioxide"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2823"
+    }
+  },
+  {
+    "id": "4d_0289",
+    "input": {
+      "text": "Red lead"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2824"
+    }
+  },
+  {
+    "id": "4d_0290",
+    "input": {
+      "text": "Hydrazine"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2825"
+    }
+  },
+  {
+    "id": "4d_0291",
+    "input": {
+      "text": "Sodium fluoride"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2826"
+    }
+  },
+  {
+    "id": "4d_0292",
+    "input": {
+      "text": "Calcium chloride"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2827"
+    }
+  },
+  {
+    "id": "4d_0293",
+    "input": {
+      "text": "Calcium Hypochlorite"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2828"
+    }
+  },
+  {
+    "id": "4d_0294",
+    "input": {
+      "text": "Sodium chlorate"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2829"
+    }
+  },
+  {
+    "id": "4d_0295",
+    "input": {
+      "text": "Sodium sulfide"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2830"
+    }
+  },
+  {
+    "id": "4d_0296",
+    "input": {
+      "text": "Sodium dithionite"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2831"
+    }
+  },
+  {
+    "id": "4d_0297",
+    "input": {
+      "text": "Sodium sulfite"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2832"
+    }
+  },
+  {
+    "id": "4d_0298",
+    "input": {
+      "text": "Sodium sulfate"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2833"
+    }
+  },
+  {
+    "id": "4d_0299",
+    "input": {
+      "text": "Sodium nitrate"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2834"
+    }
+  },
+  {
+    "id": "4d_0300",
+    "input": {
+      "text": "Sodium Phosphate"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2835"
+    }
+  },
+  {
+    "id": "4d_0301",
+    "input": {
+      "text": "Sodium carbonate"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2836"
+    }
+  },
+  {
+    "id": "4d_0302",
+    "input": {
+      "text": "Potassium cyanide"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2837"
+    }
+  },
+  {
+    "id": "4d_0303",
+    "input": {
+      "text": "Sodium silicate"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2839"
+    }
+  },
+  {
+    "id": "4d_0304",
+    "input": {
+      "text": "Sodium borate"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2840"
+    }
+  },
+  {
+    "id": "4d_0305",
+    "input": {
+      "text": "Sodium dichromate"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2841"
+    }
+  },
+  {
+    "id": "4d_0306",
+    "input": {
+      "text": "Sodium thiocyanate"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2842"
+    }
+  },
+  {
+    "id": "4d_0307",
+    "input": {
+      "text": "Platinum solution"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2843"
+    }
+  },
+  {
+    "id": "4d_0308",
+    "input": {
+      "text": "Plutonium-238"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2844"
+    }
+  },
+  {
+    "id": "4d_0309",
+    "input": {
+      "text": "Heavy water"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2845"
+    }
+  },
+  {
+    "id": "4d_0310",
+    "input": {
+      "text": "Cerium hydroxide"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2846"
+    }
+  },
+  {
+    "id": "4d_0311",
+    "input": {
+      "text": "Hydrogen peroxide"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2847"
+    }
+  },
+  {
+    "id": "4d_0312",
+    "input": {
+      "text": "Calcium carbide"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2849"
+    }
+  },
+  {
+    "id": "4d_0313",
+    "input": {
+      "text": "Aluminum nitride"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2850"
+    }
+  },
+  {
+    "id": "4d_0314",
+    "input": {
+      "text": "Mercuric chloride"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2852"
+    }
+  },
+  {
+    "id": "4d_0315",
+    "input": {
+      "text": "Copper phosphide"
+    },
+    "label": {
+      "hs2": "28",
+      "hs4": "2853"
+    }
+  },
+  {
+    "id": "4d_0316",
+    "input": {
+      "text": "Ethylene"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2901"
+    }
+  },
+  {
+    "id": "4d_0317",
+    "input": {
+      "text": "Cyclohexane"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2902"
+    }
+  },
+  {
+    "id": "4d_0318",
+    "input": {
+      "text": "Vinyl chloride"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2903"
+    }
+  },
+  {
+    "id": "4d_0319",
+    "input": {
+      "text": "Nitrobenzene"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2904"
+    }
+  },
+  {
+    "id": "4d_0320",
+    "input": {
+      "text": "Methanol"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2905"
+    }
+  },
+  {
+    "id": "4d_0321",
+    "input": {
+      "text": "Cyclohexanol"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2906"
+    }
+  },
+  {
+    "id": "4d_0322",
+    "input": {
+      "text": "Phenol"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2907"
+    }
+  },
+  {
+    "id": "4d_0323",
+    "input": {
+      "text": "Chlorophenol"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2908"
+    }
+  },
+  {
+    "id": "4d_0324",
+    "input": {
+      "text": "Ether"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2909"
+    }
+  },
+  {
+    "id": "4d_0325",
+    "input": {
+      "text": "Epoxy resin"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2910"
+    }
+  },
+  {
+    "id": "4d_0326",
+    "input": {
+      "text": "Dimethoxymethane"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2911"
+    }
+  },
+  {
+    "id": "4d_0327",
+    "input": {
+      "text": "Paraformaldehyde"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2912"
+    }
+  },
+  {
+    "id": "4d_0328",
+    "input": {
+      "text": "Chloral"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2913"
+    }
+  },
+  {
+    "id": "4d_0329",
+    "input": {
+      "text": "Acetone"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2914"
+    }
+  },
+  {
+    "id": "4d_0330",
+    "input": {
+      "text": "Formic acid"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2915"
+    }
+  },
+  {
+    "id": "4d_0331",
+    "input": {
+      "text": "Acrylic acid"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2916"
+    }
+  },
+  {
+    "id": "4d_0332",
+    "input": {
+      "text": "Oxalic acid"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2917"
+    }
+  },
+  {
+    "id": "4d_0333",
+    "input": {
+      "text": "Citric acid"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2918"
+    }
+  },
+  {
+    "id": "4d_0334",
+    "input": {
+      "text": "Triphosphate ester"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2919"
+    }
+  },
+  {
+    "id": "4d_0335",
+    "input": {
+      "text": "Dimethyl sulfate"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2920"
+    }
+  },
+  {
+    "id": "4d_0336",
+    "input": {
+      "text": "Methylamine salt"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2921"
+    }
+  },
+  {
+    "id": "4d_0337",
+    "input": {
+      "text": "Ethanolamine"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2922"
+    }
+  },
+  {
+    "id": "4d_0338",
+    "input": {
+      "text": "Quaternary Ammonium Disinfectant"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2923"
+    }
+  },
+  {
+    "id": "4d_0339",
+    "input": {
+      "text": "Acetamide"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2924"
+    }
+  },
+  {
+    "id": "4d_0340",
+    "input": {
+      "text": "Sodium Saccharin"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2925"
+    }
+  },
+  {
+    "id": "4d_0341",
+    "input": {
+      "text": "Acrylonitrile"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2926"
+    }
+  },
+  {
+    "id": "4d_0342",
+    "input": {
+      "text": "Diazomethane"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2927"
+    }
+  },
+  {
+    "id": "4d_0343",
+    "input": {
+      "text": "Hydrazine Derivatives"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2928"
+    }
+  },
+  {
+    "id": "4d_0344",
+    "input": {
+      "text": "Toluene Diisocyanate"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2929"
+    }
+  },
+  {
+    "id": "4d_0345",
+    "input": {
+      "text": "Dimethyl sulfide"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2930"
+    }
+  },
+  {
+    "id": "4d_0346",
+    "input": {
+      "text": "Hexamethyldisilazane"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2931"
+    }
+  },
+  {
+    "id": "4d_0347",
+    "input": {
+      "text": "Tetrahydrofuran"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2932"
+    }
+  },
+  {
+    "id": "4d_0348",
+    "input": {
+      "text": "Pyridine"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2933"
+    }
+  },
+  {
+    "id": "4d_0349",
+    "input": {
+      "text": "Dibenzothiazyl disulfide"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2934"
+    }
+  },
+  {
+    "id": "4d_0350",
+    "input": {
+      "text": "Sulfonamide"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2935"
+    }
+  },
+  {
+    "id": "4d_0351",
+    "input": {
+      "text": "Vitamin C (Food Grade)"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2936"
+    }
+  },
+  {
+    "id": "4d_0352",
+    "input": {
+      "text": "Natural prostaglandin"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2937"
+    }
+  },
+  {
+    "id": "4d_0353",
+    "input": {
+      "text": "Glycyrrhizic acid"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2938"
+    }
+  },
+  {
+    "id": "4d_0354",
+    "input": {
+      "text": "Diacetylmorphine (Heroin)"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2939"
+    }
+  },
+  {
+    "id": "4d_0355",
+    "input": {
+      "text": "Xylose"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2940"
+    }
+  },
+  {
+    "id": "4d_0356",
+    "input": {
+      "text": "Novobiocin raw material powder"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2941"
+    }
+  },
+  {
+    "id": "4d_0357",
+    "input": {
+      "text": "Thymol Iodide"
+    },
+    "label": {
+      "hs2": "29",
+      "hs4": "2942"
+    }
+  },
+  {
+    "id": "4d_0358",
+    "input": {
+      "text": "Dried porcine pancreas powder, pharmaceutical raw material"
+    },
+    "label": {
+      "hs2": "30",
+      "hs4": "3001"
+    }
+  },
+  {
+    "id": "4d_0359",
+    "input": {
+      "text": "Vaccine"
+    },
+    "label": {
+      "hs2": "30",
+      "hs4": "3002"
+    }
+  },
+  {
+    "id": "4d_0360",
+    "input": {
+      "text": "Compound Traditional Chinese Medicine Extract"
+    },
+    "label": {
+      "hs2": "30",
+      "hs4": "3003"
+    }
+  },
+  {
+    "id": "4d_0361",
+    "input": {
+      "text": "Vitamin Tablets"
+    },
+    "label": {
+      "hs2": "30",
+      "hs4": "3004"
+    }
+  },
+  {
+    "id": "4d_0362",
+    "input": {
+      "text": "Absorbent cotton"
+    },
+    "label": {
+      "hs2": "30",
+      "hs4": "3005"
+    }
+  },
+  {
+    "id": "4d_0363",
+    "input": {
+      "text": "X-ray contrast agent"
+    },
+    "label": {
+      "hs2": "30",
+      "hs4": "3006"
+    }
+  },
+  {
+    "id": "4d_0364",
+    "input": {
+      "text": "Chicken Manure Organic Fertilizer"
+    },
+    "label": {
+      "hs2": "31",
+      "hs4": "3101"
+    }
+  },
+  {
+    "id": "4d_0365",
+    "input": {
+      "text": "Urea"
+    },
+    "label": {
+      "hs2": "31",
+      "hs4": "3102"
+    }
+  },
+  {
+    "id": "4d_0366",
+    "input": {
+      "text": "Superphosphate"
+    },
+    "label": {
+      "hs2": "31",
+      "hs4": "3103"
+    }
+  },
+  {
+    "id": "4d_0367",
+    "input": {
+      "text": "Potassium sulfate"
+    },
+    "label": {
+      "hs2": "31",
+      "hs4": "3104"
+    }
+  },
+  {
+    "id": "4d_0368",
+    "input": {
+      "text": "Compound fertilizer"
+    },
+    "label": {
+      "hs2": "31",
+      "hs4": "3105"
+    }
+  },
+  {
+    "id": "4d_0369",
+    "input": {
+      "text": "Tannic acid"
+    },
+    "label": {
+      "hs2": "32",
+      "hs4": "3201"
+    }
+  },
+  {
+    "id": "4d_0370",
+    "input": {
+      "text": "Chrome tanning agent for leather"
+    },
+    "label": {
+      "hs2": "32",
+      "hs4": "3202"
+    }
+  },
+  {
+    "id": "4d_0371",
+    "input": {
+      "text": "Natural Indigo Powder"
+    },
+    "label": {
+      "hs2": "32",
+      "hs4": "3203"
+    }
+  },
+  {
+    "id": "4d_0372",
+    "input": {
+      "text": "Phthalocyanine Blue Pigment"
+    },
+    "label": {
+      "hs2": "32",
+      "hs4": "3204"
+    }
+  },
+  {
+    "id": "4d_0373",
+    "input": {
+      "text": "Lake pigment"
+    },
+    "label": {
+      "hs2": "32",
+      "hs4": "3205"
+    }
+  },
+  {
+    "id": "4d_0374",
+    "input": {
+      "text": "Oil-based pigment"
+    },
+    "label": {
+      "hs2": "32",
+      "hs4": "3206"
+    }
+  },
+  {
+    "id": "4d_0375",
+    "input": {
+      "text": "Glass Blue Dye Powder"
+    },
+    "label": {
+      "hs2": "32",
+      "hs4": "3207"
+    }
+  },
+  {
+    "id": "4d_0376",
+    "input": {
+      "text": "Enamel paint"
+    },
+    "label": {
+      "hs2": "32",
+      "hs4": "3208"
+    }
+  },
+  {
+    "id": "4d_0377",
+    "input": {
+      "text": "Latex Paint"
+    },
+    "label": {
+      "hs2": "32",
+      "hs4": "3209"
+    }
+  },
+  {
+    "id": "4d_0378",
+    "input": {
+      "text": "Water-based pigment paste for leather"
+    },
+    "label": {
+      "hs2": "32",
+      "hs4": "3210"
+    }
+  },
+  {
+    "id": "4d_0379",
+    "input": {
+      "text": "Paint Drier"
+    },
+    "label": {
+      "hs2": "32",
+      "hs4": "3211"
+    }
+  },
+  {
+    "id": "4d_0380",
+    "input": {
+      "text": "Aluminum pigment paste"
+    },
+    "label": {
+      "hs2": "32",
+      "hs4": "3212"
+    }
+  },
+  {
+    "id": "4d_0381",
+    "input": {
+      "text": "Watercolor Paints"
+    },
+    "label": {
+      "hs2": "32",
+      "hs4": "3213"
+    }
+  },
+  {
+    "id": "4d_0382",
+    "input": {
+      "text": "Glass Sealant"
+    },
+    "label": {
+      "hs2": "32",
+      "hs4": "3214"
+    }
+  },
+  {
+    "id": "4d_0383",
+    "input": {
+      "text": "Printing ink"
+    },
+    "label": {
+      "hs2": "32",
+      "hs4": "3215"
+    }
+  },
+  {
+    "id": "4d_0384",
+    "input": {
+      "text": "Lavender Essential Oil"
+    },
+    "label": {
+      "hs2": "33",
+      "hs4": "3301"
+    }
+  },
+  {
+    "id": "4d_0385",
+    "input": {
+      "text": "Cola Flavor"
+    },
+    "label": {
+      "hs2": "33",
+      "hs4": "3302"
+    }
+  },
+  {
+    "id": "4d_0386",
+    "input": {
+      "text": "Perfume"
+    },
+    "label": {
+      "hs2": "33",
+      "hs4": "3303"
+    }
+  },
+  {
+    "id": "4d_0387",
+    "input": {
+      "text": "Face Cream"
+    },
+    "label": {
+      "hs2": "33",
+      "hs4": "3304"
+    }
+  },
+  {
+    "id": "4d_0388",
+    "input": {
+      "text": "Shampoo"
+    },
+    "label": {
+      "hs2": "33",
+      "hs4": "3305"
+    }
+  },
+  {
+    "id": "4d_0389",
+    "input": {
+      "text": "Toothpaste"
+    },
+    "label": {
+      "hs2": "33",
+      "hs4": "3306"
+    }
+  },
+  {
+    "id": "4d_0390",
+    "input": {
+      "text": "Shaving cream"
+    },
+    "label": {
+      "hs2": "33",
+      "hs4": "3307"
+    }
+  },
+  {
+    "id": "4d_0391",
+    "input": {
+      "text": "Laundry Soap"
+    },
+    "label": {
+      "hs2": "34",
+      "hs4": "3401"
+    }
+  },
+  {
+    "id": "4d_0392",
+    "input": {
+      "text": "Dishwashing Liquid"
+    },
+    "label": {
+      "hs2": "34",
+      "hs4": "3402"
+    }
+  },
+  {
+    "id": "4d_0393",
+    "input": {
+      "text": "Lubricant"
+    },
+    "label": {
+      "hs2": "34",
+      "hs4": "3403"
+    }
+  },
+  {
+    "id": "4d_0394",
+    "input": {
+      "text": "Oxidized Paraffin"
+    },
+    "label": {
+      "hs2": "34",
+      "hs4": "3404"
+    }
+  },
+  {
+    "id": "4d_0395",
+    "input": {
+      "text": "Shoe polish"
+    },
+    "label": {
+      "hs2": "34",
+      "hs4": "3405"
+    }
+  },
+  {
+    "id": "4d_0396",
+    "input": {
+      "text": "Paraffin Wax Candle"
+    },
+    "label": {
+      "hs2": "34",
+      "hs4": "3406"
+    }
+  },
+  {
+    "id": "4d_0397",
+    "input": {
+      "text": "Dental wax"
+    },
+    "label": {
+      "hs2": "34",
+      "hs4": "3407"
+    }
+  },
+  {
+    "id": "4d_0398",
+    "input": {
+      "text": "Caseinogen"
+    },
+    "label": {
+      "hs2": "35",
+      "hs4": "3501"
+    }
+  },
+  {
+    "id": "4d_0399",
+    "input": {
+      "text": "Albumin"
+    },
+    "label": {
+      "hs2": "35",
+      "hs4": "3502"
+    }
+  },
+  {
+    "id": "4d_0400",
+    "input": {
+      "text": "Gelatin"
+    },
+    "label": {
+      "hs2": "35",
+      "hs4": "3503"
+    }
+  },
+  {
+    "id": "4d_0401",
+    "input": {
+      "text": "Tryptone"
+    },
+    "label": {
+      "hs2": "35",
+      "hs4": "3504"
+    }
+  },
+  {
+    "id": "4d_0402",
+    "input": {
+      "text": "Dextrin"
+    },
+    "label": {
+      "hs2": "35",
+      "hs4": "3505"
+    }
+  },
+  {
+    "id": "4d_0403",
+    "input": {
+      "text": "Glue"
+    },
+    "label": {
+      "hs2": "35",
+      "hs4": "3506"
+    }
+  },
+  {
+    "id": "4d_0404",
+    "input": {
+      "text": "Trypsin"
+    },
+    "label": {
+      "hs2": "35",
+      "hs4": "3507"
+    }
+  },
+  {
+    "id": "4d_0405",
+    "input": {
+      "text": "Single-base propellant"
+    },
+    "label": {
+      "hs2": "36",
+      "hs4": "3601"
+    }
+  },
+  {
+    "id": "4d_0406",
+    "input": {
+      "text": "Industrial explosive"
+    },
+    "label": {
+      "hs2": "36",
+      "hs4": "3602"
+    }
+  },
+  {
+    "id": "4d_0407",
+    "input": {
+      "text": "Detonating cord"
+    },
+    "label": {
+      "hs2": "36",
+      "hs4": "3603"
+    }
+  },
+  {
+    "id": "4d_0408",
+    "input": {
+      "text": "Fireworks"
+    },
+    "label": {
+      "hs2": "36",
+      "hs4": "3604"
+    }
+  },
+  {
+    "id": "4d_0409",
+    "input": {
+      "text": "Matches"
+    },
+    "label": {
+      "hs2": "36",
+      "hs4": "3605"
+    }
+  },
+  {
+    "id": "4d_0410",
+    "input": {
+      "text": "Cerium-iron fire starter"
+    },
+    "label": {
+      "hs2": "36",
+      "hs4": "3606"
+    }
+  },
+  {
+    "id": "4d_0411",
+    "input": {
+      "text": "Unexposed X-ray film"
+    },
+    "label": {
+      "hs2": "37",
+      "hs4": "3701"
+    }
+  },
+  {
+    "id": "4d_0412",
+    "input": {
+      "text": "Unexposed X-ray film"
+    },
+    "label": {
+      "hs2": "37",
+      "hs4": "3702"
+    }
+  },
+  {
+    "id": "4d_0413",
+    "input": {
+      "text": "Photosensitive paper"
+    },
+    "label": {
+      "hs2": "37",
+      "hs4": "3703"
+    }
+  },
+  {
+    "id": "4d_0414",
+    "input": {
+      "text": "Exposed but unprocessed photographic paper"
+    },
+    "label": {
+      "hs2": "37",
+      "hs4": "3704"
+    }
+  },
+  {
+    "id": "4d_0415",
+    "input": {
+      "text": "Processed photographic plates for printing"
+    },
+    "label": {
+      "hs2": "37",
+      "hs4": "3705"
+    }
+  },
+  {
+    "id": "4d_0416",
+    "input": {
+      "text": "Cinematographic film"
+    },
+    "label": {
+      "hs2": "37",
+      "hs4": "3706"
+    }
+  },
+  {
+    "id": "4d_0417",
+    "input": {
+      "text": "Photo Paper Developer"
+    },
+    "label": {
+      "hs2": "37",
+      "hs4": "3707"
+    }
+  },
+  {
+    "id": "4d_0418",
+    "input": {
+      "text": "Synthetic Graphite"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3801"
+    }
+  },
+  {
+    "id": "4d_0419",
+    "input": {
+      "text": "Activated carbon"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3802"
+    }
+  },
+  {
+    "id": "4d_0420",
+    "input": {
+      "text": "Tall oil"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3803"
+    }
+  },
+  {
+    "id": "4d_0421",
+    "input": {
+      "text": "Spent sulfite liquor"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3804"
+    }
+  },
+  {
+    "id": "4d_0422",
+    "input": {
+      "text": "Turpentine"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3805"
+    }
+  },
+  {
+    "id": "4d_0423",
+    "input": {
+      "text": "Rosin"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3806"
+    }
+  },
+  {
+    "id": "4d_0424",
+    "input": {
+      "text": "Wood tar"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3807"
+    }
+  },
+  {
+    "id": "4d_0425",
+    "input": {
+      "text": "Insecticide"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3808"
+    }
+  },
+  {
+    "id": "4d_0426",
+    "input": {
+      "text": "Dyeing Auxiliary"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3809"
+    }
+  },
+  {
+    "id": "4d_0427",
+    "input": {
+      "text": "Flux"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3810"
+    }
+  },
+  {
+    "id": "4d_0428",
+    "input": {
+      "text": "Anti-knock Agent"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3811"
+    }
+  },
+  {
+    "id": "4d_0429",
+    "input": {
+      "text": "Rubber accelerator"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3812"
+    }
+  },
+  {
+    "id": "4d_0430",
+    "input": {
+      "text": "Dry Powder Fire Extinguisher"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3813"
+    }
+  },
+  {
+    "id": "4d_0431",
+    "input": {
+      "text": "Organic composite solvent"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3814"
+    }
+  },
+  {
+    "id": "4d_0432",
+    "input": {
+      "text": "Catalyst"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3815"
+    }
+  },
+  {
+    "id": "4d_0433",
+    "input": {
+      "text": "Refractory cement"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3816"
+    }
+  },
+  {
+    "id": "4d_0434",
+    "input": {
+      "text": "Mixed alkylbenzene"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3817"
+    }
+  },
+  {
+    "id": "4d_0435",
+    "input": {
+      "text": "Doped semiconductor wafer"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3818"
+    }
+  },
+  {
+    "id": "4d_0436",
+    "input": {
+      "text": "Hydraulic oil"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3819"
+    }
+  },
+  {
+    "id": "4d_0437",
+    "input": {
+      "text": "Antifreeze"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3820"
+    }
+  },
+  {
+    "id": "4d_0438",
+    "input": {
+      "text": "Cell Culture Medium"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3821"
+    }
+  },
+  {
+    "id": "4d_0439",
+    "input": {
+      "text": "Diagnostic Kit"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3822"
+    }
+  },
+  {
+    "id": "4d_0440",
+    "input": {
+      "text": "Industrial fatty alcohol"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3823"
+    }
+  },
+  {
+    "id": "4d_0441",
+    "input": {
+      "text": "Mold Binder"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3824"
+    }
+  },
+  {
+    "id": "4d_0442",
+    "input": {
+      "text": "Chemical Waste"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3825"
+    }
+  },
+  {
+    "id": "4d_0443",
+    "input": {
+      "text": "Biodiesel"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3826"
+    }
+  },
+  {
+    "id": "4d_0444",
+    "input": {
+      "text": "Freon mixture"
+    },
+    "label": {
+      "hs2": "38",
+      "hs4": "3827"
+    }
+  },
+  {
+    "id": "4d_0445",
+    "input": {
+      "text": "Polyethylene"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3901"
+    }
+  },
+  {
+    "id": "4d_0446",
+    "input": {
+      "text": "Polypropylene granules"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3902"
+    }
+  },
+  {
+    "id": "4d_0447",
+    "input": {
+      "text": "Styrene granules"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3903"
+    }
+  },
+  {
+    "id": "4d_0448",
+    "input": {
+      "text": "PVC granules"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3904"
+    }
+  },
+  {
+    "id": "4d_0449",
+    "input": {
+      "text": "Polyvinyl Butyral PVB"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3905"
+    }
+  },
+  {
+    "id": "4d_0450",
+    "input": {
+      "text": "Acrylic resin pellets"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3906"
+    }
+  },
+  {
+    "id": "4d_0451",
+    "input": {
+      "text": "Polycarbonate raw material"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3907"
+    }
+  },
+  {
+    "id": "4d_0452",
+    "input": {
+      "text": "Polyamide granules"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3908"
+    }
+  },
+  {
+    "id": "4d_0453",
+    "input": {
+      "text": "Amino resin"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3909"
+    }
+  },
+  {
+    "id": "4d_0454",
+    "input": {
+      "text": "Polysiloxane"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3910"
+    }
+  },
+  {
+    "id": "4d_0455",
+    "input": {
+      "text": "Petroleum resin"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3911"
+    }
+  },
+  {
+    "id": "4d_0456",
+    "input": {
+      "text": "Plasticized cellulose acetate"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3912"
+    }
+  },
+  {
+    "id": "4d_0457",
+    "input": {
+      "text": "Alginates"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3913"
+    }
+  },
+  {
+    "id": "4d_0458",
+    "input": {
+      "text": "Ion-exchange resin"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3914"
+    }
+  },
+  {
+    "id": "4d_0459",
+    "input": {
+      "text": "Plastic scrap"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3915"
+    }
+  },
+  {
+    "id": "4d_0460",
+    "input": {
+      "text": "Plastic monofilament"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3916"
+    }
+  },
+  {
+    "id": "4d_0461",
+    "input": {
+      "text": "Plastic water pipe"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3917"
+    }
+  },
+  {
+    "id": "4d_0462",
+    "input": {
+      "text": "Plastic Flooring"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3918"
+    }
+  },
+  {
+    "id": "4d_0463",
+    "input": {
+      "text": "Self-adhesive plastic film"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3919"
+    }
+  },
+  {
+    "id": "4d_0464",
+    "input": {
+      "text": "Non-foam PE film"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3920"
+    }
+  },
+  {
+    "id": "4d_0465",
+    "input": {
+      "text": "Plastic packaging film"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3921"
+    }
+  },
+  {
+    "id": "4d_0466",
+    "input": {
+      "text": "Plastic bathtub"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3922"
+    }
+  },
+  {
+    "id": "4d_0467",
+    "input": {
+      "text": "Plastic packing case"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3923"
+    }
+  },
+  {
+    "id": "4d_0468",
+    "input": {
+      "text": "Plastic Water Cup"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3924"
+    }
+  },
+  {
+    "id": "4d_0469",
+    "input": {
+      "text": "Plastic railing"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3925"
+    }
+  },
+  {
+    "id": "4d_0470",
+    "input": {
+      "text": "Plastic Raincoat"
+    },
+    "label": {
+      "hs2": "39",
+      "hs4": "3926"
+    }
+  },
+  {
+    "id": "4d_0471",
+    "input": {
+      "text": "Natural Rubber"
+    },
+    "label": {
+      "hs2": "40",
+      "hs4": "4001"
+    }
+  },
+  {
+    "id": "4d_0472",
+    "input": {
+      "text": "Synthetic Rubber"
+    },
+    "label": {
+      "hs2": "40",
+      "hs4": "4002"
+    }
+  },
+  {
+    "id": "4d_0473",
+    "input": {
+      "text": "Reclaimed rubber"
+    },
+    "label": {
+      "hs2": "40",
+      "hs4": "4003"
+    }
+  },
+  {
+    "id": "4d_0474",
+    "input": {
+      "text": "Rubber waste"
+    },
+    "label": {
+      "hs2": "40",
+      "hs4": "4004"
+    }
+  },
+  {
+    "id": "4d_0475",
+    "input": {
+      "text": "Composite Latex"
+    },
+    "label": {
+      "hs2": "40",
+      "hs4": "4005"
+    }
+  },
+  {
+    "id": "4d_0476",
+    "input": {
+      "text": "Unvulcanized rubber sealing ring"
+    },
+    "label": {
+      "hs2": "40",
+      "hs4": "4006"
+    }
+  },
+  {
+    "id": "4d_0477",
+    "input": {
+      "text": "Rubber cord"
+    },
+    "label": {
+      "hs2": "40",
+      "hs4": "4007"
+    }
+  },
+  {
+    "id": "4d_0478",
+    "input": {
+      "text": "Vulcanized Rubber Sheet"
+    },
+    "label": {
+      "hs2": "40",
+      "hs4": "4008"
+    }
+  },
+  {
+    "id": "4d_0479",
+    "input": {
+      "text": "Rubber hose"
+    },
+    "label": {
+      "hs2": "40",
+      "hs4": "4009"
+    }
+  },
+  {
+    "id": "4d_0480",
+    "input": {
+      "text": "Rubber conveyor belt"
+    },
+    "label": {
+      "hs2": "40",
+      "hs4": "4010"
+    }
+  },
+  {
+    "id": "4d_0481",
+    "input": {
+      "text": "Pneumatic rubber tires"
+    },
+    "label": {
+      "hs2": "40",
+      "hs4": "4011"
+    }
+  },
+  {
+    "id": "4d_0482",
+    "input": {
+      "text": "Retreaded Tyres"
+    },
+    "label": {
+      "hs2": "40",
+      "hs4": "4012"
+    }
+  },
+  {
+    "id": "4d_0483",
+    "input": {
+      "text": "Inner Tube"
+    },
+    "label": {
+      "hs2": "40",
+      "hs4": "4013"
+    }
+  },
+  {
+    "id": "4d_0484",
+    "input": {
+      "text": "Rubber condoms"
+    },
+    "label": {
+      "hs2": "40",
+      "hs4": "4014"
+    }
+  },
+  {
+    "id": "4d_0485",
+    "input": {
+      "text": "Rubber gloves"
+    },
+    "label": {
+      "hs2": "40",
+      "hs4": "4015"
+    }
+  },
+  {
+    "id": "4d_0486",
+    "input": {
+      "text": "Eraser"
+    },
+    "label": {
+      "hs2": "40",
+      "hs4": "4016"
+    }
+  },
+  {
+    "id": "4d_0487",
+    "input": {
+      "text": "Hard rubber tube"
+    },
+    "label": {
+      "hs2": "40",
+      "hs4": "4017"
+    }
+  },
+  {
+    "id": "4d_0488",
+    "input": {
+      "text": "Raw hides"
+    },
+    "label": {
+      "hs2": "41",
+      "hs4": "4101"
+    }
+  },
+  {
+    "id": "4d_0489",
+    "input": {
+      "text": "Sheepskin"
+    },
+    "label": {
+      "hs2": "41",
+      "hs4": "4102"
+    }
+  },
+  {
+    "id": "4d_0490",
+    "input": {
+      "text": "Raw goat skins"
+    },
+    "label": {
+      "hs2": "41",
+      "hs4": "4103"
+    }
+  },
+  {
+    "id": "4d_0491",
+    "input": {
+      "text": "Tanned cow leather"
+    },
+    "label": {
+      "hs2": "41",
+      "hs4": "4104"
+    }
+  },
+  {
+    "id": "4d_0492",
+    "input": {
+      "text": "Tanned hairless sheepskin"
+    },
+    "label": {
+      "hs2": "41",
+      "hs4": "4105"
+    }
+  },
+  {
+    "id": "4d_0493",
+    "input": {
+      "text": "Tanned goatskin"
+    },
+    "label": {
+      "hs2": "41",
+      "hs4": "4106"
+    }
+  },
+  {
+    "id": "4d_0494",
+    "input": {
+      "text": "Oiled and Dyed Calf Upper Leather"
+    },
+    "label": {
+      "hs2": "41",
+      "hs4": "4107"
+    }
+  },
+  {
+    "id": "4d_0495",
+    "input": {
+      "text": "Suede Sheepskin Leather"
+    },
+    "label": {
+      "hs2": "41",
+      "hs4": "4112"
+    }
+  },
+  {
+    "id": "4d_0496",
+    "input": {
+      "text": "Dyed finished camel leather"
+    },
+    "label": {
+      "hs2": "41",
+      "hs4": "4113"
+    }
+  },
+  {
+    "id": "4d_0497",
+    "input": {
+      "text": "Chamois leather"
+    },
+    "label": {
+      "hs2": "41",
+      "hs4": "4114"
+    }
+  },
+  {
+    "id": "4d_0498",
+    "input": {
+      "text": "Reconstituted leather"
+    },
+    "label": {
+      "hs2": "41",
+      "hs4": "4115"
+    }
+  },
+  {
+    "id": "4d_0499",
+    "input": {
+      "text": "Saddle"
+    },
+    "label": {
+      "hs2": "42",
+      "hs4": "4201"
+    }
+  },
+  {
+    "id": "4d_0500",
+    "input": {
+      "text": "Leather handbag"
+    },
+    "label": {
+      "hs2": "42",
+      "hs4": "4202"
+    }
+  },
+  {
+    "id": "4d_0501",
+    "input": {
+      "text": "Leather coat"
+    },
+    "label": {
+      "hs2": "42",
+      "hs4": "4203"
+    }
+  },
+  {
+    "id": "4d_0502",
+    "input": {
+      "text": "Leather conveyor belt"
+    },
+    "label": {
+      "hs2": "42",
+      "hs4": "4205"
+    }
+  },
+  {
+    "id": "4d_0503",
+    "input": {
+      "text": "Catgut"
+    },
+    "label": {
+      "hs2": "42",
+      "hs4": "4206"
+    }
+  },
+  {
+    "id": "4d_0504",
+    "input": {
+      "text": "Raw mink skins"
+    },
+    "label": {
+      "hs2": "43",
+      "hs4": "4301"
+    }
+  },
+  {
+    "id": "4d_0505",
+    "input": {
+      "text": "Tanned rabbit fur"
+    },
+    "label": {
+      "hs2": "43",
+      "hs4": "4302"
+    }
+  },
+  {
+    "id": "4d_0506",
+    "input": {
+      "text": "Fur coat"
+    },
+    "label": {
+      "hs2": "43",
+      "hs4": "4303"
+    }
+  },
+  {
+    "id": "4d_0507",
+    "input": {
+      "text": "Faux Fur"
+    },
+    "label": {
+      "hs2": "43",
+      "hs4": "4304"
+    }
+  },
+  {
+    "id": "4d_0508",
+    "input": {
+      "text": "Split firewood"
+    },
+    "label": {
+      "hs2": "44",
+      "hs4": "4401"
+    }
+  },
+  {
+    "id": "4d_0509",
+    "input": {
+      "text": "Charcoal"
+    },
+    "label": {
+      "hs2": "44",
+      "hs4": "4402"
+    }
+  },
+  {
+    "id": "4d_0510",
+    "input": {
+      "text": "Logs"
+    },
+    "label": {
+      "hs2": "44",
+      "hs4": "4403"
+    }
+  },
+  {
+    "id": "4d_0511",
+    "input": {
+      "text": "Wooden Hoop"
+    },
+    "label": {
+      "hs2": "44",
+      "hs4": "4404"
+    }
+  },
+  {
+    "id": "4d_0512",
+    "input": {
+      "text": "Wood flour"
+    },
+    "label": {
+      "hs2": "44",
+      "hs4": "4405"
+    }
+  },
+  {
+    "id": "4d_0513",
+    "input": {
+      "text": "Wooden sleepers"
+    },
+    "label": {
+      "hs2": "44",
+      "hs4": "4406"
+    }
+  },
+  {
+    "id": "4d_0514",
+    "input": {
+      "text": "25 mm pine board"
+    },
+    "label": {
+      "hs2": "44",
+      "hs4": "4407"
+    }
+  },
+  {
+    "id": "4d_0515",
+    "input": {
+      "text": "Veneer for Plywood"
+    },
+    "label": {
+      "hs2": "44",
+      "hs4": "4408"
+    }
+  },
+  {
+    "id": "4d_0516",
+    "input": {
+      "text": "Finger-jointed long boards"
+    },
+    "label": {
+      "hs2": "44",
+      "hs4": "4409"
+    }
+  },
+  {
+    "id": "4d_0517",
+    "input": {
+      "text": "Oriented Strand Board"
+    },
+    "label": {
+      "hs2": "44",
+      "hs4": "4410"
+    }
+  },
+  {
+    "id": "4d_0518",
+    "input": {
+      "text": "Wood Fiberboard"
+    },
+    "label": {
+      "hs2": "44",
+      "hs4": "4411"
+    }
+  },
+  {
+    "id": "4d_0519",
+    "input": {
+      "text": "Plywood"
+    },
+    "label": {
+      "hs2": "44",
+      "hs4": "4412"
+    }
+  },
+  {
+    "id": "4d_0520",
+    "input": {
+      "text": "Resin-Impregnated Compressed Wood"
+    },
+    "label": {
+      "hs2": "44",
+      "hs4": "4413"
+    }
+  },
+  {
+    "id": "4d_0521",
+    "input": {
+      "text": "Wooden photo frame"
+    },
+    "label": {
+      "hs2": "44",
+      "hs4": "4414"
+    }
+  },
+  {
+    "id": "4d_0522",
+    "input": {
+      "text": "Wooden packing case"
+    },
+    "label": {
+      "hs2": "44",
+      "hs4": "4415"
+    }
+  },
+  {
+    "id": "4d_0523",
+    "input": {
+      "text": "Wooden barrel"
+    },
+    "label": {
+      "hs2": "44",
+      "hs4": "4416"
+    }
+  },
+  {
+    "id": "4d_0524",
+    "input": {
+      "text": "Wooden broom"
+    },
+    "label": {
+      "hs2": "44",
+      "hs4": "4417"
+    }
+  },
+  {
+    "id": "4d_0525",
+    "input": {
+      "text": "Wooden doors and windows"
+    },
+    "label": {
+      "hs2": "44",
+      "hs4": "4418"
+    }
+  },
+  {
+    "id": "4d_0526",
+    "input": {
+      "text": "Wooden chopsticks"
+    },
+    "label": {
+      "hs2": "44",
+      "hs4": "4419"
+    }
+  },
+  {
+    "id": "4d_0527",
+    "input": {
+      "text": "Inlaid Wood Handicrafts"
+    },
+    "label": {
+      "hs2": "44",
+      "hs4": "4420"
+    }
+  },
+  {
+    "id": "4d_0528",
+    "input": {
+      "text": "Wooden beehive"
+    },
+    "label": {
+      "hs2": "44",
+      "hs4": "4421"
+    }
+  },
+  {
+    "id": "4d_0529",
+    "input": {
+      "text": "Raw Cork"
+    },
+    "label": {
+      "hs2": "45",
+      "hs4": "4501"
+    }
+  },
+  {
+    "id": "4d_0530",
+    "input": {
+      "text": "Cork board"
+    },
+    "label": {
+      "hs2": "45",
+      "hs4": "4502"
+    }
+  },
+  {
+    "id": "4d_0531",
+    "input": {
+      "text": "Cork stopper"
+    },
+    "label": {
+      "hs2": "45",
+      "hs4": "4503"
+    }
+  },
+  {
+    "id": "4d_0532",
+    "input": {
+      "text": "Pressed Cork"
+    },
+    "label": {
+      "hs2": "45",
+      "hs4": "4504"
+    }
+  },
+  {
+    "id": "4d_0533",
+    "input": {
+      "text": "Woven Straw Mat"
+    },
+    "label": {
+      "hs2": "46",
+      "hs4": "4601"
+    }
+  },
+  {
+    "id": "4d_0534",
+    "input": {
+      "text": "Woven basket"
+    },
+    "label": {
+      "hs2": "46",
+      "hs4": "4602"
+    }
+  },
+  {
+    "id": "4d_0535",
+    "input": {
+      "text": "Mechanical wood pulp"
+    },
+    "label": {
+      "hs2": "47",
+      "hs4": "4701"
+    }
+  },
+  {
+    "id": "4d_0536",
+    "input": {
+      "text": "Dissolving pulp"
+    },
+    "label": {
+      "hs2": "47",
+      "hs4": "4702"
+    }
+  },
+  {
+    "id": "4d_0537",
+    "input": {
+      "text": "Caustic soda wood pulp"
+    },
+    "label": {
+      "hs2": "47",
+      "hs4": "4703"
+    }
+  },
+  {
+    "id": "4d_0538",
+    "input": {
+      "text": "Sulfite wood pulp"
+    },
+    "label": {
+      "hs2": "47",
+      "hs4": "4704"
+    }
+  },
+  {
+    "id": "4d_0539",
+    "input": {
+      "text": "Semi-chemical kraft pulp"
+    },
+    "label": {
+      "hs2": "47",
+      "hs4": "4705"
+    }
+  },
+  {
+    "id": "4d_0540",
+    "input": {
+      "text": "Waste paper pulp"
+    },
+    "label": {
+      "hs2": "47",
+      "hs4": "4706"
+    }
+  },
+  {
+    "id": "4d_0541",
+    "input": {
+      "text": "Recovered waste paper"
+    },
+    "label": {
+      "hs2": "47",
+      "hs4": "4707"
+    }
+  },
+  {
+    "id": "4d_0542",
+    "input": {
+      "text": "Newsprint"
+    },
+    "label": {
+      "hs2": "48",
+      "hs4": "4801"
+    }
+  },
+  {
+    "id": "4d_0543",
+    "input": {
+      "text": "White Cardboard"
+    },
+    "label": {
+      "hs2": "48",
+      "hs4": "4802"
+    }
+  },
+  {
+    "id": "4d_0544",
+    "input": {
+      "text": "Toilet Tissue Base Paper"
+    },
+    "label": {
+      "hs2": "48",
+      "hs4": "4803"
+    }
+  },
+  {
+    "id": "4d_0545",
+    "input": {
+      "text": "Kraft paper"
+    },
+    "label": {
+      "hs2": "48",
+      "hs4": "4804"
+    }
+  },
+  {
+    "id": "4d_0546",
+    "input": {
+      "text": "Sulfite Wrapping Paper"
+    },
+    "label": {
+      "hs2": "48",
+      "hs4": "4805"
+    }
+  },
+  {
+    "id": "4d_0547",
+    "input": {
+      "text": "Greaseproof Paper"
+    },
+    "label": {
+      "hs2": "48",
+      "hs4": "4806"
+    }
+  },
+  {
+    "id": "4d_0548",
+    "input": {
+      "text": "Composite Paperboard"
+    },
+    "label": {
+      "hs2": "48",
+      "hs4": "4807"
+    }
+  },
+  {
+    "id": "4d_0549",
+    "input": {
+      "text": "Crepe paper"
+    },
+    "label": {
+      "hs2": "48",
+      "hs4": "4808"
+    }
+  },
+  {
+    "id": "4d_0550",
+    "input": {
+      "text": "Typewriter Carbon Paper"
+    },
+    "label": {
+      "hs2": "48",
+      "hs4": "4809"
+    }
+  },
+  {
+    "id": "4d_0551",
+    "input": {
+      "text": "Double-sided Kaolin-coated Paper"
+    },
+    "label": {
+      "hs2": "48",
+      "hs4": "4810"
+    }
+  },
+  {
+    "id": "4d_0552",
+    "input": {
+      "text": "PE-coated paper"
+    },
+    "label": {
+      "hs2": "48",
+      "hs4": "4811"
+    }
+  },
+  {
+    "id": "4d_0553",
+    "input": {
+      "text": "Pulp Filter Plate"
+    },
+    "label": {
+      "hs2": "48",
+      "hs4": "4812"
+    }
+  },
+  {
+    "id": "4d_0554",
+    "input": {
+      "text": "Cigarette paper"
+    },
+    "label": {
+      "hs2": "48",
+      "hs4": "4813"
+    }
+  },
+  {
+    "id": "4d_0555",
+    "input": {
+      "text": "Decorative wallpaper with pattern"
+    },
+    "label": {
+      "hs2": "48",
+      "hs4": "4814"
+    }
+  },
+  {
+    "id": "4d_0556",
+    "input": {
+      "text": "Xiaozhang Self-printed Carbon Paper"
+    },
+    "label": {
+      "hs2": "48",
+      "hs4": "4816"
+    }
+  },
+  {
+    "id": "4d_0557",
+    "input": {
+      "text": "Envelope"
+    },
+    "label": {
+      "hs2": "48",
+      "hs4": "4817"
+    }
+  },
+  {
+    "id": "4d_0558",
+    "input": {
+      "text": "Napkins"
+    },
+    "label": {
+      "hs2": "48",
+      "hs4": "4818"
+    }
+  },
+  {
+    "id": "4d_0559",
+    "input": {
+      "text": "Carton"
+    },
+    "label": {
+      "hs2": "48",
+      "hs4": "4819"
+    }
+  },
+  {
+    "id": "4d_0560",
+    "input": {
+      "text": "Exercise book"
+    },
+    "label": {
+      "hs2": "48",
+      "hs4": "4820"
+    }
+  },
+  {
+    "id": "4d_0561",
+    "input": {
+      "text": "Paper label"
+    },
+    "label": {
+      "hs2": "48",
+      "hs4": "4821"
+    }
+  },
+  {
+    "id": "4d_0562",
+    "input": {
+      "text": "Paper tube"
+    },
+    "label": {
+      "hs2": "48",
+      "hs4": "4822"
+    }
+  },
+  {
+    "id": "4d_0563",
+    "input": {
+      "text": "Paper gasket"
+    },
+    "label": {
+      "hs2": "48",
+      "hs4": "4823"
+    }
+  },
+  {
+    "id": "4d_0564",
+    "input": {
+      "text": "Novel"
+    },
+    "label": {
+      "hs2": "49",
+      "hs4": "4901"
+    }
+  },
+  {
+    "id": "4d_0565",
+    "input": {
+      "text": "Magazine"
+    },
+    "label": {
+      "hs2": "49",
+      "hs4": "4902"
+    }
+  },
+  {
+    "id": "4d_0566",
+    "input": {
+      "text": "Children's Picture Book"
+    },
+    "label": {
+      "hs2": "49",
+      "hs4": "4903"
+    }
+  },
+  {
+    "id": "4d_0567",
+    "input": {
+      "text": "Musical manuscript"
+    },
+    "label": {
+      "hs2": "49",
+      "hs4": "4904"
+    }
+  },
+  {
+    "id": "4d_0568",
+    "input": {
+      "text": "Atlas"
+    },
+    "label": {
+      "hs2": "49",
+      "hs4": "4905"
+    }
+  },
+  {
+    "id": "4d_0569",
+    "input": {
+      "text": "Architectural design drawings"
+    },
+    "label": {
+      "hs2": "49",
+      "hs4": "4906"
+    }
+  },
+  {
+    "id": "4d_0570",
+    "input": {
+      "text": "Printed tickets and vouchers"
+    },
+    "label": {
+      "hs2": "49",
+      "hs4": "4907"
+    }
+  },
+  {
+    "id": "4d_0571",
+    "input": {
+      "text": "Transfer decal paper"
+    },
+    "label": {
+      "hs2": "49",
+      "hs4": "4908"
+    }
+  },
+  {
+    "id": "4d_0572",
+    "input": {
+      "text": "Postcard"
+    },
+    "label": {
+      "hs2": "49",
+      "hs4": "4909"
+    }
+  },
+  {
+    "id": "4d_0573",
+    "input": {
+      "text": "Printed paper calendar"
+    },
+    "label": {
+      "hs2": "49",
+      "hs4": "4910"
+    }
+  },
+  {
+    "id": "4d_0574",
+    "input": {
+      "text": "Printed poster"
+    },
+    "label": {
+      "hs2": "49",
+      "hs4": "4911"
+    }
+  },
+  {
+    "id": "4d_0575",
+    "input": {
+      "text": "Silkworm cocoons for reeling"
+    },
+    "label": {
+      "hs2": "50",
+      "hs4": "5001"
+    }
+  },
+  {
+    "id": "4d_0576",
+    "input": {
+      "text": "Raw silk"
+    },
+    "label": {
+      "hs2": "50",
+      "hs4": "5002"
+    }
+  },
+  {
+    "id": "4d_0577",
+    "input": {
+      "text": "Waste silk"
+    },
+    "label": {
+      "hs2": "50",
+      "hs4": "5003"
+    }
+  },
+  {
+    "id": "4d_0578",
+    "input": {
+      "text": "Non-retail silk yarn"
+    },
+    "label": {
+      "hs2": "50",
+      "hs4": "5004"
+    }
+  },
+  {
+    "id": "4d_0579",
+    "input": {
+      "text": "Spun silk yarn"
+    },
+    "label": {
+      "hs2": "50",
+      "hs4": "5005"
+    }
+  },
+  {
+    "id": "4d_0580",
+    "input": {
+      "text": "Silk embroidery thread"
+    },
+    "label": {
+      "hs2": "50",
+      "hs4": "5006"
+    }
+  },
+  {
+    "id": "4d_0581",
+    "input": {
+      "text": "Silk fabric"
+    },
+    "label": {
+      "hs2": "50",
+      "hs4": "5007"
+    }
+  },
+  {
+    "id": "4d_0582",
+    "input": {
+      "text": "Greasy wool"
+    },
+    "label": {
+      "hs2": "51",
+      "hs4": "5101"
+    }
+  },
+  {
+    "id": "4d_0583",
+    "input": {
+      "text": "Uncombed raw dog hair"
+    },
+    "label": {
+      "hs2": "51",
+      "hs4": "5102"
+    }
+  },
+  {
+    "id": "4d_0584",
+    "input": {
+      "text": "Wool waste"
+    },
+    "label": {
+      "hs2": "51",
+      "hs4": "5103"
+    }
+  },
+  {
+    "id": "4d_0585",
+    "input": {
+      "text": "Recycled Rabbit Hair Fiber"
+    },
+    "label": {
+      "hs2": "51",
+      "hs4": "5104"
+    }
+  },
+  {
+    "id": "4d_0586",
+    "input": {
+      "text": "Combed wool top"
+    },
+    "label": {
+      "hs2": "51",
+      "hs4": "5105"
+    }
+  },
+  {
+    "id": "4d_0587",
+    "input": {
+      "text": "Coarse wool yarn"
+    },
+    "label": {
+      "hs2": "51",
+      "hs4": "5106"
+    }
+  },
+  {
+    "id": "4d_0588",
+    "input": {
+      "text": "Combed wool yarn"
+    },
+    "label": {
+      "hs2": "51",
+      "hs4": "5107"
+    }
+  },
+  {
+    "id": "4d_0589",
+    "input": {
+      "text": "Worsted camel hair yarn"
+    },
+    "label": {
+      "hs2": "51",
+      "hs4": "5108"
+    }
+  },
+  {
+    "id": "4d_0590",
+    "input": {
+      "text": "Wool yarn"
+    },
+    "label": {
+      "hs2": "51",
+      "hs4": "5109"
+    }
+  },
+  {
+    "id": "4d_0591",
+    "input": {
+      "text": "Horsehair yarn"
+    },
+    "label": {
+      "hs2": "51",
+      "hs4": "5110"
+    }
+  },
+  {
+    "id": "4d_0592",
+    "input": {
+      "text": "Wool Blanket"
+    },
+    "label": {
+      "hs2": "51",
+      "hs4": "5111"
+    }
+  },
+  {
+    "id": "4d_0593",
+    "input": {
+      "text": "Wool fabric"
+    },
+    "label": {
+      "hs2": "51",
+      "hs4": "5112"
+    }
+  },
+  {
+    "id": "4d_0594",
+    "input": {
+      "text": "Horsehair woven fabric"
+    },
+    "label": {
+      "hs2": "51",
+      "hs4": "5113"
+    }
+  },
+  {
+    "id": "4d_0595",
+    "input": {
+      "text": "Cotton, not carded or combed"
+    },
+    "label": {
+      "hs2": "52",
+      "hs4": "5201"
+    }
+  },
+  {
+    "id": "4d_0596",
+    "input": {
+      "text": "Waste cotton yarn"
+    },
+    "label": {
+      "hs2": "52",
+      "hs4": "5202"
+    }
+  },
+  {
+    "id": "4d_0597",
+    "input": {
+      "text": "Combed cotton"
+    },
+    "label": {
+      "hs2": "52",
+      "hs4": "5203"
+    }
+  },
+  {
+    "id": "4d_0598",
+    "input": {
+      "text": "Cotton sewing thread"
+    },
+    "label": {
+      "hs2": "52",
+      "hs4": "5204"
+    }
+  },
+  {
+    "id": "4d_0599",
+    "input": {
+      "text": "Cotton yarn containing ≥85% cotton, not for retail sale"
+    },
+    "label": {
+      "hs2": "52",
+      "hs4": "5205"
+    }
+  },
+  {
+    "id": "4d_0600",
+    "input": {
+      "text": "Cotton yarn containing less than 85% cotton"
+    },
+    "label": {
+      "hs2": "52",
+      "hs4": "5206"
+    }
+  },
+  {
+    "id": "4d_0601",
+    "input": {
+      "text": "Cotton yarn for retail"
+    },
+    "label": {
+      "hs2": "52",
+      "hs4": "5207"
+    }
+  },
+  {
+    "id": "4d_0602",
+    "input": {
+      "text": "Fine cotton twill"
+    },
+    "label": {
+      "hs2": "52",
+      "hs4": "5208"
+    }
+  },
+  {
+    "id": "4d_0603",
+    "input": {
+      "text": "Cotton workwear fabric 210 g/m²"
+    },
+    "label": {
+      "hs2": "52",
+      "hs4": "5209"
+    }
+  },
+  {
+    "id": "4d_0604",
+    "input": {
+      "text": "70% cotton woven fabric, 180 g/m²"
+    },
+    "label": {
+      "hs2": "52",
+      "hs4": "5210"
+    }
+  },
+  {
+    "id": "4d_0605",
+    "input": {
+      "text": "70% Cotton Woven Fabric, 210 g/m²"
+    },
+    "label": {
+      "hs2": "52",
+      "hs4": "5211"
+    }
+  },
+  {
+    "id": "4d_0606",
+    "input": {
+      "text": "Cotton blended woven fabric"
+    },
+    "label": {
+      "hs2": "52",
+      "hs4": "5212"
+    }
+  },
+  {
+    "id": "4d_0607",
+    "input": {
+      "text": "Raw flax for textile use"
+    },
+    "label": {
+      "hs2": "53",
+      "hs4": "5301"
+    }
+  },
+  {
+    "id": "4d_0608",
+    "input": {
+      "text": "Raw hemp for textile use"
+    },
+    "label": {
+      "hs2": "53",
+      "hs4": "5302"
+    }
+  },
+  {
+    "id": "4d_0609",
+    "input": {
+      "text": "Jute fiber"
+    },
+    "label": {
+      "hs2": "53",
+      "hs4": "5303"
+    }
+  },
+  {
+    "id": "4d_0610",
+    "input": {
+      "text": "Coconut fiber"
+    },
+    "label": {
+      "hs2": "53",
+      "hs4": "5305"
+    }
+  },
+  {
+    "id": "4d_0611",
+    "input": {
+      "text": "Flax yarn"
+    },
+    "label": {
+      "hs2": "53",
+      "hs4": "5306"
+    }
+  },
+  {
+    "id": "4d_0612",
+    "input": {
+      "text": "Jute yarn"
+    },
+    "label": {
+      "hs2": "53",
+      "hs4": "5307"
+    }
+  },
+  {
+    "id": "4d_0613",
+    "input": {
+      "text": "Paper yarn"
+    },
+    "label": {
+      "hs2": "53",
+      "hs4": "5308"
+    }
+  },
+  {
+    "id": "4d_0614",
+    "input": {
+      "text": "Linen fabric"
+    },
+    "label": {
+      "hs2": "53",
+      "hs4": "5309"
+    }
+  },
+  {
+    "id": "4d_0615",
+    "input": {
+      "text": "Jute fabric"
+    },
+    "label": {
+      "hs2": "53",
+      "hs4": "5310"
+    }
+  },
+  {
+    "id": "4d_0616",
+    "input": {
+      "text": "Sisal Canvas"
+    },
+    "label": {
+      "hs2": "53",
+      "hs4": "5311"
+    }
+  },
+  {
+    "id": "4d_0617",
+    "input": {
+      "text": "Polyester Sewing Thread"
+    },
+    "label": {
+      "hs2": "54",
+      "hs4": "5401"
+    }
+  },
+  {
+    "id": "4d_0618",
+    "input": {
+      "text": "Nylon filament yarn"
+    },
+    "label": {
+      "hs2": "54",
+      "hs4": "5402"
+    }
+  },
+  {
+    "id": "4d_0619",
+    "input": {
+      "text": "Artificial filament yarn"
+    },
+    "label": {
+      "hs2": "54",
+      "hs4": "5403"
+    }
+  },
+  {
+    "id": "4d_0620",
+    "input": {
+      "text": "Synthetic fiber flat strip"
+    },
+    "label": {
+      "hs2": "54",
+      "hs4": "5404"
+    }
+  },
+  {
+    "id": "4d_0621",
+    "input": {
+      "text": "Man-made fibre monofilament, cross-section ≤1 mm, fineness ≥67 dtex"
+    },
+    "label": {
+      "hs2": "54",
+      "hs4": "5405"
+    }
+  },
+  {
+    "id": "4d_0622",
+    "input": {
+      "text": "Retail polyester filament yarn"
+    },
+    "label": {
+      "hs2": "54",
+      "hs4": "5406"
+    }
+  },
+  {
+    "id": "4d_0623",
+    "input": {
+      "text": "Polyester Taffeta"
+    },
+    "label": {
+      "hs2": "54",
+      "hs4": "5407"
+    }
+  },
+  {
+    "id": "4d_0624",
+    "input": {
+      "text": "Viscose high-tenacity filament fabric"
+    },
+    "label": {
+      "hs2": "54",
+      "hs4": "5408"
+    }
+  },
+  {
+    "id": "4d_0625",
+    "input": {
+      "text": "Synthetic filament tow"
+    },
+    "label": {
+      "hs2": "55",
+      "hs4": "5501"
+    }
+  },
+  {
+    "id": "4d_0626",
+    "input": {
+      "text": "Artificial filament tow"
+    },
+    "label": {
+      "hs2": "55",
+      "hs4": "5502"
+    }
+  },
+  {
+    "id": "4d_0627",
+    "input": {
+      "text": "Polypropylene staple fiber"
+    },
+    "label": {
+      "hs2": "55",
+      "hs4": "5503"
+    }
+  },
+  {
+    "id": "4d_0628",
+    "input": {
+      "text": "Modal staple fiber"
+    },
+    "label": {
+      "hs2": "55",
+      "hs4": "5504"
+    }
+  },
+  {
+    "id": "4d_0629",
+    "input": {
+      "text": "Recycled Synthetic Fabric"
+    },
+    "label": {
+      "hs2": "55",
+      "hs4": "5505"
+    }
+  },
+  {
+    "id": "4d_0630",
+    "input": {
+      "text": "Nylon staple fiber drawing sliver"
+    },
+    "label": {
+      "hs2": "55",
+      "hs4": "5506"
+    }
+  },
+  {
+    "id": "4d_0631",
+    "input": {
+      "text": "Acetate staple fiber drawing frame sliver"
+    },
+    "label": {
+      "hs2": "55",
+      "hs4": "5507"
+    }
+  },
+  {
+    "id": "4d_0632",
+    "input": {
+      "text": "Nylon staple sewing thread"
+    },
+    "label": {
+      "hs2": "55",
+      "hs4": "5508"
+    }
+  },
+  {
+    "id": "4d_0633",
+    "input": {
+      "text": "Nylon staple yarn"
+    },
+    "label": {
+      "hs2": "55",
+      "hs4": "5509"
+    }
+  },
+  {
+    "id": "4d_0634",
+    "input": {
+      "text": "Modal Staple Yarn"
+    },
+    "label": {
+      "hs2": "55",
+      "hs4": "5510"
+    }
+  },
+  {
+    "id": "4d_0635",
+    "input": {
+      "text": "Polyester staple-fiber sewing yarn, retail-packed"
+    },
+    "label": {
+      "hs2": "55",
+      "hs4": "5511"
+    }
+  },
+  {
+    "id": "4d_0636",
+    "input": {
+      "text": "Polyester staple plain cloth"
+    },
+    "label": {
+      "hs2": "55",
+      "hs4": "5512"
+    }
+  },
+  {
+    "id": "4d_0637",
+    "input": {
+      "text": "Polyester-cotton poplin"
+    },
+    "label": {
+      "hs2": "55",
+      "hs4": "5513"
+    }
+  },
+  {
+    "id": "4d_0638",
+    "input": {
+      "text": "Polyester-cotton twill fabric 190 g/m²"
+    },
+    "label": {
+      "hs2": "55",
+      "hs4": "5514"
+    }
+  },
+  {
+    "id": "4d_0639",
+    "input": {
+      "text": "Polyester-viscose blended staple-fiber fabric"
+    },
+    "label": {
+      "hs2": "55",
+      "hs4": "5515"
+    }
+  },
+  {
+    "id": "4d_0640",
+    "input": {
+      "text": "Rayon Cotton Fabric"
+    },
+    "label": {
+      "hs2": "55",
+      "hs4": "5516"
+    }
+  },
+  {
+    "id": "4d_0641",
+    "input": {
+      "text": "Down filling for down jackets"
+    },
+    "label": {
+      "hs2": "56",
+      "hs4": "5601"
+    }
+  },
+  {
+    "id": "4d_0642",
+    "input": {
+      "text": "Felt"
+    },
+    "label": {
+      "hs2": "56",
+      "hs4": "5602"
+    }
+  },
+  {
+    "id": "4d_0643",
+    "input": {
+      "text": "Non-woven fabric"
+    },
+    "label": {
+      "hs2": "56",
+      "hs4": "5603"
+    }
+  },
+  {
+    "id": "4d_0644",
+    "input": {
+      "text": "Rubber-coated braided cord"
+    },
+    "label": {
+      "hs2": "56",
+      "hs4": "5604"
+    }
+  },
+  {
+    "id": "4d_0645",
+    "input": {
+      "text": "Metal-blended yarn"
+    },
+    "label": {
+      "hs2": "56",
+      "hs4": "5605"
+    }
+  },
+  {
+    "id": "4d_0646",
+    "input": {
+      "text": "Spiral fancy yarn"
+    },
+    "label": {
+      "hs2": "56",
+      "hs4": "5606"
+    }
+  },
+  {
+    "id": "4d_0647",
+    "input": {
+      "text": "Nylon rope"
+    },
+    "label": {
+      "hs2": "56",
+      "hs4": "5607"
+    }
+  },
+  {
+    "id": "4d_0648",
+    "input": {
+      "text": "Fishing net"
+    },
+    "label": {
+      "hs2": "56",
+      "hs4": "5608"
+    }
+  },
+  {
+    "id": "4d_0649",
+    "input": {
+      "text": "Yarn Rope"
+    },
+    "label": {
+      "hs2": "56",
+      "hs4": "5609"
+    }
+  },
+  {
+    "id": "4d_0650",
+    "input": {
+      "text": "Hand-knotted Persian Carpet"
+    },
+    "label": {
+      "hs2": "57",
+      "hs4": "5701"
+    }
+  },
+  {
+    "id": "4d_0651",
+    "input": {
+      "text": "Woven Carpet"
+    },
+    "label": {
+      "hs2": "57",
+      "hs4": "5702"
+    }
+  },
+  {
+    "id": "4d_0652",
+    "input": {
+      "text": "Tufted Carpet"
+    },
+    "label": {
+      "hs2": "57",
+      "hs4": "5703"
+    }
+  },
+  {
+    "id": "4d_0653",
+    "input": {
+      "text": "Felt Carpet"
+    },
+    "label": {
+      "hs2": "57",
+      "hs4": "5704"
+    }
+  },
+  {
+    "id": "4d_0654",
+    "input": {
+      "text": "Carpet"
+    },
+    "label": {
+      "hs2": "57",
+      "hs4": "5705"
+    }
+  },
+  {
+    "id": "4d_0655",
+    "input": {
+      "text": "Raised-fabric"
+    },
+    "label": {
+      "hs2": "58",
+      "hs4": "5801"
+    }
+  },
+  {
+    "id": "4d_0656",
+    "input": {
+      "text": "Towel"
+    },
+    "label": {
+      "hs2": "58",
+      "hs4": "5802"
+    }
+  },
+  {
+    "id": "4d_0657",
+    "input": {
+      "text": "Leno fabric"
+    },
+    "label": {
+      "hs2": "58",
+      "hs4": "5803"
+    }
+  },
+  {
+    "id": "4d_0658",
+    "input": {
+      "text": "Mesh tulle"
+    },
+    "label": {
+      "hs2": "58",
+      "hs4": "5804"
+    }
+  },
+  {
+    "id": "4d_0659",
+    "input": {
+      "text": "Hand-woven decorative blanket"
+    },
+    "label": {
+      "hs2": "58",
+      "hs4": "5805"
+    }
+  },
+  {
+    "id": "4d_0660",
+    "input": {
+      "text": "Bandage cloth for dressing"
+    },
+    "label": {
+      "hs2": "58",
+      "hs4": "5806"
+    }
+  },
+  {
+    "id": "4d_0661",
+    "input": {
+      "text": "Textile badge"
+    },
+    "label": {
+      "hs2": "58",
+      "hs4": "5807"
+    }
+  },
+  {
+    "id": "4d_0662",
+    "input": {
+      "text": "Braided tape in piece"
+    },
+    "label": {
+      "hs2": "58",
+      "hs4": "5808"
+    }
+  },
+  {
+    "id": "4d_0663",
+    "input": {
+      "text": "Wire mesh fabric"
+    },
+    "label": {
+      "hs2": "58",
+      "hs4": "5809"
+    }
+  },
+  {
+    "id": "4d_0664",
+    "input": {
+      "text": "Embroidered tablecloth"
+    },
+    "label": {
+      "hs2": "58",
+      "hs4": "5810"
+    }
+  },
+  {
+    "id": "4d_0665",
+    "input": {
+      "text": "Quilted fabric"
+    },
+    "label": {
+      "hs2": "58",
+      "hs4": "5811"
+    }
+  },
+  {
+    "id": "4d_0666",
+    "input": {
+      "text": "Tracing cloth"
+    },
+    "label": {
+      "hs2": "59",
+      "hs4": "5901"
+    }
+  },
+  {
+    "id": "4d_0667",
+    "input": {
+      "text": "High-strength nylon tire cord fabric"
+    },
+    "label": {
+      "hs2": "59",
+      "hs4": "5902"
+    }
+  },
+  {
+    "id": "4d_0668",
+    "input": {
+      "text": "Plastic-coated canvas"
+    },
+    "label": {
+      "hs2": "59",
+      "hs4": "5903"
+    }
+  },
+  {
+    "id": "4d_0669",
+    "input": {
+      "text": "Linoleum"
+    },
+    "label": {
+      "hs2": "59",
+      "hs4": "5904"
+    }
+  },
+  {
+    "id": "4d_0670",
+    "input": {
+      "text": "Fabric Wallpaper"
+    },
+    "label": {
+      "hs2": "59",
+      "hs4": "5905"
+    }
+  },
+  {
+    "id": "4d_0671",
+    "input": {
+      "text": "Rubber-coated fabric"
+    },
+    "label": {
+      "hs2": "59",
+      "hs4": "5906"
+    }
+  },
+  {
+    "id": "4d_0672",
+    "input": {
+      "text": "Tar-coated fabric"
+    },
+    "label": {
+      "hs2": "59",
+      "hs4": "5907"
+    }
+  },
+  {
+    "id": "4d_0673",
+    "input": {
+      "text": "Textile wick"
+    },
+    "label": {
+      "hs2": "59",
+      "hs4": "5908"
+    }
+  },
+  {
+    "id": "4d_0674",
+    "input": {
+      "text": "Water hose"
+    },
+    "label": {
+      "hs2": "59",
+      "hs4": "5909"
+    }
+  },
+  {
+    "id": "4d_0675",
+    "input": {
+      "text": "Fabric conveyor belt"
+    },
+    "label": {
+      "hs2": "59",
+      "hs4": "5910"
+    }
+  },
+  {
+    "id": "4d_0676",
+    "input": {
+      "text": "Screen cloth"
+    },
+    "label": {
+      "hs2": "59",
+      "hs4": "5911"
+    }
+  },
+  {
+    "id": "4d_0677",
+    "input": {
+      "text": "Knitted Plush Fabric"
+    },
+    "label": {
+      "hs2": "60",
+      "hs4": "6001"
+    }
+  },
+  {
+    "id": "4d_0678",
+    "input": {
+      "text": "Elastic Knitted Edge Band"
+    },
+    "label": {
+      "hs2": "60",
+      "hs4": "6002"
+    }
+  },
+  {
+    "id": "4d_0679",
+    "input": {
+      "text": "Cotton crocheted tape containing <5% rubber thread"
+    },
+    "label": {
+      "hs2": "60",
+      "hs4": "6003"
+    }
+  },
+  {
+    "id": "4d_0680",
+    "input": {
+      "text": "Elastic Knitted Fabric"
+    },
+    "label": {
+      "hs2": "60",
+      "hs4": "6004"
+    }
+  },
+  {
+    "id": "4d_0681",
+    "input": {
+      "text": "Warp-knitted mesh fabric"
+    },
+    "label": {
+      "hs2": "60",
+      "hs4": "6005"
+    }
+  },
+  {
+    "id": "4d_0682",
+    "input": {
+      "text": "Crocheted Decorative Fabric"
+    },
+    "label": {
+      "hs2": "60",
+      "hs4": "6006"
+    }
+  },
+  {
+    "id": "4d_0683",
+    "input": {
+      "text": "Men's knitted jacket"
+    },
+    "label": {
+      "hs2": "61",
+      "hs4": "6101"
+    }
+  },
+  {
+    "id": "4d_0684",
+    "input": {
+      "text": "Women's knitted coat"
+    },
+    "label": {
+      "hs2": "61",
+      "hs4": "6102"
+    }
+  },
+  {
+    "id": "4d_0685",
+    "input": {
+      "text": "Men's Knitted Suit"
+    },
+    "label": {
+      "hs2": "61",
+      "hs4": "6103"
+    }
+  },
+  {
+    "id": "4d_0686",
+    "input": {
+      "text": "Women's knitted dress"
+    },
+    "label": {
+      "hs2": "61",
+      "hs4": "6104"
+    }
+  },
+  {
+    "id": "4d_0687",
+    "input": {
+      "text": "Men's Knitted Shirt"
+    },
+    "label": {
+      "hs2": "61",
+      "hs4": "6105"
+    }
+  },
+  {
+    "id": "4d_0688",
+    "input": {
+      "text": "Women's Knitted Shirt"
+    },
+    "label": {
+      "hs2": "61",
+      "hs4": "6106"
+    }
+  },
+  {
+    "id": "4d_0689",
+    "input": {
+      "text": "Men's knitted briefs"
+    },
+    "label": {
+      "hs2": "61",
+      "hs4": "6107"
+    }
+  },
+  {
+    "id": "4d_0690",
+    "input": {
+      "text": "Women's Knitted Pajamas"
+    },
+    "label": {
+      "hs2": "61",
+      "hs4": "6108"
+    }
+  },
+  {
+    "id": "4d_0691",
+    "input": {
+      "text": "Men's 100% Cotton Knit T-Shirt"
+    },
+    "label": {
+      "hs2": "61",
+      "hs4": "6109"
+    }
+  },
+  {
+    "id": "4d_0692",
+    "input": {
+      "text": "Knitted cardigan"
+    },
+    "label": {
+      "hs2": "61",
+      "hs4": "6110"
+    }
+  },
+  {
+    "id": "4d_0693",
+    "input": {
+      "text": "Knitted baby romper"
+    },
+    "label": {
+      "hs2": "61",
+      "hs4": "6111"
+    }
+  },
+  {
+    "id": "4d_0694",
+    "input": {
+      "text": "Knitted sports pants"
+    },
+    "label": {
+      "hs2": "61",
+      "hs4": "6112"
+    }
+  },
+  {
+    "id": "4d_0695",
+    "input": {
+      "text": "Rubber-coated knit jacket"
+    },
+    "label": {
+      "hs2": "61",
+      "hs4": "6113"
+    }
+  },
+  {
+    "id": "4d_0696",
+    "input": {
+      "text": "Knitted monk robe"
+    },
+    "label": {
+      "hs2": "61",
+      "hs4": "6114"
+    }
+  },
+  {
+    "id": "4d_0697",
+    "input": {
+      "text": "Knitted ankle socks"
+    },
+    "label": {
+      "hs2": "61",
+      "hs4": "6115"
+    }
+  },
+  {
+    "id": "4d_0698",
+    "input": {
+      "text": "Ladies' knitted gloves"
+    },
+    "label": {
+      "hs2": "61",
+      "hs4": "6116"
+    }
+  },
+  {
+    "id": "4d_0699",
+    "input": {
+      "text": "Knitted headscarf"
+    },
+    "label": {
+      "hs2": "61",
+      "hs4": "6117"
+    }
+  },
+  {
+    "id": "4d_0700",
+    "input": {
+      "text": "Men's Windbreaker Jacket"
+    },
+    "label": {
+      "hs2": "62",
+      "hs4": "6201"
+    }
+  },
+  {
+    "id": "4d_0701",
+    "input": {
+      "text": "Women's Trench Coat"
+    },
+    "label": {
+      "hs2": "62",
+      "hs4": "6202"
+    }
+  },
+  {
+    "id": "4d_0702",
+    "input": {
+      "text": "Men's suit set"
+    },
+    "label": {
+      "hs2": "62",
+      "hs4": "6203"
+    }
+  },
+  {
+    "id": "4d_0703",
+    "input": {
+      "text": "Women's suit set"
+    },
+    "label": {
+      "hs2": "62",
+      "hs4": "6204"
+    }
+  },
+  {
+    "id": "4d_0704",
+    "input": {
+      "text": "Men's Casual Shirt"
+    },
+    "label": {
+      "hs2": "62",
+      "hs4": "6205"
+    }
+  },
+  {
+    "id": "4d_0705",
+    "input": {
+      "text": "Women's cotton shirt"
+    },
+    "label": {
+      "hs2": "62",
+      "hs4": "6206"
+    }
+  },
+  {
+    "id": "4d_0706",
+    "input": {
+      "text": "Men's woven vest"
+    },
+    "label": {
+      "hs2": "62",
+      "hs4": "6207"
+    }
+  },
+  {
+    "id": "4d_0707",
+    "input": {
+      "text": "Women's underwear"
+    },
+    "label": {
+      "hs2": "62",
+      "hs4": "6208"
+    }
+  },
+  {
+    "id": "4d_0708",
+    "input": {
+      "text": "Woven baby romper"
+    },
+    "label": {
+      "hs2": "62",
+      "hs4": "6209"
+    }
+  },
+  {
+    "id": "4d_0709",
+    "input": {
+      "text": "Woven Rubber Overcoat"
+    },
+    "label": {
+      "hs2": "62",
+      "hs4": "6210"
+    }
+  },
+  {
+    "id": "4d_0710",
+    "input": {
+      "text": "Woven sportswear"
+    },
+    "label": {
+      "hs2": "62",
+      "hs4": "6211"
+    }
+  },
+  {
+    "id": "4d_0711",
+    "input": {
+      "text": "Brassiere"
+    },
+    "label": {
+      "hs2": "62",
+      "hs4": "6212"
+    }
+  },
+  {
+    "id": "4d_0712",
+    "input": {
+      "text": "Handkerchief"
+    },
+    "label": {
+      "hs2": "62",
+      "hs4": "6213"
+    }
+  },
+  {
+    "id": "4d_0713",
+    "input": {
+      "text": "Woven scarf"
+    },
+    "label": {
+      "hs2": "62",
+      "hs4": "6214"
+    }
+  },
+  {
+    "id": "4d_0714",
+    "input": {
+      "text": "Men's Business Tie"
+    },
+    "label": {
+      "hs2": "62",
+      "hs4": "6215"
+    }
+  },
+  {
+    "id": "4d_0715",
+    "input": {
+      "text": "Woven mittens"
+    },
+    "label": {
+      "hs2": "62",
+      "hs4": "6216"
+    }
+  },
+  {
+    "id": "4d_0716",
+    "input": {
+      "text": "Sleeve Protectors"
+    },
+    "label": {
+      "hs2": "62",
+      "hs4": "6217"
+    }
+  },
+  {
+    "id": "4d_0717",
+    "input": {
+      "text": "Travel blanket"
+    },
+    "label": {
+      "hs2": "63",
+      "hs4": "6301"
+    }
+  },
+  {
+    "id": "4d_0718",
+    "input": {
+      "text": "Bed sheet"
+    },
+    "label": {
+      "hs2": "63",
+      "hs4": "6302"
+    }
+  },
+  {
+    "id": "4d_0719",
+    "input": {
+      "text": "Sheer curtain"
+    },
+    "label": {
+      "hs2": "63",
+      "hs4": "6303"
+    }
+  },
+  {
+    "id": "4d_0720",
+    "input": {
+      "text": "Hanging Cloth"
+    },
+    "label": {
+      "hs2": "63",
+      "hs4": "6304"
+    }
+  },
+  {
+    "id": "4d_0721",
+    "input": {
+      "text": "Textile packaging bag"
+    },
+    "label": {
+      "hs2": "63",
+      "hs4": "6305"
+    }
+  },
+  {
+    "id": "4d_0722",
+    "input": {
+      "text": "Cotton tent"
+    },
+    "label": {
+      "hs2": "63",
+      "hs4": "6306"
+    }
+  },
+  {
+    "id": "4d_0723",
+    "input": {
+      "text": "Cleaning Cloth"
+    },
+    "label": {
+      "hs2": "63",
+      "hs4": "6307"
+    }
+  },
+  {
+    "id": "4d_0724",
+    "input": {
+      "text": "Textile Set"
+    },
+    "label": {
+      "hs2": "63",
+      "hs4": "6308"
+    }
+  },
+  {
+    "id": "4d_0725",
+    "input": {
+      "text": "Used clothing"
+    },
+    "label": {
+      "hs2": "63",
+      "hs4": "6309"
+    }
+  },
+  {
+    "id": "4d_0726",
+    "input": {
+      "text": "Used cotton rags"
+    },
+    "label": {
+      "hs2": "63",
+      "hs4": "6310"
+    }
+  },
+  {
+    "id": "4d_0727",
+    "input": {
+      "text": "Waterproof Rain Boots"
+    },
+    "label": {
+      "hs2": "64",
+      "hs4": "6401"
+    }
+  },
+  {
+    "id": "4d_0728",
+    "input": {
+      "text": "Rubber sandals"
+    },
+    "label": {
+      "hs2": "64",
+      "hs4": "6402"
+    }
+  },
+  {
+    "id": "4d_0729",
+    "input": {
+      "text": "Leather hiking boots"
+    },
+    "label": {
+      "hs2": "64",
+      "hs4": "6403"
+    }
+  },
+  {
+    "id": "4d_0730",
+    "input": {
+      "text": "Canvas shoes"
+    },
+    "label": {
+      "hs2": "64",
+      "hs4": "6404"
+    }
+  },
+  {
+    "id": "4d_0731",
+    "input": {
+      "text": "Straw-woven shoes"
+    },
+    "label": {
+      "hs2": "64",
+      "hs4": "6405"
+    }
+  },
+  {
+    "id": "4d_0732",
+    "input": {
+      "text": "Sole"
+    },
+    "label": {
+      "hs2": "64",
+      "hs4": "6406"
+    }
+  },
+  {
+    "id": "4d_0733",
+    "input": {
+      "text": "Felt hat blanks"
+    },
+    "label": {
+      "hs2": "65",
+      "hs4": "6501"
+    }
+  },
+  {
+    "id": "4d_0734",
+    "input": {
+      "text": "Braided hat body"
+    },
+    "label": {
+      "hs2": "65",
+      "hs4": "6502"
+    }
+  },
+  {
+    "id": "4d_0735",
+    "input": {
+      "text": "Straw hat"
+    },
+    "label": {
+      "hs2": "65",
+      "hs4": "6504"
+    }
+  },
+  {
+    "id": "4d_0736",
+    "input": {
+      "text": "Knit Beanie"
+    },
+    "label": {
+      "hs2": "65",
+      "hs4": "6505"
+    }
+  },
+  {
+    "id": "4d_0737",
+    "input": {
+      "text": "Hat"
+    },
+    "label": {
+      "hs2": "65",
+      "hs4": "6506"
+    }
+  },
+  {
+    "id": "4d_0738",
+    "input": {
+      "text": "Inner structural component of a hat"
+    },
+    "label": {
+      "hs2": "65",
+      "hs4": "6507"
+    }
+  },
+  {
+    "id": "4d_0739",
+    "input": {
+      "text": "Portable Folding Umbrella"
+    },
+    "label": {
+      "hs2": "66",
+      "hs4": "6601"
+    }
+  },
+  {
+    "id": "4d_0740",
+    "input": {
+      "text": "Walking stick"
+    },
+    "label": {
+      "hs2": "66",
+      "hs4": "6602"
+    }
+  },
+  {
+    "id": "4d_0741",
+    "input": {
+      "text": "Umbrella parts"
+    },
+    "label": {
+      "hs2": "66",
+      "hs4": "6603"
+    }
+  },
+  {
+    "id": "4d_0742",
+    "input": {
+      "text": "Feather fan"
+    },
+    "label": {
+      "hs2": "67",
+      "hs4": "6701"
+    }
+  },
+  {
+    "id": "4d_0743",
+    "input": {
+      "text": "Artificial Flowers"
+    },
+    "label": {
+      "hs2": "67",
+      "hs4": "6702"
+    }
+  },
+  {
+    "id": "4d_0744",
+    "input": {
+      "text": "Combed Human Hair"
+    },
+    "label": {
+      "hs2": "67",
+      "hs4": "6703"
+    }
+  },
+  {
+    "id": "4d_0745",
+    "input": {
+      "text": "Wig"
+    },
+    "label": {
+      "hs2": "67",
+      "hs4": "6704"
+    }
+  },
+  {
+    "id": "4d_0746",
+    "input": {
+      "text": "Curbstone"
+    },
+    "label": {
+      "hs2": "68",
+      "hs4": "6801"
+    }
+  },
+  {
+    "id": "4d_0747",
+    "input": {
+      "text": "Natural Marble Slab"
+    },
+    "label": {
+      "hs2": "68",
+      "hs4": "6802"
+    }
+  },
+  {
+    "id": "4d_0748",
+    "input": {
+      "text": "Slate Flooring"
+    },
+    "label": {
+      "hs2": "68",
+      "hs4": "6803"
+    }
+  },
+  {
+    "id": "4d_0749",
+    "input": {
+      "text": "Stone mill"
+    },
+    "label": {
+      "hs2": "68",
+      "hs4": "6804"
+    }
+  },
+  {
+    "id": "4d_0750",
+    "input": {
+      "text": "Sandpaper"
+    },
+    "label": {
+      "hs2": "68",
+      "hs4": "6805"
+    }
+  },
+  {
+    "id": "4d_0751",
+    "input": {
+      "text": "Rock wool"
+    },
+    "label": {
+      "hs2": "68",
+      "hs4": "6806"
+    }
+  },
+  {
+    "id": "4d_0752",
+    "input": {
+      "text": "Asphalt Shingle"
+    },
+    "label": {
+      "hs2": "68",
+      "hs4": "6807"
+    }
+  },
+  {
+    "id": "4d_0753",
+    "input": {
+      "text": "Cement-bonded particleboard"
+    },
+    "label": {
+      "hs2": "68",
+      "hs4": "6808"
+    }
+  },
+  {
+    "id": "4d_0754",
+    "input": {
+      "text": "Gypsum board"
+    },
+    "label": {
+      "hs2": "68",
+      "hs4": "6809"
+    }
+  },
+  {
+    "id": "4d_0755",
+    "input": {
+      "text": "Cement Brick"
+    },
+    "label": {
+      "hs2": "68",
+      "hs4": "6810"
+    }
+  },
+  {
+    "id": "4d_0756",
+    "input": {
+      "text": "Asbestos cement corrugated sheet"
+    },
+    "label": {
+      "hs2": "68",
+      "hs4": "6811"
+    }
+  },
+  {
+    "id": "4d_0757",
+    "input": {
+      "text": "Asbestos cloth"
+    },
+    "label": {
+      "hs2": "68",
+      "hs4": "6812"
+    }
+  },
+  {
+    "id": "4d_0758",
+    "input": {
+      "text": "Asbestos-containing brake pads"
+    },
+    "label": {
+      "hs2": "68",
+      "hs4": "6813"
+    }
+  },
+  {
+    "id": "4d_0759",
+    "input": {
+      "text": "Mica Sheet"
+    },
+    "label": {
+      "hs2": "68",
+      "hs4": "6814"
+    }
+  },
+  {
+    "id": "4d_0760",
+    "input": {
+      "text": "Silica Filter Tube"
+    },
+    "label": {
+      "hs2": "68",
+      "hs4": "6815"
+    }
+  },
+  {
+    "id": "4d_0761",
+    "input": {
+      "text": "Diatomite brick"
+    },
+    "label": {
+      "hs2": "69",
+      "hs4": "6901"
+    }
+  },
+  {
+    "id": "4d_0762",
+    "input": {
+      "text": "Fireclay Refractory Brick"
+    },
+    "label": {
+      "hs2": "69",
+      "hs4": "6902"
+    }
+  },
+  {
+    "id": "4d_0763",
+    "input": {
+      "text": "Refractory crucible for furnaces"
+    },
+    "label": {
+      "hs2": "69",
+      "hs4": "6903"
+    }
+  },
+  {
+    "id": "4d_0764",
+    "input": {
+      "text": "Thick Porcelain Tile"
+    },
+    "label": {
+      "hs2": "69",
+      "hs4": "6904"
+    }
+  },
+  {
+    "id": "4d_0765",
+    "input": {
+      "text": "Roofing ceramic tile"
+    },
+    "label": {
+      "hs2": "69",
+      "hs4": "6905"
+    }
+  },
+  {
+    "id": "4d_0766",
+    "input": {
+      "text": "Clay drain pipe"
+    },
+    "label": {
+      "hs2": "69",
+      "hs4": "6906"
+    }
+  },
+  {
+    "id": "4d_0767",
+    "input": {
+      "text": "Ceramic wall tiles"
+    },
+    "label": {
+      "hs2": "69",
+      "hs4": "6907"
+    }
+  },
+  {
+    "id": "4d_0768",
+    "input": {
+      "text": "Laboratory Crucible"
+    },
+    "label": {
+      "hs2": "69",
+      "hs4": "6909"
+    }
+  },
+  {
+    "id": "4d_0769",
+    "input": {
+      "text": "Ceramic washbasin"
+    },
+    "label": {
+      "hs2": "69",
+      "hs4": "6910"
+    }
+  },
+  {
+    "id": "4d_0770",
+    "input": {
+      "text": "Porcelain bowl"
+    },
+    "label": {
+      "hs2": "69",
+      "hs4": "6911"
+    }
+  },
+  {
+    "id": "4d_0771",
+    "input": {
+      "text": "Ceramic chopsticks"
+    },
+    "label": {
+      "hs2": "69",
+      "hs4": "6912"
+    }
+  },
+  {
+    "id": "4d_0772",
+    "input": {
+      "text": "Ceramic figurine"
+    },
+    "label": {
+      "hs2": "69",
+      "hs4": "6913"
+    }
+  },
+  {
+    "id": "4d_0773",
+    "input": {
+      "text": "Ceramic handle"
+    },
+    "label": {
+      "hs2": "69",
+      "hs4": "6914"
+    }
+  },
+  {
+    "id": "4d_0774",
+    "input": {
+      "text": "Cullet"
+    },
+    "label": {
+      "hs2": "70",
+      "hs4": "7001"
+    }
+  },
+  {
+    "id": "4d_0775",
+    "input": {
+      "text": "Glass tube"
+    },
+    "label": {
+      "hs2": "70",
+      "hs4": "7002"
+    }
+  },
+  {
+    "id": "4d_0776",
+    "input": {
+      "text": "Cast Glass Plate"
+    },
+    "label": {
+      "hs2": "70",
+      "hs4": "7003"
+    }
+  },
+  {
+    "id": "4d_0777",
+    "input": {
+      "text": "Blown Glass Sheet"
+    },
+    "label": {
+      "hs2": "70",
+      "hs4": "7004"
+    }
+  },
+  {
+    "id": "4d_0778",
+    "input": {
+      "text": "Float glass"
+    },
+    "label": {
+      "hs2": "70",
+      "hs4": "7005"
+    }
+  },
+  {
+    "id": "4d_0779",
+    "input": {
+      "text": "Rounded-edge glass"
+    },
+    "label": {
+      "hs2": "70",
+      "hs4": "7006"
+    }
+  },
+  {
+    "id": "4d_0780",
+    "input": {
+      "text": "Tempered Glass"
+    },
+    "label": {
+      "hs2": "70",
+      "hs4": "7007"
+    }
+  },
+  {
+    "id": "4d_0781",
+    "input": {
+      "text": "Sound-insulating glass"
+    },
+    "label": {
+      "hs2": "70",
+      "hs4": "7008"
+    }
+  },
+  {
+    "id": "4d_0782",
+    "input": {
+      "text": "Glass Mirror"
+    },
+    "label": {
+      "hs2": "70",
+      "hs4": "7009"
+    }
+  },
+  {
+    "id": "4d_0783",
+    "input": {
+      "text": "Glass bottle"
+    },
+    "label": {
+      "hs2": "70",
+      "hs4": "7010"
+    }
+  },
+  {
+    "id": "4d_0784",
+    "input": {
+      "text": "Glass bulb shell"
+    },
+    "label": {
+      "hs2": "70",
+      "hs4": "7011"
+    }
+  },
+  {
+    "id": "4d_0785",
+    "input": {
+      "text": "Glass Water Cup"
+    },
+    "label": {
+      "hs2": "70",
+      "hs4": "7013"
+    }
+  },
+  {
+    "id": "4d_0786",
+    "input": {
+      "text": "Glass lens"
+    },
+    "label": {
+      "hs2": "70",
+      "hs4": "7014"
+    }
+  },
+  {
+    "id": "4d_0787",
+    "input": {
+      "text": "Glass spectacle lenses"
+    },
+    "label": {
+      "hs2": "70",
+      "hs4": "7015"
+    }
+  },
+  {
+    "id": "4d_0788",
+    "input": {
+      "text": "Glass Block"
+    },
+    "label": {
+      "hs2": "70",
+      "hs4": "7016"
+    }
+  },
+  {
+    "id": "4d_0789",
+    "input": {
+      "text": "Beaker"
+    },
+    "label": {
+      "hs2": "70",
+      "hs4": "7017"
+    }
+  },
+  {
+    "id": "4d_0790",
+    "input": {
+      "text": "Glass Beads"
+    },
+    "label": {
+      "hs2": "70",
+      "hs4": "7018"
+    }
+  },
+  {
+    "id": "4d_0791",
+    "input": {
+      "text": "Glass fiber"
+    },
+    "label": {
+      "hs2": "70",
+      "hs4": "7019"
+    }
+  },
+  {
+    "id": "4d_0792",
+    "input": {
+      "text": "Glass Liner (Thermal)"
+    },
+    "label": {
+      "hs2": "70",
+      "hs4": "7020"
+    }
+  },
+  {
+    "id": "4d_0793",
+    "input": {
+      "text": "Natural pearls"
+    },
+    "label": {
+      "hs2": "71",
+      "hs4": "7101"
+    }
+  },
+  {
+    "id": "4d_0794",
+    "input": {
+      "text": "Diamond"
+    },
+    "label": {
+      "hs2": "71",
+      "hs4": "7102"
+    }
+  },
+  {
+    "id": "4d_0795",
+    "input": {
+      "text": "Ruby"
+    },
+    "label": {
+      "hs2": "71",
+      "hs4": "7103"
+    }
+  },
+  {
+    "id": "4d_0796",
+    "input": {
+      "text": "Synthetic sapphire"
+    },
+    "label": {
+      "hs2": "71",
+      "hs4": "7104"
+    }
+  },
+  {
+    "id": "4d_0797",
+    "input": {
+      "text": "Ruby Powder"
+    },
+    "label": {
+      "hs2": "71",
+      "hs4": "7105"
+    }
+  },
+  {
+    "id": "4d_0798",
+    "input": {
+      "text": "Silver strip"
+    },
+    "label": {
+      "hs2": "71",
+      "hs4": "7106"
+    }
+  },
+  {
+    "id": "4d_0799",
+    "input": {
+      "text": "Silver-clad strip"
+    },
+    "label": {
+      "hs2": "71",
+      "hs4": "7107"
+    }
+  },
+  {
+    "id": "4d_0800",
+    "input": {
+      "text": "Gold bar"
+    },
+    "label": {
+      "hs2": "71",
+      "hs4": "7108"
+    }
+  },
+  {
+    "id": "4d_0801",
+    "input": {
+      "text": "Gold-clad silver"
+    },
+    "label": {
+      "hs2": "71",
+      "hs4": "7109"
+    }
+  },
+  {
+    "id": "4d_0802",
+    "input": {
+      "text": "Platinum"
+    },
+    "label": {
+      "hs2": "71",
+      "hs4": "7110"
+    }
+  },
+  {
+    "id": "4d_0803",
+    "input": {
+      "text": "Platinum-clad sheets"
+    },
+    "label": {
+      "hs2": "71",
+      "hs4": "7111"
+    }
+  },
+  {
+    "id": "4d_0804",
+    "input": {
+      "text": "Precious metal scrap"
+    },
+    "label": {
+      "hs2": "71",
+      "hs4": "7112"
+    }
+  },
+  {
+    "id": "4d_0805",
+    "input": {
+      "text": "Gold ring"
+    },
+    "label": {
+      "hs2": "71",
+      "hs4": "7113"
+    }
+  },
+  {
+    "id": "4d_0806",
+    "input": {
+      "text": "Silver table knife"
+    },
+    "label": {
+      "hs2": "71",
+      "hs4": "7114"
+    }
+  },
+  {
+    "id": "4d_0807",
+    "input": {
+      "text": "Gold Anode"
+    },
+    "label": {
+      "hs2": "71",
+      "hs4": "7115"
+    }
+  },
+  {
+    "id": "4d_0808",
+    "input": {
+      "text": "Pearl necklace"
+    },
+    "label": {
+      "hs2": "71",
+      "hs4": "7116"
+    }
+  },
+  {
+    "id": "4d_0809",
+    "input": {
+      "text": "Imitation gold ring"
+    },
+    "label": {
+      "hs2": "71",
+      "hs4": "7117"
+    }
+  },
+  {
+    "id": "4d_0810",
+    "input": {
+      "text": "Gold coin"
+    },
+    "label": {
+      "hs2": "71",
+      "hs4": "7118"
+    }
+  },
+  {
+    "id": "4d_0811",
+    "input": {
+      "text": "Pig iron ingot"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7201"
+    }
+  },
+  {
+    "id": "4d_0812",
+    "input": {
+      "text": "Ferronickel"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7202"
+    }
+  },
+  {
+    "id": "4d_0813",
+    "input": {
+      "text": "Sponge Iron"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7203"
+    }
+  },
+  {
+    "id": "4d_0814",
+    "input": {
+      "text": "Steel scrap"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7204"
+    }
+  },
+  {
+    "id": "4d_0815",
+    "input": {
+      "text": "Pig iron granules"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7205"
+    }
+  },
+  {
+    "id": "4d_0816",
+    "input": {
+      "text": "Steel ingot"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7206"
+    }
+  },
+  {
+    "id": "4d_0817",
+    "input": {
+      "text": "Steel billet"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7207"
+    }
+  },
+  {
+    "id": "4d_0818",
+    "input": {
+      "text": "Hot-rolled wide steel plate (width ≥ 600 mm)"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7208"
+    }
+  },
+  {
+    "id": "4d_0819",
+    "input": {
+      "text": "Cold-rolled wide steel sheet, width ≥600 mm"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7209"
+    }
+  },
+  {
+    "id": "4d_0820",
+    "input": {
+      "text": "Galvanized steel sheet, width ≥600 mm"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7210"
+    }
+  },
+  {
+    "id": "4d_0821",
+    "input": {
+      "text": "Steel plate, width <600 mm"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7211"
+    }
+  },
+  {
+    "id": "4d_0822",
+    "input": {
+      "text": "Galvanized steel sheet, width <600 mm"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7212"
+    }
+  },
+  {
+    "id": "4d_0823",
+    "input": {
+      "text": "Hot-rolled wire rod"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7213"
+    }
+  },
+  {
+    "id": "4d_0824",
+    "input": {
+      "text": "Steel Bar"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7214"
+    }
+  },
+  {
+    "id": "4d_0825",
+    "input": {
+      "text": "Cold-drawn steel"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7215"
+    }
+  },
+  {
+    "id": "4d_0826",
+    "input": {
+      "text": "Angle steel"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7216"
+    }
+  },
+  {
+    "id": "4d_0827",
+    "input": {
+      "text": "Iron Wire"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7217"
+    }
+  },
+  {
+    "id": "4d_0828",
+    "input": {
+      "text": "Stainless steel ingot"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7218"
+    }
+  },
+  {
+    "id": "4d_0829",
+    "input": {
+      "text": "Stainless steel plate, width ≥600 mm"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7219"
+    }
+  },
+  {
+    "id": "4d_0830",
+    "input": {
+      "text": "Stainless steel plate, width <600 mm"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7220"
+    }
+  },
+  {
+    "id": "4d_0831",
+    "input": {
+      "text": "Hot-rolled stainless steel bars"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7221"
+    }
+  },
+  {
+    "id": "4d_0832",
+    "input": {
+      "text": "Stainless Steel Angle Bar"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7222"
+    }
+  },
+  {
+    "id": "4d_0833",
+    "input": {
+      "text": "Stainless steel wire"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7223"
+    }
+  },
+  {
+    "id": "4d_0834",
+    "input": {
+      "text": "Alloy steel ingot"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7224"
+    }
+  },
+  {
+    "id": "4d_0835",
+    "input": {
+      "text": "Alloy steel plate, width ≥600 mm"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7225"
+    }
+  },
+  {
+    "id": "4d_0836",
+    "input": {
+      "text": "Alloy steel plate, width <600 mm"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7226"
+    }
+  },
+  {
+    "id": "4d_0837",
+    "input": {
+      "text": "Hot-rolled wire rod of silico-manganese steel"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7227"
+    }
+  },
+  {
+    "id": "4d_0838",
+    "input": {
+      "text": "Alloy Steel Angle Bar"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7228"
+    }
+  },
+  {
+    "id": "4d_0839",
+    "input": {
+      "text": "Alloy steel wire"
+    },
+    "label": {
+      "hs2": "72",
+      "hs4": "7229"
+    }
+  },
+  {
+    "id": "4d_0840",
+    "input": {
+      "text": "Steel sheet pile"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7301"
+    }
+  },
+  {
+    "id": "4d_0841",
+    "input": {
+      "text": "Railway rail"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7302"
+    }
+  },
+  {
+    "id": "4d_0842",
+    "input": {
+      "text": "Cast iron drain pipe"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7303"
+    }
+  },
+  {
+    "id": "4d_0843",
+    "input": {
+      "text": "Seamless steel pipe"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7304"
+    }
+  },
+  {
+    "id": "4d_0844",
+    "input": {
+      "text": "Large-diameter steel pipe"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7305"
+    }
+  },
+  {
+    "id": "4d_0845",
+    "input": {
+      "text": "Steel special-shaped tube"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7306"
+    }
+  },
+  {
+    "id": "4d_0846",
+    "input": {
+      "text": "Pipe Fitting"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7307"
+    }
+  },
+  {
+    "id": "4d_0847",
+    "input": {
+      "text": "Bridge Steel Structure"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7308"
+    }
+  },
+  {
+    "id": "4d_0848",
+    "input": {
+      "text": "Steel Storage Tank"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7309"
+    }
+  },
+  {
+    "id": "4d_0849",
+    "input": {
+      "text": "Iron drum"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7310"
+    }
+  },
+  {
+    "id": "4d_0850",
+    "input": {
+      "text": "Compressed Gas Cylinder"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7311"
+    }
+  },
+  {
+    "id": "4d_0851",
+    "input": {
+      "text": "Steel cable"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7312"
+    }
+  },
+  {
+    "id": "4d_0852",
+    "input": {
+      "text": "Barbed Wire"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7313"
+    }
+  },
+  {
+    "id": "4d_0853",
+    "input": {
+      "text": "Steel wire mesh"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7314"
+    }
+  },
+  {
+    "id": "4d_0854",
+    "input": {
+      "text": "Steel chain"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7315"
+    }
+  },
+  {
+    "id": "4d_0855",
+    "input": {
+      "text": "Grapnel Anchor"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7316"
+    }
+  },
+  {
+    "id": "4d_0856",
+    "input": {
+      "text": "Steel thumbtacks"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7317"
+    }
+  },
+  {
+    "id": "4d_0857",
+    "input": {
+      "text": "Bolt"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7318"
+    }
+  },
+  {
+    "id": "4d_0858",
+    "input": {
+      "text": "Sewing Needles"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7319"
+    }
+  },
+  {
+    "id": "4d_0859",
+    "input": {
+      "text": "Automotive Suspension Springs"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7320"
+    }
+  },
+  {
+    "id": "4d_0860",
+    "input": {
+      "text": "Household steel stove"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7321"
+    }
+  },
+  {
+    "id": "4d_0861",
+    "input": {
+      "text": "Steel Radiator"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7322"
+    }
+  },
+  {
+    "id": "4d_0862",
+    "input": {
+      "text": "Stainless steel cookware"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7323"
+    }
+  },
+  {
+    "id": "4d_0863",
+    "input": {
+      "text": "Cast Iron Bathtub"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7324"
+    }
+  },
+  {
+    "id": "4d_0864",
+    "input": {
+      "text": "Cast iron machine base"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7325"
+    }
+  },
+  {
+    "id": "4d_0865",
+    "input": {
+      "text": "Iron grinding balls"
+    },
+    "label": {
+      "hs2": "73",
+      "hs4": "7326"
+    }
+  },
+  {
+    "id": "4d_0866",
+    "input": {
+      "text": "Electro-deposited Copper"
+    },
+    "label": {
+      "hs2": "74",
+      "hs4": "7401"
+    }
+  },
+  {
+    "id": "4d_0867",
+    "input": {
+      "text": "Copper anode"
+    },
+    "label": {
+      "hs2": "74",
+      "hs4": "7402"
+    }
+  },
+  {
+    "id": "4d_0868",
+    "input": {
+      "text": "Refined copper"
+    },
+    "label": {
+      "hs2": "74",
+      "hs4": "7403"
+    }
+  },
+  {
+    "id": "4d_0869",
+    "input": {
+      "text": "Copper scrap"
+    },
+    "label": {
+      "hs2": "74",
+      "hs4": "7404"
+    }
+  },
+  {
+    "id": "4d_0870",
+    "input": {
+      "text": "Copper master alloy"
+    },
+    "label": {
+      "hs2": "74",
+      "hs4": "7405"
+    }
+  },
+  {
+    "id": "4d_0871",
+    "input": {
+      "text": "Copper powder"
+    },
+    "label": {
+      "hs2": "74",
+      "hs4": "7406"
+    }
+  },
+  {
+    "id": "4d_0872",
+    "input": {
+      "text": "Copper Rod"
+    },
+    "label": {
+      "hs2": "74",
+      "hs4": "7407"
+    }
+  },
+  {
+    "id": "4d_0873",
+    "input": {
+      "text": "Copper wire"
+    },
+    "label": {
+      "hs2": "74",
+      "hs4": "7408"
+    }
+  },
+  {
+    "id": "4d_0874",
+    "input": {
+      "text": "Copper sheet"
+    },
+    "label": {
+      "hs2": "74",
+      "hs4": "7409"
+    }
+  },
+  {
+    "id": "4d_0875",
+    "input": {
+      "text": "Copper foil"
+    },
+    "label": {
+      "hs2": "74",
+      "hs4": "7410"
+    }
+  },
+  {
+    "id": "4d_0876",
+    "input": {
+      "text": "Copper tube"
+    },
+    "label": {
+      "hs2": "74",
+      "hs4": "7411"
+    }
+  },
+  {
+    "id": "4d_0877",
+    "input": {
+      "text": "Copper elbow"
+    },
+    "label": {
+      "hs2": "74",
+      "hs4": "7412"
+    }
+  },
+  {
+    "id": "4d_0878",
+    "input": {
+      "text": "Copper stranded wire"
+    },
+    "label": {
+      "hs2": "74",
+      "hs4": "7413"
+    }
+  },
+  {
+    "id": "4d_0879",
+    "input": {
+      "text": "Copper nut"
+    },
+    "label": {
+      "hs2": "74",
+      "hs4": "7415"
+    }
+  },
+  {
+    "id": "4d_0880",
+    "input": {
+      "text": "Copper kettle"
+    },
+    "label": {
+      "hs2": "74",
+      "hs4": "7418"
+    }
+  },
+  {
+    "id": "4d_0881",
+    "input": {
+      "text": "Copper oil drum"
+    },
+    "label": {
+      "hs2": "74",
+      "hs4": "7419"
+    }
+  },
+  {
+    "id": "4d_0882",
+    "input": {
+      "text": "Nickel matte"
+    },
+    "label": {
+      "hs2": "75",
+      "hs4": "7501"
+    }
+  },
+  {
+    "id": "4d_0883",
+    "input": {
+      "text": "Nickel ingot"
+    },
+    "label": {
+      "hs2": "75",
+      "hs4": "7502"
+    }
+  },
+  {
+    "id": "4d_0884",
+    "input": {
+      "text": "Nickel waste"
+    },
+    "label": {
+      "hs2": "75",
+      "hs4": "7503"
+    }
+  },
+  {
+    "id": "4d_0885",
+    "input": {
+      "text": "Nickel powder"
+    },
+    "label": {
+      "hs2": "75",
+      "hs4": "7504"
+    }
+  },
+  {
+    "id": "4d_0886",
+    "input": {
+      "text": "Nickel bars"
+    },
+    "label": {
+      "hs2": "75",
+      "hs4": "7505"
+    }
+  },
+  {
+    "id": "4d_0887",
+    "input": {
+      "text": "Nickel plate"
+    },
+    "label": {
+      "hs2": "75",
+      "hs4": "7506"
+    }
+  },
+  {
+    "id": "4d_0888",
+    "input": {
+      "text": "Nickel elbow"
+    },
+    "label": {
+      "hs2": "75",
+      "hs4": "7507"
+    }
+  },
+  {
+    "id": "4d_0889",
+    "input": {
+      "text": "Nickel wire cloth"
+    },
+    "label": {
+      "hs2": "75",
+      "hs4": "7508"
+    }
+  },
+  {
+    "id": "4d_0890",
+    "input": {
+      "text": "Aluminum ingot"
+    },
+    "label": {
+      "hs2": "76",
+      "hs4": "7601"
+    }
+  },
+  {
+    "id": "4d_0891",
+    "input": {
+      "text": "Aluminum scrap"
+    },
+    "label": {
+      "hs2": "76",
+      "hs4": "7602"
+    }
+  },
+  {
+    "id": "4d_0892",
+    "input": {
+      "text": "Aluminum powder"
+    },
+    "label": {
+      "hs2": "76",
+      "hs4": "7603"
+    }
+  },
+  {
+    "id": "4d_0893",
+    "input": {
+      "text": "Aluminum profiles"
+    },
+    "label": {
+      "hs2": "76",
+      "hs4": "7604"
+    }
+  },
+  {
+    "id": "4d_0894",
+    "input": {
+      "text": "Aluminum wire"
+    },
+    "label": {
+      "hs2": "76",
+      "hs4": "7605"
+    }
+  },
+  {
+    "id": "4d_0895",
+    "input": {
+      "text": "Aluminum sheet"
+    },
+    "label": {
+      "hs2": "76",
+      "hs4": "7606"
+    }
+  },
+  {
+    "id": "4d_0896",
+    "input": {
+      "text": "Aluminum foil for food packaging"
+    },
+    "label": {
+      "hs2": "76",
+      "hs4": "7607"
+    }
+  },
+  {
+    "id": "4d_0897",
+    "input": {
+      "text": "Aluminum water pipe"
+    },
+    "label": {
+      "hs2": "76",
+      "hs4": "7608"
+    }
+  },
+  {
+    "id": "4d_0898",
+    "input": {
+      "text": "Aluminum pipe fitting"
+    },
+    "label": {
+      "hs2": "76",
+      "hs4": "7609"
+    }
+  },
+  {
+    "id": "4d_0899",
+    "input": {
+      "text": "Aluminum roof frame"
+    },
+    "label": {
+      "hs2": "76",
+      "hs4": "7610"
+    }
+  },
+  {
+    "id": "4d_0900",
+    "input": {
+      "text": "Aluminum storage tank"
+    },
+    "label": {
+      "hs2": "76",
+      "hs4": "7611"
+    }
+  },
+  {
+    "id": "4d_0901",
+    "input": {
+      "text": "Aluminum beverage keg"
+    },
+    "label": {
+      "hs2": "76",
+      "hs4": "7612"
+    }
+  },
+  {
+    "id": "4d_0902",
+    "input": {
+      "text": "Aluminum gas cylinder"
+    },
+    "label": {
+      "hs2": "76",
+      "hs4": "7613"
+    }
+  },
+  {
+    "id": "4d_0903",
+    "input": {
+      "text": "Aluminum stranded wire"
+    },
+    "label": {
+      "hs2": "76",
+      "hs4": "7614"
+    }
+  },
+  {
+    "id": "4d_0904",
+    "input": {
+      "text": "Aluminum cookware"
+    },
+    "label": {
+      "hs2": "76",
+      "hs4": "7615"
+    }
+  },
+  {
+    "id": "4d_0905",
+    "input": {
+      "text": "Aluminum nails"
+    },
+    "label": {
+      "hs2": "76",
+      "hs4": "7616"
+    }
+  },
+  {
+    "id": "4d_0906",
+    "input": {
+      "text": "Lead ingot"
+    },
+    "label": {
+      "hs2": "78",
+      "hs4": "7801"
+    }
+  },
+  {
+    "id": "4d_0907",
+    "input": {
+      "text": "Lead scrap"
+    },
+    "label": {
+      "hs2": "78",
+      "hs4": "7802"
+    }
+  },
+  {
+    "id": "4d_0908",
+    "input": {
+      "text": "Lead sheet"
+    },
+    "label": {
+      "hs2": "78",
+      "hs4": "7804"
+    }
+  },
+  {
+    "id": "4d_0909",
+    "input": {
+      "text": "Lead sinkers for fishing nets"
+    },
+    "label": {
+      "hs2": "78",
+      "hs4": "7806"
+    }
+  },
+  {
+    "id": "4d_0910",
+    "input": {
+      "text": "Zinc Ingot"
+    },
+    "label": {
+      "hs2": "79",
+      "hs4": "7901"
+    }
+  },
+  {
+    "id": "4d_0911",
+    "input": {
+      "text": "Zinc scrap"
+    },
+    "label": {
+      "hs2": "79",
+      "hs4": "7902"
+    }
+  },
+  {
+    "id": "4d_0912",
+    "input": {
+      "text": "Zinc powder"
+    },
+    "label": {
+      "hs2": "79",
+      "hs4": "7903"
+    }
+  },
+  {
+    "id": "4d_0913",
+    "input": {
+      "text": "Zinc Rod"
+    },
+    "label": {
+      "hs2": "79",
+      "hs4": "7904"
+    }
+  },
+  {
+    "id": "4d_0914",
+    "input": {
+      "text": "Zinc sheet"
+    },
+    "label": {
+      "hs2": "79",
+      "hs4": "7905"
+    }
+  },
+  {
+    "id": "4d_0915",
+    "input": {
+      "text": "Zinc Nail"
+    },
+    "label": {
+      "hs2": "79",
+      "hs4": "7907"
+    }
+  },
+  {
+    "id": "4d_0916",
+    "input": {
+      "text": "Tin Ingot"
+    },
+    "label": {
+      "hs2": "80",
+      "hs4": "8001"
+    }
+  },
+  {
+    "id": "4d_0917",
+    "input": {
+      "text": "Tin dross"
+    },
+    "label": {
+      "hs2": "80",
+      "hs4": "8002"
+    }
+  },
+  {
+    "id": "4d_0918",
+    "input": {
+      "text": "Tin bar"
+    },
+    "label": {
+      "hs2": "80",
+      "hs4": "8003"
+    }
+  },
+  {
+    "id": "4d_0919",
+    "input": {
+      "text": "Tin pot"
+    },
+    "label": {
+      "hs2": "80",
+      "hs4": "8007"
+    }
+  },
+  {
+    "id": "4d_0920",
+    "input": {
+      "text": "Tungsten steel"
+    },
+    "label": {
+      "hs2": "81",
+      "hs4": "8101"
+    }
+  },
+  {
+    "id": "4d_0921",
+    "input": {
+      "text": "Molybdenum Rod"
+    },
+    "label": {
+      "hs2": "81",
+      "hs4": "8102"
+    }
+  },
+  {
+    "id": "4d_0922",
+    "input": {
+      "text": "Tantalum Metal"
+    },
+    "label": {
+      "hs2": "81",
+      "hs4": "8103"
+    }
+  },
+  {
+    "id": "4d_0923",
+    "input": {
+      "text": "Magnesium ingot"
+    },
+    "label": {
+      "hs2": "81",
+      "hs4": "8104"
+    }
+  },
+  {
+    "id": "4d_0924",
+    "input": {
+      "text": "Cobalt matte"
+    },
+    "label": {
+      "hs2": "81",
+      "hs4": "8105"
+    }
+  },
+  {
+    "id": "4d_0925",
+    "input": {
+      "text": "Bismuth Ingot"
+    },
+    "label": {
+      "hs2": "81",
+      "hs4": "8106"
+    }
+  },
+  {
+    "id": "4d_0926",
+    "input": {
+      "text": "Titanium alloy plate"
+    },
+    "label": {
+      "hs2": "81",
+      "hs4": "8108"
+    }
+  },
+  {
+    "id": "4d_0927",
+    "input": {
+      "text": "Zirconium Ingot"
+    },
+    "label": {
+      "hs2": "81",
+      "hs4": "8109"
+    }
+  },
+  {
+    "id": "4d_0928",
+    "input": {
+      "text": "Antimony Ingot"
+    },
+    "label": {
+      "hs2": "81",
+      "hs4": "8110"
+    }
+  },
+  {
+    "id": "4d_0929",
+    "input": {
+      "text": "Manganese ingot"
+    },
+    "label": {
+      "hs2": "81",
+      "hs4": "8111"
+    }
+  },
+  {
+    "id": "4d_0930",
+    "input": {
+      "text": "Gallium Metal"
+    },
+    "label": {
+      "hs2": "81",
+      "hs4": "8112"
+    }
+  },
+  {
+    "id": "4d_0931",
+    "input": {
+      "text": "Cermet"
+    },
+    "label": {
+      "hs2": "81",
+      "hs4": "8113"
+    }
+  },
+  {
+    "id": "4d_0932",
+    "input": {
+      "text": "Shovel"
+    },
+    "label": {
+      "hs2": "82",
+      "hs4": "8201"
+    }
+  },
+  {
+    "id": "4d_0933",
+    "input": {
+      "text": "Hand saw"
+    },
+    "label": {
+      "hs2": "82",
+      "hs4": "8202"
+    }
+  },
+  {
+    "id": "4d_0934",
+    "input": {
+      "text": "Pliers"
+    },
+    "label": {
+      "hs2": "82",
+      "hs4": "8203"
+    }
+  },
+  {
+    "id": "4d_0935",
+    "input": {
+      "text": "Manual Wrench"
+    },
+    "label": {
+      "hs2": "82",
+      "hs4": "8204"
+    }
+  },
+  {
+    "id": "4d_0936",
+    "input": {
+      "text": "Iron bench vise"
+    },
+    "label": {
+      "hs2": "82",
+      "hs4": "8205"
+    }
+  },
+  {
+    "id": "4d_0937",
+    "input": {
+      "text": "Hand Tool Set"
+    },
+    "label": {
+      "hs2": "82",
+      "hs4": "8206"
+    }
+  },
+  {
+    "id": "4d_0938",
+    "input": {
+      "text": "Tungsten Carbide Drill Bit"
+    },
+    "label": {
+      "hs2": "82",
+      "hs4": "8207"
+    }
+  },
+  {
+    "id": "4d_0939",
+    "input": {
+      "text": "Cutting Blade"
+    },
+    "label": {
+      "hs2": "82",
+      "hs4": "8208"
+    }
+  },
+  {
+    "id": "4d_0940",
+    "input": {
+      "text": "Cermet cutter head"
+    },
+    "label": {
+      "hs2": "82",
+      "hs4": "8209"
+    }
+  },
+  {
+    "id": "4d_0941",
+    "input": {
+      "text": "Stainless Steel Hand Whisk"
+    },
+    "label": {
+      "hs2": "82",
+      "hs4": "8210"
+    }
+  },
+  {
+    "id": "4d_0942",
+    "input": {
+      "text": "Folding knife"
+    },
+    "label": {
+      "hs2": "82",
+      "hs4": "8211"
+    }
+  },
+  {
+    "id": "4d_0943",
+    "input": {
+      "text": "Razor"
+    },
+    "label": {
+      "hs2": "82",
+      "hs4": "8212"
+    }
+  },
+  {
+    "id": "4d_0944",
+    "input": {
+      "text": "Tailor's scissors"
+    },
+    "label": {
+      "hs2": "82",
+      "hs4": "8213"
+    }
+  },
+  {
+    "id": "4d_0945",
+    "input": {
+      "text": "Butcher Knife"
+    },
+    "label": {
+      "hs2": "82",
+      "hs4": "8214"
+    }
+  },
+  {
+    "id": "4d_0946",
+    "input": {
+      "text": "Stainless steel table fork for kitchen use"
+    },
+    "label": {
+      "hs2": "82",
+      "hs4": "8215"
+    }
+  },
+  {
+    "id": "4d_0947",
+    "input": {
+      "text": "Iron lock"
+    },
+    "label": {
+      "hs2": "83",
+      "hs4": "8301"
+    }
+  },
+  {
+    "id": "4d_0948",
+    "input": {
+      "text": "Metal Hinge"
+    },
+    "label": {
+      "hs2": "83",
+      "hs4": "8302"
+    }
+  },
+  {
+    "id": "4d_0949",
+    "input": {
+      "text": "Bulletproof Safe"
+    },
+    "label": {
+      "hs2": "83",
+      "hs4": "8303"
+    }
+  },
+  {
+    "id": "4d_0950",
+    "input": {
+      "text": "Stainless Steel Seal Holder"
+    },
+    "label": {
+      "hs2": "83",
+      "hs4": "8304"
+    }
+  },
+  {
+    "id": "4d_0951",
+    "input": {
+      "text": "Metal fasteners for ring binders"
+    },
+    "label": {
+      "hs2": "83",
+      "hs4": "8305"
+    }
+  },
+  {
+    "id": "4d_0952",
+    "input": {
+      "text": "Base-metal bells"
+    },
+    "label": {
+      "hs2": "83",
+      "hs4": "8306"
+    }
+  },
+  {
+    "id": "4d_0953",
+    "input": {
+      "text": "Stainless steel hose"
+    },
+    "label": {
+      "hs2": "83",
+      "hs4": "8307"
+    }
+  },
+  {
+    "id": "4d_0954",
+    "input": {
+      "text": "Metal button for clothing"
+    },
+    "label": {
+      "hs2": "83",
+      "hs4": "8308"
+    }
+  },
+  {
+    "id": "4d_0955",
+    "input": {
+      "text": "Stainless Steel Plug"
+    },
+    "label": {
+      "hs2": "83",
+      "hs4": "8309"
+    }
+  },
+  {
+    "id": "4d_0956",
+    "input": {
+      "text": "Metal nameplate"
+    },
+    "label": {
+      "hs2": "83",
+      "hs4": "8310"
+    }
+  },
+  {
+    "id": "4d_0957",
+    "input": {
+      "text": "Flux-coated welding electrode"
+    },
+    "label": {
+      "hs2": "83",
+      "hs4": "8311"
+    }
+  },
+  {
+    "id": "4d_0958",
+    "input": {
+      "text": "Nuclear reactor"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8401"
+    }
+  },
+  {
+    "id": "4d_0959",
+    "input": {
+      "text": "Steam boiler"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8402"
+    }
+  },
+  {
+    "id": "4d_0960",
+    "input": {
+      "text": "Gas-fired hot water boiler"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8403"
+    }
+  },
+  {
+    "id": "4d_0961",
+    "input": {
+      "text": "Condenser for boilers"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8404"
+    }
+  },
+  {
+    "id": "4d_0962",
+    "input": {
+      "text": "Gas Generator"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8405"
+    }
+  },
+  {
+    "id": "4d_0963",
+    "input": {
+      "text": "Steam turbine"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8406"
+    }
+  },
+  {
+    "id": "4d_0964",
+    "input": {
+      "text": "Automobile Engine"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8407"
+    }
+  },
+  {
+    "id": "4d_0965",
+    "input": {
+      "text": "Diesel engine"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8408"
+    }
+  },
+  {
+    "id": "4d_0966",
+    "input": {
+      "text": "Engine parts"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8409"
+    }
+  },
+  {
+    "id": "4d_0967",
+    "input": {
+      "text": "Hydraulic Turbine"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8410"
+    }
+  },
+  {
+    "id": "4d_0968",
+    "input": {
+      "text": "Turbojet Engine"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8411"
+    }
+  },
+  {
+    "id": "4d_0969",
+    "input": {
+      "text": "Hydraulic Cylinder"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8412"
+    }
+  },
+  {
+    "id": "4d_0970",
+    "input": {
+      "text": "Hydraulic Pump"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8413"
+    }
+  },
+  {
+    "id": "4d_0971",
+    "input": {
+      "text": "Air Compressor"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8414"
+    }
+  },
+  {
+    "id": "4d_0972",
+    "input": {
+      "text": "Air conditioner"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8415"
+    }
+  },
+  {
+    "id": "4d_0973",
+    "input": {
+      "text": "Gas Stove"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8416"
+    }
+  },
+  {
+    "id": "4d_0974",
+    "input": {
+      "text": "Industrial oven"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8417"
+    }
+  },
+  {
+    "id": "4d_0975",
+    "input": {
+      "text": "Refrigerator"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8418"
+    }
+  },
+  {
+    "id": "4d_0976",
+    "input": {
+      "text": "Laboratory freeze-drying equipment"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8419"
+    }
+  },
+  {
+    "id": "4d_0977",
+    "input": {
+      "text": "Calender"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8420"
+    }
+  },
+  {
+    "id": "4d_0978",
+    "input": {
+      "text": "Centrifuge"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8421"
+    }
+  },
+  {
+    "id": "4d_0979",
+    "input": {
+      "text": "Dishwasher"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8422"
+    }
+  },
+  {
+    "id": "4d_0980",
+    "input": {
+      "text": "Electronic Scale"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8423"
+    }
+  },
+  {
+    "id": "4d_0981",
+    "input": {
+      "text": "Spray gun"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8424"
+    }
+  },
+  {
+    "id": "4d_0982",
+    "input": {
+      "text": "Winch"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8425"
+    }
+  },
+  {
+    "id": "4d_0983",
+    "input": {
+      "text": "Marine crane"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8426"
+    }
+  },
+  {
+    "id": "4d_0984",
+    "input": {
+      "text": "Forklift"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8427"
+    }
+  },
+  {
+    "id": "4d_0985",
+    "input": {
+      "text": "Lift"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8428"
+    }
+  },
+  {
+    "id": "4d_0986",
+    "input": {
+      "text": "Excavator"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8429"
+    }
+  },
+  {
+    "id": "4d_0987",
+    "input": {
+      "text": "Pile driver"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8430"
+    }
+  },
+  {
+    "id": "4d_0988",
+    "input": {
+      "text": "Jack cylinder"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8431"
+    }
+  },
+  {
+    "id": "4d_0989",
+    "input": {
+      "text": "Seeder"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8432"
+    }
+  },
+  {
+    "id": "4d_0990",
+    "input": {
+      "text": "Lawn Mower"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8433"
+    }
+  },
+  {
+    "id": "4d_0991",
+    "input": {
+      "text": "Milking Machine"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8434"
+    }
+  },
+  {
+    "id": "4d_0992",
+    "input": {
+      "text": "Fruit Juice Press"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8435"
+    }
+  },
+  {
+    "id": "4d_0993",
+    "input": {
+      "text": "Forestry Branch Chipper"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8436"
+    }
+  },
+  {
+    "id": "4d_0994",
+    "input": {
+      "text": "Grain Sorter"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8437"
+    }
+  },
+  {
+    "id": "4d_0995",
+    "input": {
+      "text": "Candy Mixer"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8438"
+    }
+  },
+  {
+    "id": "4d_0996",
+    "input": {
+      "text": "Pulp Pulper"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8439"
+    }
+  },
+  {
+    "id": "4d_0997",
+    "input": {
+      "text": "Binding Machine"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8440"
+    }
+  },
+  {
+    "id": "4d_0998",
+    "input": {
+      "text": "Paper Cutter"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8441"
+    }
+  },
+  {
+    "id": "4d_0999",
+    "input": {
+      "text": "Printing press cylinder"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8442"
+    }
+  },
+  {
+    "id": "4d_1000",
+    "input": {
+      "text": "Inkjet Printer"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8443"
+    }
+  },
+  {
+    "id": "4d_1001",
+    "input": {
+      "text": "Extrusion machines for man-made textile fibres"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8444"
+    }
+  },
+  {
+    "id": "4d_1002",
+    "input": {
+      "text": "Spinning frame"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8445"
+    }
+  },
+  {
+    "id": "4d_1003",
+    "input": {
+      "text": "Loom"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8446"
+    }
+  },
+  {
+    "id": "4d_1004",
+    "input": {
+      "text": "Stitch-bonding machine"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8447"
+    }
+  },
+  {
+    "id": "4d_1005",
+    "input": {
+      "text": "Jacquard Machine"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8448"
+    }
+  },
+  {
+    "id": "4d_1006",
+    "input": {
+      "text": "Felt-making machine"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8449"
+    }
+  },
+  {
+    "id": "4d_1007",
+    "input": {
+      "text": "Household Washing Machine"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8450"
+    }
+  },
+  {
+    "id": "4d_1008",
+    "input": {
+      "text": "Textile Washing Machine"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8451"
+    }
+  },
+  {
+    "id": "4d_1009",
+    "input": {
+      "text": "Sewing machine"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8452"
+    }
+  },
+  {
+    "id": "4d_1010",
+    "input": {
+      "text": "Leather tanning machine"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8453"
+    }
+  },
+  {
+    "id": "4d_1011",
+    "input": {
+      "text": "Metal Ingot Molding Machine"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8454"
+    }
+  },
+  {
+    "id": "4d_1012",
+    "input": {
+      "text": "Rolling mill"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8455"
+    }
+  },
+  {
+    "id": "4d_1013",
+    "input": {
+      "text": "Laser Cutting Machine"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8456"
+    }
+  },
+  {
+    "id": "4d_1014",
+    "input": {
+      "text": "CNC Machining Center"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8457"
+    }
+  },
+  {
+    "id": "4d_1015",
+    "input": {
+      "text": "CNC Lathe"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8458"
+    }
+  },
+  {
+    "id": "4d_1016",
+    "input": {
+      "text": "Milling machine"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8459"
+    }
+  },
+  {
+    "id": "4d_1017",
+    "input": {
+      "text": "Grinding machine"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8460"
+    }
+  },
+  {
+    "id": "4d_1018",
+    "input": {
+      "text": "Shaper"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8461"
+    }
+  },
+  {
+    "id": "4d_1019",
+    "input": {
+      "text": "Hydraulic Press"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8462"
+    }
+  },
+  {
+    "id": "4d_1020",
+    "input": {
+      "text": "Thread rolling machine"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8463"
+    }
+  },
+  {
+    "id": "4d_1021",
+    "input": {
+      "text": "Glass Cutting Machine"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8464"
+    }
+  },
+  {
+    "id": "4d_1022",
+    "input": {
+      "text": "Wood Engraving Machine"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8465"
+    }
+  },
+  {
+    "id": "4d_1023",
+    "input": {
+      "text": "Machine Tool Fixture"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8466"
+    }
+  },
+  {
+    "id": "4d_1024",
+    "input": {
+      "text": "Cordless Drill"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8467"
+    }
+  },
+  {
+    "id": "4d_1025",
+    "input": {
+      "text": "Welding Machine"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8468"
+    }
+  },
+  {
+    "id": "4d_1026",
+    "input": {
+      "text": "Ticket Vending Machine"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8470"
+    }
+  },
+  {
+    "id": "4d_1027",
+    "input": {
+      "text": "Laptop computer"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8471"
+    }
+  },
+  {
+    "id": "4d_1028",
+    "input": {
+      "text": "Copier"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8472"
+    }
+  },
+  {
+    "id": "4d_1029",
+    "input": {
+      "text": "Automatic Spacing Device for Accounting Computers"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8473"
+    }
+  },
+  {
+    "id": "4d_1030",
+    "input": {
+      "text": "Crusher"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8474"
+    }
+  },
+  {
+    "id": "4d_1031",
+    "input": {
+      "text": "Bulb Encapsulating Machine"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8475"
+    }
+  },
+  {
+    "id": "4d_1032",
+    "input": {
+      "text": "Vending Machine"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8476"
+    }
+  },
+  {
+    "id": "4d_1033",
+    "input": {
+      "text": "Plastic Injection Molding Machine"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8477"
+    }
+  },
+  {
+    "id": "4d_1034",
+    "input": {
+      "text": "Tobacco cutting machine"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8478"
+    }
+  },
+  {
+    "id": "4d_1035",
+    "input": {
+      "text": "Universal Industrial Robot"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8479"
+    }
+  },
+  {
+    "id": "4d_1036",
+    "input": {
+      "text": "Die-casting mold"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8480"
+    }
+  },
+  {
+    "id": "4d_1037",
+    "input": {
+      "text": "Pressure Regulator"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8481"
+    }
+  },
+  {
+    "id": "4d_1038",
+    "input": {
+      "text": "Rolling bearings"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8482"
+    }
+  },
+  {
+    "id": "4d_1039",
+    "input": {
+      "text": "Transmission Shaft Assembly"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8483"
+    }
+  },
+  {
+    "id": "4d_1040",
+    "input": {
+      "text": "Rotary Shaft Seal"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8484"
+    }
+  },
+  {
+    "id": "4d_1041",
+    "input": {
+      "text": "3D Printer"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8485"
+    }
+  },
+  {
+    "id": "4d_1042",
+    "input": {
+      "text": "Semiconductor manufacturing equipment"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8486"
+    }
+  },
+  {
+    "id": "4d_1043",
+    "input": {
+      "text": "Mechanical Stop Block"
+    },
+    "label": {
+      "hs2": "84",
+      "hs4": "8487"
+    }
+  },
+  {
+    "id": "4d_1044",
+    "input": {
+      "text": "Electric motor"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8501"
+    }
+  },
+  {
+    "id": "4d_1045",
+    "input": {
+      "text": "Generator Set"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8502"
+    }
+  },
+  {
+    "id": "4d_1046",
+    "input": {
+      "text": "Excitation coil"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8503"
+    }
+  },
+  {
+    "id": "4d_1047",
+    "input": {
+      "text": "Transformer"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8504"
+    }
+  },
+  {
+    "id": "4d_1048",
+    "input": {
+      "text": "Electromagnet"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8505"
+    }
+  },
+  {
+    "id": "4d_1049",
+    "input": {
+      "text": "Button cell battery"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8506"
+    }
+  },
+  {
+    "id": "4d_1050",
+    "input": {
+      "text": "Lead-acid battery for automobiles"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8507"
+    }
+  },
+  {
+    "id": "4d_1051",
+    "input": {
+      "text": "Vacuum Cleaner"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8508"
+    }
+  },
+  {
+    "id": "4d_1052",
+    "input": {
+      "text": "Juicer"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8509"
+    }
+  },
+  {
+    "id": "4d_1053",
+    "input": {
+      "text": "Electric shaver"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8510"
+    }
+  },
+  {
+    "id": "4d_1054",
+    "input": {
+      "text": "Spark plug"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8511"
+    }
+  },
+  {
+    "id": "4d_1055",
+    "input": {
+      "text": "Vehicle Lamp"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8512"
+    }
+  },
+  {
+    "id": "4d_1056",
+    "input": {
+      "text": "Flashlight"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8513"
+    }
+  },
+  {
+    "id": "4d_1057",
+    "input": {
+      "text": "Electric Constant-Temperature Incubator"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8514"
+    }
+  },
+  {
+    "id": "4d_1058",
+    "input": {
+      "text": "Laser Welding Machine"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8515"
+    }
+  },
+  {
+    "id": "4d_1059",
+    "input": {
+      "text": "Hair Dryer"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8516"
+    }
+  },
+  {
+    "id": "4d_1060",
+    "input": {
+      "text": "Smartphone"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8517"
+    }
+  },
+  {
+    "id": "4d_1061",
+    "input": {
+      "text": "Microphone"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8518"
+    }
+  },
+  {
+    "id": "4d_1062",
+    "input": {
+      "text": "Voice Recorder"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8519"
+    }
+  },
+  {
+    "id": "4d_1063",
+    "input": {
+      "text": "Video Recorder"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8521"
+    }
+  },
+  {
+    "id": "4d_1064",
+    "input": {
+      "text": "Laser Pickup Assembly"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8522"
+    }
+  },
+  {
+    "id": "4d_1065",
+    "input": {
+      "text": "Magnetic Tape"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8523"
+    }
+  },
+  {
+    "id": "4d_1066",
+    "input": {
+      "text": "Electronic Flat Panel Display"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8524"
+    }
+  },
+  {
+    "id": "4d_1067",
+    "input": {
+      "text": "Car Dash Cam"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8525"
+    }
+  },
+  {
+    "id": "4d_1068",
+    "input": {
+      "text": "Radar equipment"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8526"
+    }
+  },
+  {
+    "id": "4d_1069",
+    "input": {
+      "text": "Radio"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8527"
+    }
+  },
+  {
+    "id": "4d_1070",
+    "input": {
+      "text": "Monitor"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8528"
+    }
+  },
+  {
+    "id": "4d_1071",
+    "input": {
+      "text": "TV Antenna"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8529"
+    }
+  },
+  {
+    "id": "4d_1072",
+    "input": {
+      "text": "Traffic Signal Light"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8530"
+    }
+  },
+  {
+    "id": "4d_1073",
+    "input": {
+      "text": "Electric bell"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8531"
+    }
+  },
+  {
+    "id": "4d_1074",
+    "input": {
+      "text": "Electrolytic capacitor"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8532"
+    }
+  },
+  {
+    "id": "4d_1075",
+    "input": {
+      "text": "Potentiometer"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8533"
+    }
+  },
+  {
+    "id": "4d_1076",
+    "input": {
+      "text": "Circuit board"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8534"
+    }
+  },
+  {
+    "id": "4d_1077",
+    "input": {
+      "text": "High-voltage circuit breaker"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8535"
+    }
+  },
+  {
+    "id": "4d_1078",
+    "input": {
+      "text": "Air Circuit Breaker"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8536"
+    }
+  },
+  {
+    "id": "4d_1079",
+    "input": {
+      "text": "Distribution Cabinet"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8537"
+    }
+  },
+  {
+    "id": "4d_1080",
+    "input": {
+      "text": "Socket housing"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8538"
+    }
+  },
+  {
+    "id": "4d_1081",
+    "input": {
+      "text": "Incandescent bulb"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8539"
+    }
+  },
+  {
+    "id": "4d_1082",
+    "input": {
+      "text": "Vacuum tube"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8540"
+    }
+  },
+  {
+    "id": "4d_1083",
+    "input": {
+      "text": "Diode"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8541"
+    }
+  },
+  {
+    "id": "4d_1084",
+    "input": {
+      "text": "CPU"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8542"
+    }
+  },
+  {
+    "id": "4d_1085",
+    "input": {
+      "text": "Particle Accelerator"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8543"
+    }
+  },
+  {
+    "id": "4d_1086",
+    "input": {
+      "text": "Enamelled wire"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8544"
+    }
+  },
+  {
+    "id": "4d_1087",
+    "input": {
+      "text": "Carbon brush"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8545"
+    }
+  },
+  {
+    "id": "4d_1088",
+    "input": {
+      "text": "Insulator"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8546"
+    }
+  },
+  {
+    "id": "4d_1089",
+    "input": {
+      "text": "Electrical insulating sleeve"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8547"
+    }
+  },
+  {
+    "id": "4d_1090",
+    "input": {
+      "text": "EMI Filter"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8548"
+    }
+  },
+  {
+    "id": "4d_1091",
+    "input": {
+      "text": "Used Mobile Phones"
+    },
+    "label": {
+      "hs2": "85",
+      "hs4": "8549"
+    }
+  },
+  {
+    "id": "4d_1092",
+    "input": {
+      "text": "Electric Locomotive"
+    },
+    "label": {
+      "hs2": "86",
+      "hs4": "8601"
+    }
+  },
+  {
+    "id": "4d_1093",
+    "input": {
+      "text": "Steam locomotive"
+    },
+    "label": {
+      "hs2": "86",
+      "hs4": "8602"
+    }
+  },
+  {
+    "id": "4d_1094",
+    "input": {
+      "text": "Tramway passenger coach"
+    },
+    "label": {
+      "hs2": "86",
+      "hs4": "8603"
+    }
+  },
+  {
+    "id": "4d_1095",
+    "input": {
+      "text": "Track inspection vehicle"
+    },
+    "label": {
+      "hs2": "86",
+      "hs4": "8604"
+    }
+  },
+  {
+    "id": "4d_1096",
+    "input": {
+      "text": "Railway passenger coach"
+    },
+    "label": {
+      "hs2": "86",
+      "hs4": "8605"
+    }
+  },
+  {
+    "id": "4d_1097",
+    "input": {
+      "text": "Railway freight wagon"
+    },
+    "label": {
+      "hs2": "86",
+      "hs4": "8606"
+    }
+  },
+  {
+    "id": "4d_1098",
+    "input": {
+      "text": "Brake system components for rail vehicles"
+    },
+    "label": {
+      "hs2": "86",
+      "hs4": "8607"
+    }
+  },
+  {
+    "id": "4d_1099",
+    "input": {
+      "text": "Railway Track Clamp"
+    },
+    "label": {
+      "hs2": "86",
+      "hs4": "8608"
+    }
+  },
+  {
+    "id": "4d_1100",
+    "input": {
+      "text": "Container"
+    },
+    "label": {
+      "hs2": "86",
+      "hs4": "8609"
+    }
+  },
+  {
+    "id": "4d_1101",
+    "input": {
+      "text": "Tractor"
+    },
+    "label": {
+      "hs2": "87",
+      "hs4": "8701"
+    }
+  },
+  {
+    "id": "4d_1102",
+    "input": {
+      "text": "Bus"
+    },
+    "label": {
+      "hs2": "87",
+      "hs4": "8702"
+    }
+  },
+  {
+    "id": "4d_1103",
+    "input": {
+      "text": "Passenger Car"
+    },
+    "label": {
+      "hs2": "87",
+      "hs4": "8703"
+    }
+  },
+  {
+    "id": "4d_1104",
+    "input": {
+      "text": "Truck"
+    },
+    "label": {
+      "hs2": "87",
+      "hs4": "8704"
+    }
+  },
+  {
+    "id": "4d_1105",
+    "input": {
+      "text": "Emergency Repair Vehicle"
+    },
+    "label": {
+      "hs2": "87",
+      "hs4": "8705"
+    }
+  },
+  {
+    "id": "4d_1106",
+    "input": {
+      "text": "Truck chassis"
+    },
+    "label": {
+      "hs2": "87",
+      "hs4": "8706"
+    }
+  },
+  {
+    "id": "4d_1107",
+    "input": {
+      "text": "Bus body"
+    },
+    "label": {
+      "hs2": "87",
+      "hs4": "8707"
+    }
+  },
+  {
+    "id": "4d_1108",
+    "input": {
+      "text": "Vehicle seat belt"
+    },
+    "label": {
+      "hs2": "87",
+      "hs4": "8708"
+    }
+  },
+  {
+    "id": "4d_1109",
+    "input": {
+      "text": "Platform Tractor"
+    },
+    "label": {
+      "hs2": "87",
+      "hs4": "8709"
+    }
+  },
+  {
+    "id": "4d_1110",
+    "input": {
+      "text": "Tank"
+    },
+    "label": {
+      "hs2": "87",
+      "hs4": "8710"
+    }
+  },
+  {
+    "id": "4d_1111",
+    "input": {
+      "text": "Motorcycle"
+    },
+    "label": {
+      "hs2": "87",
+      "hs4": "8711"
+    }
+  },
+  {
+    "id": "4d_1112",
+    "input": {
+      "text": "Mountain Bike"
+    },
+    "label": {
+      "hs2": "87",
+      "hs4": "8712"
+    }
+  },
+  {
+    "id": "4d_1113",
+    "input": {
+      "text": "Wheelchair"
+    },
+    "label": {
+      "hs2": "87",
+      "hs4": "8713"
+    }
+  },
+  {
+    "id": "4d_1114",
+    "input": {
+      "text": "Motorcycle Footrest"
+    },
+    "label": {
+      "hs2": "87",
+      "hs4": "8714"
+    }
+  },
+  {
+    "id": "4d_1115",
+    "input": {
+      "text": "Baby Stroller"
+    },
+    "label": {
+      "hs2": "87",
+      "hs4": "8715"
+    }
+  },
+  {
+    "id": "4d_1116",
+    "input": {
+      "text": "Semi-trailer"
+    },
+    "label": {
+      "hs2": "87",
+      "hs4": "8716"
+    }
+  },
+  {
+    "id": "4d_1117",
+    "input": {
+      "text": "Glider"
+    },
+    "label": {
+      "hs2": "88",
+      "hs4": "8801"
+    }
+  },
+  {
+    "id": "4d_1118",
+    "input": {
+      "text": "Helicopter"
+    },
+    "label": {
+      "hs2": "88",
+      "hs4": "8802"
+    }
+  },
+  {
+    "id": "4d_1119",
+    "input": {
+      "text": "Paraglider"
+    },
+    "label": {
+      "hs2": "88",
+      "hs4": "8804"
+    }
+  },
+  {
+    "id": "4d_1120",
+    "input": {
+      "text": "Aircraft catapult"
+    },
+    "label": {
+      "hs2": "88",
+      "hs4": "8805"
+    }
+  },
+  {
+    "id": "4d_1121",
+    "input": {
+      "text": "Unmanned Aerial Vehicle"
+    },
+    "label": {
+      "hs2": "88",
+      "hs4": "8806"
+    }
+  },
+  {
+    "id": "4d_1122",
+    "input": {
+      "text": "Aircraft parts"
+    },
+    "label": {
+      "hs2": "88",
+      "hs4": "8807"
+    }
+  },
+  {
+    "id": "4d_1123",
+    "input": {
+      "text": "Sightseeing Boat"
+    },
+    "label": {
+      "hs2": "89",
+      "hs4": "8901"
+    }
+  },
+  {
+    "id": "4d_1124",
+    "input": {
+      "text": "Fishing Vessel"
+    },
+    "label": {
+      "hs2": "89",
+      "hs4": "8902"
+    }
+  },
+  {
+    "id": "4d_1125",
+    "input": {
+      "text": "Recreational speedboat"
+    },
+    "label": {
+      "hs2": "89",
+      "hs4": "8903"
+    }
+  },
+  {
+    "id": "4d_1126",
+    "input": {
+      "text": "Tugboat"
+    },
+    "label": {
+      "hs2": "89",
+      "hs4": "8904"
+    }
+  },
+  {
+    "id": "4d_1127",
+    "input": {
+      "text": "Dredger"
+    },
+    "label": {
+      "hs2": "89",
+      "hs4": "8905"
+    }
+  },
+  {
+    "id": "4d_1128",
+    "input": {
+      "text": "Warship"
+    },
+    "label": {
+      "hs2": "89",
+      "hs4": "8906"
+    }
+  },
+  {
+    "id": "4d_1129",
+    "input": {
+      "text": "Floating pontoon"
+    },
+    "label": {
+      "hs2": "89",
+      "hs4": "8907"
+    }
+  },
+  {
+    "id": "4d_1130",
+    "input": {
+      "text": "Dismantling Barge"
+    },
+    "label": {
+      "hs2": "89",
+      "hs4": "8908"
+    }
+  },
+  {
+    "id": "4d_1131",
+    "input": {
+      "text": "Fiber optic bundle"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9001"
+    }
+  },
+  {
+    "id": "4d_1132",
+    "input": {
+      "text": "Optical Lens"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9002"
+    }
+  },
+  {
+    "id": "4d_1133",
+    "input": {
+      "text": "Spectacle frames"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9003"
+    }
+  },
+  {
+    "id": "4d_1134",
+    "input": {
+      "text": "Myopia spectacles"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9004"
+    }
+  },
+  {
+    "id": "4d_1135",
+    "input": {
+      "text": "Binoculars"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9005"
+    }
+  },
+  {
+    "id": "4d_1136",
+    "input": {
+      "text": "Digital Camera"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9006"
+    }
+  },
+  {
+    "id": "4d_1137",
+    "input": {
+      "text": "Cine-camera"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9007"
+    }
+  },
+  {
+    "id": "4d_1138",
+    "input": {
+      "text": "Slide projector"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9008"
+    }
+  },
+  {
+    "id": "4d_1139",
+    "input": {
+      "text": "Camera darkroom equipment"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9010"
+    }
+  },
+  {
+    "id": "4d_1140",
+    "input": {
+      "text": "Optical microscope"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9011"
+    }
+  },
+  {
+    "id": "4d_1141",
+    "input": {
+      "text": "Laboratory electron microscope"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9012"
+    }
+  },
+  {
+    "id": "4d_1142",
+    "input": {
+      "text": "Argon-ion laser"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9013"
+    }
+  },
+  {
+    "id": "4d_1143",
+    "input": {
+      "text": "Aircraft Compass"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9014"
+    }
+  },
+  {
+    "id": "4d_1144",
+    "input": {
+      "text": "Hydrological Monitor"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9015"
+    }
+  },
+  {
+    "id": "4d_1145",
+    "input": {
+      "text": "Precision Electronic Balance"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9016"
+    }
+  },
+  {
+    "id": "4d_1146",
+    "input": {
+      "text": "Vernier caliper"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9017"
+    }
+  },
+  {
+    "id": "4d_1147",
+    "input": {
+      "text": "Blood pressure monitor"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9018"
+    }
+  },
+  {
+    "id": "4d_1148",
+    "input": {
+      "text": "Invasive Ventilator"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9019"
+    }
+  },
+  {
+    "id": "4d_1149",
+    "input": {
+      "text": "Gas mask"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9020"
+    }
+  },
+  {
+    "id": "4d_1150",
+    "input": {
+      "text": "Brace"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9021"
+    }
+  },
+  {
+    "id": "4d_1151",
+    "input": {
+      "text": "Medical X-ray Machine"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9022"
+    }
+  },
+  {
+    "id": "4d_1152",
+    "input": {
+      "text": "Anatomical teaching model"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9023"
+    }
+  },
+  {
+    "id": "4d_1153",
+    "input": {
+      "text": "Hardness Tester"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9024"
+    }
+  },
+  {
+    "id": "4d_1154",
+    "input": {
+      "text": "Hygrometer"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9025"
+    }
+  },
+  {
+    "id": "4d_1155",
+    "input": {
+      "text": "Flow meter"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9026"
+    }
+  },
+  {
+    "id": "4d_1156",
+    "input": {
+      "text": "Refractometer"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9027"
+    }
+  },
+  {
+    "id": "4d_1157",
+    "input": {
+      "text": "Water Meter"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9028"
+    }
+  },
+  {
+    "id": "4d_1158",
+    "input": {
+      "text": "Tachometer"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9029"
+    }
+  },
+  {
+    "id": "4d_1159",
+    "input": {
+      "text": "Oscilloscope"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9030"
+    }
+  },
+  {
+    "id": "4d_1160",
+    "input": {
+      "text": "Measuring Instrument"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9031"
+    }
+  },
+  {
+    "id": "4d_1161",
+    "input": {
+      "text": "Thermostat"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9032"
+    }
+  },
+  {
+    "id": "4d_1162",
+    "input": {
+      "text": "Optical instrument accessories"
+    },
+    "label": {
+      "hs2": "90",
+      "hs4": "9033"
+    }
+  },
+  {
+    "id": "4d_1163",
+    "input": {
+      "text": "Gold Watch"
+    },
+    "label": {
+      "hs2": "91",
+      "hs4": "9101"
+    }
+  },
+  {
+    "id": "4d_1164",
+    "input": {
+      "text": "Digital watch"
+    },
+    "label": {
+      "hs2": "91",
+      "hs4": "9102"
+    }
+  },
+  {
+    "id": "4d_1165",
+    "input": {
+      "text": "Quartz Table Clock"
+    },
+    "label": {
+      "hs2": "91",
+      "hs4": "9103"
+    }
+  },
+  {
+    "id": "4d_1166",
+    "input": {
+      "text": "Car Clock"
+    },
+    "label": {
+      "hs2": "91",
+      "hs4": "9104"
+    }
+  },
+  {
+    "id": "4d_1167",
+    "input": {
+      "text": "Observatory Clock"
+    },
+    "label": {
+      "hs2": "91",
+      "hs4": "9105"
+    }
+  },
+  {
+    "id": "4d_1168",
+    "input": {
+      "text": "Time Clock"
+    },
+    "label": {
+      "hs2": "91",
+      "hs4": "9106"
+    }
+  },
+  {
+    "id": "4d_1169",
+    "input": {
+      "text": "Timer Switch"
+    },
+    "label": {
+      "hs2": "91",
+      "hs4": "9107"
+    }
+  },
+  {
+    "id": "4d_1170",
+    "input": {
+      "text": "Mechanical watch movement"
+    },
+    "label": {
+      "hs2": "91",
+      "hs4": "9108"
+    }
+  },
+  {
+    "id": "4d_1171",
+    "input": {
+      "text": "Quartz clock movement"
+    },
+    "label": {
+      "hs2": "91",
+      "hs4": "9109"
+    }
+  },
+  {
+    "id": "4d_1172",
+    "input": {
+      "text": "Watch movement kit"
+    },
+    "label": {
+      "hs2": "91",
+      "hs4": "9110"
+    }
+  },
+  {
+    "id": "4d_1173",
+    "input": {
+      "text": "Mechanical watch case"
+    },
+    "label": {
+      "hs2": "91",
+      "hs4": "9111"
+    }
+  },
+  {
+    "id": "4d_1174",
+    "input": {
+      "text": "Alarm clock case"
+    },
+    "label": {
+      "hs2": "91",
+      "hs4": "9112"
+    }
+  },
+  {
+    "id": "4d_1175",
+    "input": {
+      "text": "Watch strap"
+    },
+    "label": {
+      "hs2": "91",
+      "hs4": "9113"
+    }
+  },
+  {
+    "id": "4d_1176",
+    "input": {
+      "text": "Watch gear"
+    },
+    "label": {
+      "hs2": "91",
+      "hs4": "9114"
+    }
+  },
+  {
+    "id": "4d_1177",
+    "input": {
+      "text": "Piano"
+    },
+    "label": {
+      "hs2": "92",
+      "hs4": "9201"
+    }
+  },
+  {
+    "id": "4d_1178",
+    "input": {
+      "text": "Guitar"
+    },
+    "label": {
+      "hs2": "92",
+      "hs4": "9202"
+    }
+  },
+  {
+    "id": "4d_1179",
+    "input": {
+      "text": "Harmonica"
+    },
+    "label": {
+      "hs2": "92",
+      "hs4": "9205"
+    }
+  },
+  {
+    "id": "4d_1180",
+    "input": {
+      "text": "Drum"
+    },
+    "label": {
+      "hs2": "92",
+      "hs4": "9206"
+    }
+  },
+  {
+    "id": "4d_1181",
+    "input": {
+      "text": "Electric Guitar"
+    },
+    "label": {
+      "hs2": "92",
+      "hs4": "9207"
+    }
+  },
+  {
+    "id": "4d_1182",
+    "input": {
+      "text": "Hand-cranked organ"
+    },
+    "label": {
+      "hs2": "92",
+      "hs4": "9208"
+    }
+  },
+  {
+    "id": "4d_1183",
+    "input": {
+      "text": "Guitar strings"
+    },
+    "label": {
+      "hs2": "92",
+      "hs4": "9209"
+    }
+  },
+  {
+    "id": "4d_1184",
+    "input": {
+      "text": "Military Rifle"
+    },
+    "label": {
+      "hs2": "93",
+      "hs4": "9301"
+    }
+  },
+  {
+    "id": "4d_1185",
+    "input": {
+      "text": "Revolver"
+    },
+    "label": {
+      "hs2": "93",
+      "hs4": "9302"
+    }
+  },
+  {
+    "id": "4d_1186",
+    "input": {
+      "text": "Shotgun"
+    },
+    "label": {
+      "hs2": "93",
+      "hs4": "9303"
+    }
+  },
+  {
+    "id": "4d_1187",
+    "input": {
+      "text": "Air Pistol"
+    },
+    "label": {
+      "hs2": "93",
+      "hs4": "9304"
+    }
+  },
+  {
+    "id": "4d_1188",
+    "input": {
+      "text": "Pistol silencer"
+    },
+    "label": {
+      "hs2": "93",
+      "hs4": "9305"
+    }
+  },
+  {
+    "id": "4d_1189",
+    "input": {
+      "text": "Hand grenade"
+    },
+    "label": {
+      "hs2": "93",
+      "hs4": "9306"
+    }
+  },
+  {
+    "id": "4d_1190",
+    "input": {
+      "text": "Sheath"
+    },
+    "label": {
+      "hs2": "93",
+      "hs4": "9307"
+    }
+  },
+  {
+    "id": "4d_1191",
+    "input": {
+      "text": "Office Chair"
+    },
+    "label": {
+      "hs2": "94",
+      "hs4": "9401"
+    }
+  },
+  {
+    "id": "4d_1192",
+    "input": {
+      "text": "Operating Table"
+    },
+    "label": {
+      "hs2": "94",
+      "hs4": "9402"
+    }
+  },
+  {
+    "id": "4d_1193",
+    "input": {
+      "text": "Solid Wood Desk"
+    },
+    "label": {
+      "hs2": "94",
+      "hs4": "9403"
+    }
+  },
+  {
+    "id": "4d_1194",
+    "input": {
+      "text": "Spring Mattress"
+    },
+    "label": {
+      "hs2": "94",
+      "hs4": "9404"
+    }
+  },
+  {
+    "id": "4d_1195",
+    "input": {
+      "text": "Ceiling Light"
+    },
+    "label": {
+      "hs2": "94",
+      "hs4": "9405"
+    }
+  },
+  {
+    "id": "4d_1196",
+    "input": {
+      "text": "Temporary housing"
+    },
+    "label": {
+      "hs2": "94",
+      "hs4": "9406"
+    }
+  },
+  {
+    "id": "4d_1197",
+    "input": {
+      "text": "Children's Tricycle"
+    },
+    "label": {
+      "hs2": "95",
+      "hs4": "9503"
+    }
+  },
+  {
+    "id": "4d_1198",
+    "input": {
+      "text": "Playing cards"
+    },
+    "label": {
+      "hs2": "95",
+      "hs4": "9504"
+    }
+  },
+  {
+    "id": "4d_1199",
+    "input": {
+      "text": "Confetti Cannon"
+    },
+    "label": {
+      "hs2": "95",
+      "hs4": "9505"
+    }
+  },
+  {
+    "id": "4d_1200",
+    "input": {
+      "text": "Table tennis racket"
+    },
+    "label": {
+      "hs2": "95",
+      "hs4": "9506"
+    }
+  },
+  {
+    "id": "4d_1201",
+    "input": {
+      "text": "Fishing rod"
+    },
+    "label": {
+      "hs2": "95",
+      "hs4": "9507"
+    }
+  },
+  {
+    "id": "4d_1202",
+    "input": {
+      "text": "Traveling Circus"
+    },
+    "label": {
+      "hs2": "95",
+      "hs4": "9508"
+    }
+  },
+  {
+    "id": "4d_1203",
+    "input": {
+      "text": "Carved Antler Craft"
+    },
+    "label": {
+      "hs2": "96",
+      "hs4": "9601"
+    }
+  },
+  {
+    "id": "4d_1204",
+    "input": {
+      "text": "Wax Figure"
+    },
+    "label": {
+      "hs2": "96",
+      "hs4": "9602"
+    }
+  },
+  {
+    "id": "4d_1205",
+    "input": {
+      "text": "Brush"
+    },
+    "label": {
+      "hs2": "96",
+      "hs4": "9603"
+    }
+  },
+  {
+    "id": "4d_1206",
+    "input": {
+      "text": "Sieve"
+    },
+    "label": {
+      "hs2": "96",
+      "hs4": "9604"
+    }
+  },
+  {
+    "id": "4d_1207",
+    "input": {
+      "text": "Sewing Kit"
+    },
+    "label": {
+      "hs2": "96",
+      "hs4": "9605"
+    }
+  },
+  {
+    "id": "4d_1208",
+    "input": {
+      "text": "Buttons for garments"
+    },
+    "label": {
+      "hs2": "96",
+      "hs4": "9606"
+    }
+  },
+  {
+    "id": "4d_1209",
+    "input": {
+      "text": "Zipper"
+    },
+    "label": {
+      "hs2": "96",
+      "hs4": "9607"
+    }
+  },
+  {
+    "id": "4d_1210",
+    "input": {
+      "text": "Ballpoint pen"
+    },
+    "label": {
+      "hs2": "96",
+      "hs4": "9608"
+    }
+  },
+  {
+    "id": "4d_1211",
+    "input": {
+      "text": "Colored Pencils"
+    },
+    "label": {
+      "hs2": "96",
+      "hs4": "9609"
+    }
+  },
+  {
+    "id": "4d_1212",
+    "input": {
+      "text": "Blackboard"
+    },
+    "label": {
+      "hs2": "96",
+      "hs4": "9610"
+    }
+  },
+  {
+    "id": "4d_1213",
+    "input": {
+      "text": "Stamp"
+    },
+    "label": {
+      "hs2": "96",
+      "hs4": "9611"
+    }
+  },
+  {
+    "id": "4d_1214",
+    "input": {
+      "text": "Typewriter ribbon"
+    },
+    "label": {
+      "hs2": "96",
+      "hs4": "9612"
+    }
+  },
+  {
+    "id": "4d_1215",
+    "input": {
+      "text": "Portable Lighter"
+    },
+    "label": {
+      "hs2": "96",
+      "hs4": "9613"
+    }
+  },
+  {
+    "id": "4d_1216",
+    "input": {
+      "text": "Tobacco pipe"
+    },
+    "label": {
+      "hs2": "96",
+      "hs4": "9614"
+    }
+  },
+  {
+    "id": "4d_1217",
+    "input": {
+      "text": "Comb"
+    },
+    "label": {
+      "hs2": "96",
+      "hs4": "9615"
+    }
+  },
+  {
+    "id": "4d_1218",
+    "input": {
+      "text": "Perfume atomizer"
+    },
+    "label": {
+      "hs2": "96",
+      "hs4": "9616"
+    }
+  },
+  {
+    "id": "4d_1219",
+    "input": {
+      "text": "Vacuum Flask"
+    },
+    "label": {
+      "hs2": "96",
+      "hs4": "9617"
+    }
+  },
+  {
+    "id": "4d_1220",
+    "input": {
+      "text": "Dressmaker's mannequin"
+    },
+    "label": {
+      "hs2": "96",
+      "hs4": "9618"
+    }
+  },
+  {
+    "id": "4d_1221",
+    "input": {
+      "text": "Sanitary Napkins"
+    },
+    "label": {
+      "hs2": "96",
+      "hs4": "9619"
+    }
+  },
+  {
+    "id": "4d_1222",
+    "input": {
+      "text": "Tripod"
+    },
+    "label": {
+      "hs2": "96",
+      "hs4": "9620"
+    }
+  },
+  {
+    "id": "4d_1223",
+    "input": {
+      "text": "Oil painting"
+    },
+    "label": {
+      "hs2": "97",
+      "hs4": "9701"
+    }
+  },
+  {
+    "id": "4d_1224",
+    "input": {
+      "text": "Engraving"
+    },
+    "label": {
+      "hs2": "97",
+      "hs4": "9702"
+    }
+  },
+  {
+    "id": "4d_1225",
+    "input": {
+      "text": "Bronze sculpture"
+    },
+    "label": {
+      "hs2": "97",
+      "hs4": "9703"
+    }
+  },
+  {
+    "id": "4d_1226",
+    "input": {
+      "text": "First-day cover"
+    },
+    "label": {
+      "hs2": "97",
+      "hs4": "9704"
+    }
+  },
+  {
+    "id": "4d_1227",
+    "input": {
+      "text": "Antique Coins"
+    },
+    "label": {
+      "hs2": "97",
+      "hs4": "9705"
+    }
+  },
+  {
+    "id": "4d_1228",
+    "input": {
+      "text": "Antique clocks and watches"
+    },
+    "label": {
+      "hs2": "97",
+      "hs4": "9706"
+    }
+  },
+  {
+    "id": "4d_1229",
+    "input": {
+      "text": "Human remains"
+    },
+    "label": {
+      "hs2": "98",
+      "hs4": "9801"
+    }
+  },
+  {
+    "id": "4d_1230",
+    "input": {
+      "text": "US Dollar Banknotes"
+    },
+    "label": {
+      "hs2": "98",
+      "hs4": "9802"
+    }
+  },
+  {
+    "id": "4d_1231",
+    "input": {
+      "text": "Custom Software"
+    },
+    "label": {
+      "hs2": "98",
+      "hs4": "9803"
+    }
+  }
+]
