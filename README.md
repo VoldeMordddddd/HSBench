@@ -6,9 +6,7 @@ This repository is the official open-source companion to the paper:
 
 The paper has been accepted at **ACL 2026 main**.
 
-If you prefer Chinese, see the translated version:
-
-- [README.zh.md](README.zh.md)
+English / [中文](README.zh.md)
 
 ## Overview
 
